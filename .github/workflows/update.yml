@@ -1,0 +1,49 @@
+name: Update Metadata
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Maximum number of packages to process.
+        required: false
+        default: "100"
+
+concurrency: ci-${{ github.ref }}
+
+jobs:
+  update:
+    name: Update metadata
+    runs-on: ubuntu-latest
+    if: github.repository == 'sdispater/metadata-updater'
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          ref: ${{ github.ref }}
+      - name: Install poetry
+        run: pipx install poetry
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+          cache: "poetry"
+      - name: Cache requests
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cache/pypoetry/cache/repositories/PyPI/*
+            !~/.cache/pypoetry/cache/repositories/PyPI/_http
+          key: ${{ runner.os }}-package-cache-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-package-cache-
+
+      - run: poetry install
+      - run: poetry run updater update all --limit ${{ inputs.limit }} -vv
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: 'metadata/'
+          # From https://github.community/t/github-actions-bot-email-address/17204/5
+          # author_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          # author_name: "commit-bot"
+          message: "Data update from Github Actions"
+          push: true
+          fetch: false
