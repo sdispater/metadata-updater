@@ -85,9 +85,7 @@ class Updater:
             updated_packages = list(sorted(self._changelog.serials().keys()))
         else:
             current_serials = sorted(
-                self._changelog.serials().items(),
-                key=operator.itemgetter(1),
-                reverse=True,
+                self._changelog.serials().items(), key=operator.itemgetter(1)
             )
             updated_packages = [
                 name
