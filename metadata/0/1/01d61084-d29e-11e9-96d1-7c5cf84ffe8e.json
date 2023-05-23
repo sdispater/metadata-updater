@@ -1,0 +1,1 @@
+{"name": "01d61084-d29e-11e9-96d1-7c5cf84ffe8e", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": ">=3.7,<4.0", "released_at": "2019-09-09T01:22:07+00:00", "yanked": false, "dependencies": ["attrs (==19.1.0)", "click (==7.0)"]}}}

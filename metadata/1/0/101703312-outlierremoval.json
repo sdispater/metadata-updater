@@ -1,0 +1,1 @@
+{"name": "101703312-outlierremoval", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": ">=3.6", "released_at": "2020-02-13T14:13:28+00:00", "yanked": false, "dependencies": ["requests"]}}}

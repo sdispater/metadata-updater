@@ -1,0 +1,1 @@
+{"name": "101903117-shivam-singal", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2022-02-27T20:12:19+00:00", "yanked": false, "dependencies": ["beautifulsoup4", "numpy", "pandas", "validators"]}}}

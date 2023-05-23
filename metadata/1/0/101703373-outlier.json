@@ -1,0 +1,1 @@
+{"name": "101703373-outlier", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2020-02-11T17:43:35+00:00", "yanked": false, "dependencies": ["numpy"]}}}

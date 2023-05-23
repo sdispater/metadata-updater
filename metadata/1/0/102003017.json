@@ -1,0 +1,1 @@
+{"name": "102003017", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2023-01-22T19:13:13+00:00", "yanked": false, "dependencies": ["logging", "math", "numpy", "pandas", "sys"]}}}

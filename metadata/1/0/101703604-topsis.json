@@ -1,0 +1,1 @@
+{"name": "101703604-topsis", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2020-02-01T11:21:45+00:00", "yanked": false, "dependencies": ["beautifulsoup4", "numpy", "pandas", "validators"]}}}

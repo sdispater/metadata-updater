@@ -1,0 +1,1 @@
+{"name": "0rest", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2020-06-12T01:45:28+00:00", "yanked": false, "dependencies": ["coverage ; extra == \"test\"", "metaform", "metatype", "pytest ; extra == \"test\"", "pytest-cov ; extra == \"test\"", "typer"]}}}

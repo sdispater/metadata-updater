@@ -1,0 +1,1 @@
+{"name": "0x01-cubic-sdk", "versions": {"3.0.0": {"version": "3.0.0", "python_constraint": ">=3.7", "released_at": "2020-07-02T15:57:40+00:00", "yanked": false, "dependencies": ["msgpack (>=1.0)", "requests (>=2.21)"]}}}
