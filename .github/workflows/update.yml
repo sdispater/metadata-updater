@@ -6,6 +6,8 @@ on:
         description: Maximum number of packages to process.
         required: false
         default: "100"
+  schedule:
+    - cron: "*/15 * * * *"
 
 concurrency: ci-${{ github.ref }}
 
@@ -36,7 +38,7 @@ jobs:
             ${{ runner.os }}-package-cache-
 
       - run: poetry install
-      - run: poetry run updater update all --limit ${{ inputs.limit }} -vv
+      - run: poetry run updater update all --limit ${{ inputs.limit || '1000' }} -vv
 
       - uses: EndBug/add-and-commit@v9
         with:
