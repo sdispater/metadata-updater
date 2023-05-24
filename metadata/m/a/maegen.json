@@ -1,0 +1,1 @@
+{"name": "maegen", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2011-11-28T21:39:27+00:00", "yanked": false, "dependencies": ["gdata (>=2.0.9,<=2.0.14)"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-11-06T10:11:09+00:00", "yanked": false, "dependencies": []}}}

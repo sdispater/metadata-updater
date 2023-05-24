@@ -1,0 +1,1 @@
+{"name": "wsgiservlets", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2011-11-09T22:55:34+00:00", "yanked": false, "dependencies": []}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-11-08T23:30:55+00:00", "yanked": false, "dependencies": []}}}

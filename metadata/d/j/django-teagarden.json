@@ -1,0 +1,1 @@
+{"name": "django-teagarden", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-03-25T10:01:33+00:00", "yanked": false, "dependencies": ["Django (==1.3)"]}}}

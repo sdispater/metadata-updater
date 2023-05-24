@@ -1,0 +1,1 @@
+{"name": "punc", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-12-07T04:41:10+00:00", "yanked": false, "dependencies": ["mercurial", "notch.client", "PyYAML"]}}}

@@ -1,0 +1,1 @@
+{"name": "logtogss", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-11-06T02:44:40+00:00", "yanked": false, "dependencies": ["gdata (>=2.0.0)"]}}}

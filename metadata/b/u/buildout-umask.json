@@ -1,0 +1,1 @@
+{"name": "buildout-umask", "versions": {"0.5.2": {"version": "0.5.2", "python_constraint": "*", "released_at": "2010-12-02T21:56:08+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2010-12-01T21:01:09+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

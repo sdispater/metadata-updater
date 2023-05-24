@@ -1,0 +1,1 @@
+{"name": "collective-inventions", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2012-02-13T07:09:56+00:00", "yanked": false, "dependencies": ["plone.app.theming", "setuptools"]}}}

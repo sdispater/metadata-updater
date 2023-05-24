@@ -1,0 +1,1 @@
+{"name": "wsgipack", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2010-10-13T17:09:27+00:00", "yanked": false, "dependencies": []}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2010-09-18T17:01:57+00:00", "yanked": false, "dependencies": []}}}

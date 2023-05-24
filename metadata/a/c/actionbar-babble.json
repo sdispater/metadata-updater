@@ -1,0 +1,1 @@
+{"name": "actionbar-babble", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-10-05T12:27:55+00:00", "yanked": false, "dependencies": ["actionbar.panel", "babble.client (>=2.0a1)", "setuptools"]}}}

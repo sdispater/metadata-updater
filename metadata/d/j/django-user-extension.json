@@ -1,0 +1,1 @@
+{"name": "django-user-extension", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-12-18T19:47:24+00:00", "yanked": false, "dependencies": ["django-model-utils (>=1.0.0)"]}}}

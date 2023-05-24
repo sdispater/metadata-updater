@@ -1,0 +1,1 @@
+{"name": "describe", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2012-02-01T05:01:07+00:00", "yanked": false, "dependencies": ["mock", "nose"]}, "0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-12-22T21:36:43+00:00", "yanked": false, "dependencies": []}}}

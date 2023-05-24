@@ -1,0 +1,1 @@
+{"name": "gaesynkit", "versions": {"1.0.0a2": {"version": "1.0.0a2", "python_constraint": "*", "released_at": "2011-04-12T22:10:26+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0.0a1": {"version": "1.0.0a1", "python_constraint": "*", "released_at": "2011-02-08T20:48:58+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

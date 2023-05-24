@@ -1,0 +1,1 @@
+{"name": "sqla-hierarchy", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-03-23T16:18:25+00:00", "yanked": false, "dependencies": ["sqlalchemy (<0.7)"]}}}

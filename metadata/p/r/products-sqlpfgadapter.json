@@ -1,0 +1,1 @@
+{"name": "products-sqlpfgadapter", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2011-01-10T16:06:20+00:00", "yanked": false, "dependencies": ["collective.lead", "MySQL-python", "plone.app.registry", "Products.PloneFormGen", "setuptools"]}}}

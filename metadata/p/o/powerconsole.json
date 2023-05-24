@@ -1,0 +1,1 @@
+{"name": "powerconsole", "versions": {"0.7.5": {"version": "0.7.5", "python_constraint": "*", "released_at": "2011-12-21T15:43:42+00:00", "yanked": false, "dependencies": ["pyparsing (>=1.5.1)"]}, "0.6": {"version": "0.6", "python_constraint": "*", "released_at": "2009-03-30T14:47:16+00:00", "yanked": false, "dependencies": ["pyparsing (>=1.5.1)"]}}}

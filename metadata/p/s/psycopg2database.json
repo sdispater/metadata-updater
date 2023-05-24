@@ -1,0 +1,1 @@
+{"name": "psycopg2database", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2010-09-02T14:25:00+00:00", "yanked": false, "dependencies": ["DatabasePipe (>=2.2.0,<=2.2.99) ; extra == \"test\""]}}}

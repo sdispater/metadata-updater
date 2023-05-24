@@ -1,0 +1,1 @@
+{"name": "insight-bert", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2011-08-22T17:32:55+00:00", "yanked": false, "dependencies": ["erlastic"]}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-08-03T15:30:25+00:00", "yanked": false, "dependencies": ["erlastic"]}}}
