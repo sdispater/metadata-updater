@@ -1,0 +1,1 @@
+{"name": "django-never-cache-post", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-11-05T11:42:06+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-02T13:18:15+00:00", "yanked": false, "dependencies": []}}}

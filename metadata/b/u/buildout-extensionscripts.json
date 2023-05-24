@@ -1,0 +1,1 @@
+{"name": "buildout-extensionscripts", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2009-10-07T12:30:59+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "heatmap", "versions": {"2.2.1": {"version": "2.2.1", "python_constraint": "*", "released_at": "2013-01-12T01:43:40+00:00", "yanked": false, "dependencies": []}, "2.2": {"version": "2.2", "python_constraint": "*", "released_at": "2012-10-02T13:36:41+00:00", "yanked": false, "dependencies": []}}}

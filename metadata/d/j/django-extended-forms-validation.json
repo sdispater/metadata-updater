@@ -1,0 +1,1 @@
+{"name": "django-extended-forms-validation", "versions": {"1.1.0": {"version": "1.1.0", "python_constraint": "*", "released_at": "2013-04-27T10:20:46+00:00", "yanked": false, "dependencies": []}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2013-04-09T11:56:27+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "areciboware", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2010-07-27T09:40:33+00:00", "yanked": false, "dependencies": ["arecibo", "WebError"]}, "1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2010-07-14T14:03:58+00:00", "yanked": false, "dependencies": ["arecibo", "WebError"]}}}

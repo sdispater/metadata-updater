@@ -1,0 +1,1 @@
+{"name": "collective-recipe-genshi", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-06-08T16:28:51+00:00", "yanked": false, "dependencies": ["collective.recipe.template[genshi]"]}}}

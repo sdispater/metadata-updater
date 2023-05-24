@@ -1,0 +1,1 @@
+{"name": "z3c-appconfig", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-01-24T10:11:33+00:00", "yanked": false, "dependencies": ["setuptools", "zope.component[zcml]", "zope.interface"]}}}

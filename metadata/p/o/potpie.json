@@ -1,0 +1,1 @@
+{"name": "potpie", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-04-12T05:24:50+00:00", "yanked": false, "dependencies": ["polib"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-04-12T04:58:01+00:00", "yanked": false, "dependencies": ["polib"]}}}

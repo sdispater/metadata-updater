@@ -1,0 +1,1 @@
+{"name": "sprunge-py", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-07-03T17:39:18+00:00", "yanked": false, "dependencies": ["requests (>=0.12.1)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-06-09T16:33:35+00:00", "yanked": false, "dependencies": []}}}

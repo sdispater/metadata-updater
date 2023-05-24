@@ -1,0 +1,1 @@
+{"name": "five-caching", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2009-05-20T18:10:35+00:00", "yanked": false, "dependencies": ["plone.postpublicationhook", "Products.Archetypes", "Products.CacheSetup", "Products.CMFCore", "setuptools", "z3c.caching", "zope.component", "zope.dublincore", "zope.interface", "zope.publisher"]}}}

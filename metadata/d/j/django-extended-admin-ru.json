@@ -1,0 +1,1 @@
+{"name": "django-extended-admin-ru", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2013-03-04T23:05:07+00:00", "yanked": false, "dependencies": ["django-extended-admin", "pymorphy"]}}}

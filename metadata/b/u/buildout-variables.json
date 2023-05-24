@@ -1,0 +1,1 @@
+{"name": "buildout-variables", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2013-03-15T14:14:58+00:00", "yanked": false, "dependencies": ["RSFile"]}}}

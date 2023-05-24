@@ -1,0 +1,1 @@
+{"name": "gh-cli", "versions": {"0.1.b": {"version": "0.1.b", "python_constraint": "*", "released_at": "2012-12-15T20:08:48+00:00", "yanked": false, "dependencies": ["github3.py (>=0.2)"]}}}

@@ -1,0 +1,1 @@
+{"name": "simplon-plone-ldap", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2007-11-14T13:16:24+00:00", "yanked": false, "dependencies": ["Products.PloneLDAP", "setuptools"]}}}

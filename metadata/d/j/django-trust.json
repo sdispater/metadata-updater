@@ -1,0 +1,1 @@
+{"name": "django-trust", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-07-29T22:24:30+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-07-11T06:33:07+00:00", "yanked": false, "dependencies": []}}}

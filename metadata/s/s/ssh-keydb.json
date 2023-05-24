@@ -1,0 +1,1 @@
+{"name": "ssh-keydb", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2013-02-15T16:24:30+00:00", "yanked": false, "dependencies": ["elixir (>=0.7.1)", "pysqlite (>=2.5)", "skeletool (>=0.1dev)", "SQLAlchemy (==0.7.8)"]}}}

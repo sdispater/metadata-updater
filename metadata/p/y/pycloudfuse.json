@@ -1,0 +1,1 @@
+{"name": "pycloudfuse", "versions": {"0.02": {"version": "0.02", "python_constraint": "*", "released_at": "2011-08-18T13:31:45+00:00", "yanked": false, "dependencies": ["ftp-cloudfs (>=0.9)", "fuse-python", "python-cloudfiles"]}}}

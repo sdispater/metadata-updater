@@ -1,0 +1,1 @@
+{"name": "cltwit", "versions": {"0.6": {"version": "0.6", "python_constraint": "*", "released_at": "2013-02-03T22:35:12+00:00", "yanked": false, "dependencies": ["reportlab", "tweepy"]}, "0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2013-02-02T00:23:58+00:00", "yanked": false, "dependencies": ["tweepy"]}}}

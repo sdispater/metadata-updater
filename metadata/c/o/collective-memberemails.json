@@ -1,0 +1,1 @@
+{"name": "collective-memberemails", "versions": {"1.0a2": {"version": "1.0a2", "python_constraint": "*", "released_at": "2012-06-26T16:43:49+00:00", "yanked": false, "dependencies": ["collective.memberapproval", "pas.plugins.memberapproval", "plone.app.testing ; extra == \"test\"", "setuptools"]}}}

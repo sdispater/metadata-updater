@@ -1,0 +1,1 @@
+{"name": "django-nose2", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-04-02T17:38:25+00:00", "yanked": false, "dependencies": ["nose2 (>=0.3)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-04-02T17:35:07+00:00", "yanked": false, "dependencies": ["nose2 (>=0.3)"]}}}

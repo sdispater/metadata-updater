@@ -1,0 +1,1 @@
+{"name": "django-c5filemanager", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-12-14T08:07:17+00:00", "yanked": false, "dependencies": ["PIL", "simplejson (>=2.1.0)"]}}}

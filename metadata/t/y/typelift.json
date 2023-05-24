@@ -1,0 +1,1 @@
+{"name": "typelift", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-05-19T21:30:06+00:00", "yanked": false, "dependencies": ["cssselect", "lxml", "requests"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-05-19T19:31:34+00:00", "yanked": false, "dependencies": ["cssselect", "lxml", "requests"]}}}

@@ -1,0 +1,1 @@
+{"name": "python-hdcloud", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2010-05-03T21:22:51+00:00", "yanked": false, "dependencies": ["httplib2"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-04-16T18:49:57+00:00", "yanked": false, "dependencies": ["argparse", "httplib2"]}}}

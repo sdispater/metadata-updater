@@ -1,0 +1,1 @@
+{"name": "pillow-pil", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2013-05-20T08:26:35+00:00", "yanked": false, "dependencies": ["Pillow"]}}}
