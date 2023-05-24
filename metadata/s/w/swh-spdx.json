@@ -1,0 +1,1 @@
+{"name": "swh-spdx", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": ">=3.7", "released_at": "2023-05-23T14:57:54+00:00", "yanked": false, "dependencies": ["pytest ; extra == \"testing\"", "swh.core[http] (>=0.3)"]}}}

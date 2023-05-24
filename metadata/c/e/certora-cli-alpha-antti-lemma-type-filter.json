@@ -1,0 +1,1 @@
+{"name": "certora-cli-alpha-antti-lemma-type-filter", "versions": {"20230523.13.10.116586": {"version": "20230523.13.10.116586", "python_constraint": ">=3.8.16", "released_at": "2023-05-23T13:10:16+00:00", "yanked": false, "dependencies": ["argcomplete", "click", "json5", "pycryptodome", "requests", "sly", "tabulate", "tqdm"]}}}

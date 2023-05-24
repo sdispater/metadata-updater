@@ -1,0 +1,1 @@
+{"name": "pymaidol", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": ">=3.10", "released_at": "2023-05-23T13:12:40+00:00", "yanked": false, "dependencies": ["PythonDelegate (>=0.1.0)"]}}}

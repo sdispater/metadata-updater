@@ -1,0 +1,1 @@
+{"name": "openradio", "versions": {"1.0": {"version": "1.0", "python_constraint": ">=3.10", "released_at": "2023-05-23T15:51:41+00:00", "yanked": false, "dependencies": ["PyGObject", "pyradios", "python-vlc", "requests", "requests-file", "toml"]}}}

@@ -1,0 +1,1 @@
+{"name": "chiakilisp", "versions": {"1.4.0rc2": {"version": "1.4.0rc2", "python_constraint": ">=3.6", "released_at": "2023-05-23T18:41:01+00:00", "yanked": false, "dependencies": ["hashedcolls (==1.1.1)"]}, "1.4.0rc1": {"version": "1.4.0rc1", "python_constraint": ">=3.6", "released_at": "2023-05-23T18:17:41+00:00", "yanked": false, "dependencies": ["hashedcolls (==1.1.0)"]}}}

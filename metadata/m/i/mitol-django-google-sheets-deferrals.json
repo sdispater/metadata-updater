@@ -1,0 +1,1 @@
+{"name": "mitol-django-google-sheets-deferrals", "versions": {"2023.5.23": {"version": "2023.5.23", "python_constraint": ">=3.8", "released_at": "2023-05-23T13:20:17+00:00", "yanked": false, "dependencies": ["django (>=2.2.12,<4.0)", "mitol-django-common", "mitol-django-google-sheets", "pluggy (==0.13.1)", "setuptools"]}}}

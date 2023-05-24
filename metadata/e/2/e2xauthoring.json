@@ -1,0 +1,1 @@
+{"name": "e2xauthoring", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": ">=3.7", "released_at": "2023-05-23T14:06:09+00:00", "yanked": false, "dependencies": ["e2xgrader (==0.1.*)", "gitpython", "hatchling ; extra == \"dev\"", "pre-commit ; extra == \"dev\""]}}}

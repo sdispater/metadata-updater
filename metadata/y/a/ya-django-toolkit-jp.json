@@ -1,0 +1,1 @@
+{"name": "ya-django-toolkit-jp", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": ">=3.11,<4.0", "released_at": "2023-05-23T18:18:16+00:00", "yanked": false, "dependencies": ["django (>=4.2,<5.0)"]}}}

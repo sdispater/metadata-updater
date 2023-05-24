@@ -1,0 +1,1 @@
+{"name": "onnx-predict-yolov8", "versions": {"1.0.2": {"version": "1.0.2", "python_constraint": "<3.11.0,>3.8", "released_at": "2023-05-23T13:07:37+00:00", "yanked": false, "dependencies": ["numpy (>=1.20)", "Pillow (>=9.1.0)"]}}}

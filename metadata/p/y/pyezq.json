@@ -1,0 +1,1 @@
+{"name": "pyezq", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": ">=3.6.0", "released_at": "2023-05-23T16:54:51+00:00", "yanked": false, "dependencies": ["beautifulsoup4", "isqmap", "numpy", "requests", "sabreMapper"]}}}

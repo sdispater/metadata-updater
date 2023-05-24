@@ -1,0 +1,1 @@
+{"name": "cmeel-yaml-cpp", "versions": {"0.7.0": {"version": "0.7.0", "python_constraint": ">= 3.7", "released_at": "2023-05-22T18:54:36+00:00", "yanked": false, "dependencies": ["cmeel"]}}}

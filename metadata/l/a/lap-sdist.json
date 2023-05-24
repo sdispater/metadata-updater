@@ -1,0 +1,1 @@
+{"name": "lap-sdist", "versions": {"0.5.dev0": {"version": "0.5.dev0", "python_constraint": "*", "released_at": "2023-05-23T18:58:47+00:00", "yanked": false, "dependencies": ["numpy (>=1.10.1) ; extra == \"alldeps\""]}}}

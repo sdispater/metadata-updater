@@ -1,0 +1,1 @@
+{"name": "pyextrasafe", "versions": {"0.0.0a1": {"version": "0.0.0a1", "python_constraint": "<4,>=3.8", "released_at": "2023-05-23T19:39:52+00:00", "yanked": false, "dependencies": []}, "0.0.0a0": {"version": "0.0.0a0", "python_constraint": "<4,>=3.8", "released_at": "2023-05-23T00:27:40+00:00", "yanked": false, "dependencies": []}}}

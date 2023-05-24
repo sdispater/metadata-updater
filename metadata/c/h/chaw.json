@@ -1,0 +1,1 @@
+{"name": "chaw", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2023-05-23T17:56:41+00:00", "yanked": false, "dependencies": ["requests (>=2.31.0)"]}, "0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2023-05-23T17:51:58+00:00", "yanked": false, "dependencies": ["requests (>=2.31.0)"]}}}

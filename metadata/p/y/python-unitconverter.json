@@ -1,0 +1,1 @@
+{"name": "python-unitconverter", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": ">=3.11.0", "released_at": "2023-05-23T17:22:32+00:00", "yanked": false, "dependencies": ["pip-tools ; extra == \"dev\"", "pytest ; extra == \"dev\""]}}}

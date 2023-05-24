@@ -1,0 +1,1 @@
+{"name": "marionette-predeployed", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": ">=3.7", "released_at": "2022-03-21T11:37:44+00:00", "yanked": false, "dependencies": ["predeployed-generator"]}}}

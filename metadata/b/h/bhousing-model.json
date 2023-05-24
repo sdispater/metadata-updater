@@ -1,0 +1,1 @@
+{"name": "bhousing-model", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": ">=3.6.0", "released_at": "2023-05-23T18:20:40+00:00", "yanked": false, "dependencies": ["feature-engine (==1.6.0)", "joblib (==1.2.0)", "numpy (==1.24.3)", "pandas (==2.0.1)", "pydantic (==1.10.7)", "ruamel.yaml (==0.17.26)", "scikit-learn (==1.2.2)", "strictyaml (==1.7.3)"]}}}

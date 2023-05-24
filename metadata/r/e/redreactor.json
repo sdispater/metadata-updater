@@ -1,0 +1,1 @@
+{"name": "redreactor", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": ">=3.10,<4.0", "released_at": "2023-05-23T17:08:59+00:00", "yanked": false, "dependencies": ["paho-mqtt (>=1.6.1,<2.0.0)", "pi-ina219 (>=1.4.1,<2.0.0)", "pyyaml (>=6.0,<7.0)"]}}}

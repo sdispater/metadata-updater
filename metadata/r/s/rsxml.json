@@ -1,0 +1,1 @@
+{"name": "rsxml", "versions": {"0.0.1a0": {"version": "0.0.1a0", "python_constraint": ">=3.10.0", "released_at": "2023-05-23T14:37:21+00:00", "yanked": false, "dependencies": ["argparse", "semver (>=2.10.2)"]}}}

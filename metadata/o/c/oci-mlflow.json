@@ -1,0 +1,1 @@
+{"name": "oci-mlflow", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": ">=3.8", "released_at": "2023-05-23T18:24:27+00:00", "yanked": false, "dependencies": ["mlflow", "oracle-ads (>=2.8.2)", "pytest ; extra == \"dev\"", "pytest-cov ; extra == \"dev\"", "pytest-env ; extra == \"dev\""]}}}

@@ -1,0 +1,1 @@
+{"name": "fastgedcom", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": ">=3.11", "released_at": "2023-05-23T17:55:11+00:00", "yanked": false, "dependencies": ["ansel"]}}}

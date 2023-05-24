@@ -1,0 +1,1 @@
+{"name": "upstash-redis", "versions": {"0.10.0": {"version": "0.10.0", "python_constraint": ">=3.10,<4.0", "released_at": "2023-05-23T14:01:24+00:00", "yanked": false, "dependencies": ["aiohttp (>=3.8.4,<4.0.0)", "pytest (>=7.3.0,<8.0.0)", "pytest-asyncio (>=0.21.0,<0.22.0)"]}}}

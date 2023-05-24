@@ -1,0 +1,1 @@
+{"name": "asset-tracking-pepsico", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": ">=3.7", "released_at": "2023-05-23T13:11:16+00:00", "yanked": false, "dependencies": ["azure-core", "azure-storage-blob", "psycopg2", "requests", "requests-oauthlib", "toml"]}}}

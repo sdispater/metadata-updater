@@ -1,0 +1,1 @@
+{"name": "py-ayra", "versions": {"1.8.1": {"version": "1.8.1", "python_constraint": ">3.7, <3.11", "released_at": "2023-05-23T19:28:27+00:00", "yanked": false, "dependencies": ["pymongo", "python-decouple", "python-dotenv"]}}}

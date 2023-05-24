@@ -1,0 +1,1 @@
+{"name": "fullpy", "versions": {"0.1": {"version": "0.1", "python_constraint": ">=3.6", "released_at": "2023-05-23T13:55:46+00:00", "yanked": false, "dependencies": ["brython", "flask", "gevent", "gunicorn", "owlready2"]}}}

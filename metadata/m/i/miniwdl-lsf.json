@@ -1,0 +1,1 @@
+{"name": "miniwdl-lsf", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": ">3.6", "released_at": "2023-05-23T14:26:21+00:00", "yanked": false, "dependencies": ["miniwdl (>=1.7.0)"]}, "0.1.0": {"version": "0.1.0", "python_constraint": ">3.6", "released_at": "2023-04-14T13:25:26+00:00", "yanked": false, "dependencies": ["miniwdl (>=1.7.0)"]}}}

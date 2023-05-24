@@ -1,0 +1,1 @@
+{"name": "unassigner", "versions": {"0.0.5": {"version": "0.0.5", "python_constraint": "*", "released_at": "2023-05-23T19:19:33+00:00", "yanked": false, "dependencies": ["biopython", "scipy"]}, "0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2019-04-17T19:48:21+00:00", "yanked": false, "dependencies": ["biopython", "scipy"]}}}

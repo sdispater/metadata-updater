@@ -1,0 +1,1 @@
+{"name": "yc-stable-diffusion", "versions": {"0.0.15": {"version": "0.0.15", "python_constraint": "*", "released_at": "2023-05-23T16:37:19+00:00", "yanked": false, "dependencies": ["numpy", "torch", "tqdm"]}}}

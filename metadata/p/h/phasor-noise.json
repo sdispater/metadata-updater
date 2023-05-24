@@ -1,0 +1,1 @@
+{"name": "phasor-noise", "versions": {"0.2.1.dev66": {"version": "0.2.1.dev66", "python_constraint": "*", "released_at": "2023-05-23T19:09:05+00:00", "yanked": false, "dependencies": ["matplotlib (>=3.7.1)", "numpy (>=1.24.3)", "pillow (>=9.4.0)", "scikit-image (>=0.20.0)", "setuptools (>=66.0.0)"]}}}
