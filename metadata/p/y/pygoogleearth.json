@@ -1,0 +1,1 @@
+{"name": "pygoogleearth", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2009-10-08T08:42:07+00:00", "yanked": false, "dependencies": ["pywin32"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2009-09-24T05:57:55+00:00", "yanked": false, "dependencies": ["pywin32"]}}}

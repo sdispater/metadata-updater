@@ -1,0 +1,1 @@
+{"name": "products-ltonlinetest", "versions": {"0.2.4": {"version": "0.2.4", "python_constraint": "*", "released_at": "2008-05-15T12:39:59+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

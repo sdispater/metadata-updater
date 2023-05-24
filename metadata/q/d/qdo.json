@@ -1,0 +1,1 @@
+{"name": "qdo", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-09-17T14:03:01+00:00", "yanked": false, "dependencies": ["kazoo", "metlog-py", "queuey-py", "requests", "ujson"]}}}

@@ -1,0 +1,1 @@
+{"name": "collective-updatelinksoncopy", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-08-10T14:59:06+00:00", "yanked": false, "dependencies": ["collective.testcaselayer ; extra == \"test\"", "ely.contentgenerator ; extra == \"test\"", "setuptools"]}}}

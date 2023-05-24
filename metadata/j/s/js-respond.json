@@ -1,0 +1,1 @@
+{"name": "js-respond", "versions": {"1.2.0": {"version": "1.2.0", "python_constraint": "*", "released_at": "2013-03-11T07:04:59+00:00", "yanked": false, "dependencies": ["fanstatic", "setuptools"]}}}

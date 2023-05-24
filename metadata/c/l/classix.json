@@ -1,0 +1,1 @@
+{"name": "classix", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2008-07-07T21:02:26+00:00", "yanked": false, "dependencies": ["lxml (==2.0.6)", "martian (>=0.10)", "setuptools"]}}}

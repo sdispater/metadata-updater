@@ -1,0 +1,1 @@
+{"name": "django-demo", "versions": {"1.0.0-beta-1": {"version": "1.0.0-beta-1", "python_constraint": "*", "released_at": "2010-11-12T18:24:01+00:00", "yanked": false, "dependencies": []}, "1.0.0-alpha-1": {"version": "1.0.0-alpha-1", "python_constraint": "*", "released_at": "2010-11-11T14:56:32+00:00", "yanked": false, "dependencies": []}}}

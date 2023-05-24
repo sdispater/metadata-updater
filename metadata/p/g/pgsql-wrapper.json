@@ -1,0 +1,1 @@
+{"name": "pgsql-wrapper", "versions": {"1.1.2": {"version": "1.1.2", "python_constraint": "*", "released_at": "2012-09-18T04:06:40+00:00", "yanked": false, "dependencies": ["psycopg2"]}, "1.1.1": {"version": "1.1.1", "python_constraint": "*", "released_at": "2012-08-24T16:15:03+00:00", "yanked": false, "dependencies": ["psycopg2"]}}}

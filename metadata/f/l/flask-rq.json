@@ -1,0 +1,1 @@
+{"name": "flask-rq", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-11-12T17:50:52+00:00", "yanked": false, "dependencies": ["Flask", "rq"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-07-19T18:26:50+00:00", "yanked": false, "dependencies": ["Flask", "rq"]}}}

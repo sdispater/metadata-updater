@@ -1,0 +1,1 @@
+{"name": "xmppcat", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-11-15T14:09:16+00:00", "yanked": false, "dependencies": ["setproctitle", "sleekxmpp"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-01-24T12:08:06+00:00", "yanked": false, "dependencies": ["setproctitle", "sleekxmpp"]}}}

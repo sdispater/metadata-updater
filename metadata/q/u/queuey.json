@@ -1,0 +1,1 @@
+{"name": "queuey", "versions": {"0.8": {"version": "0.8", "python_constraint": "*", "released_at": "2012-08-28T08:05:41+00:00", "yanked": false, "dependencies": ["cdecimal", "colander", "distribute", "gunicorn", "metlog-py", "mozsvc", "nose", "pycassa", "pyramid", "thrift", "ujson", "webtest", "zope.interface"]}}}

@@ -1,0 +1,1 @@
+{"name": "jquery-layer", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2007-10-31T01:16:10+00:00", "yanked": false, "dependencies": ["setuptools", "zope.publisher", "zope.testing ; extra == \"test\"", "zope.viewlet"]}}}

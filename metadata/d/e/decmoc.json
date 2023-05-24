@@ -1,0 +1,1 @@
+{"name": "decmoc", "versions": {"20130206": {"version": "20130206", "python_constraint": "*", "released_at": "2013-02-06T15:31:03+00:00", "yanked": false, "dependencies": ["mock"]}}}

@@ -1,0 +1,1 @@
+{"name": "importers", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-10-25T21:39:38+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-01-17T03:40:06+00:00", "yanked": false, "dependencies": []}}}

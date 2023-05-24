@@ -1,0 +1,1 @@
+{"name": "flint-naming", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-02-22T11:01:40+00:00", "yanked": false, "dependencies": ["pep8-naming", "setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-11T08:22:33+00:00", "yanked": false, "dependencies": ["flint", "setuptools"]}}}

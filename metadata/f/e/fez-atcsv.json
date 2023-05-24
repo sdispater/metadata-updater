@@ -1,0 +1,1 @@
+{"name": "fez-atcsv", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-01-28T09:17:34+00:00", "yanked": false, "dependencies": ["plone.app.z3cform", "setuptools", "zope.testing ; extra == \"tests\""]}}}

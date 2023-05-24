@@ -1,0 +1,1 @@
+{"name": "flint-mccabe", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-02-23T23:14:28+00:00", "yanked": false, "dependencies": ["mccabe", "setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-11T08:15:03+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

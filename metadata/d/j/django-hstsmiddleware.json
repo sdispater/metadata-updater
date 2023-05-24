@@ -1,0 +1,1 @@
+{"name": "django-hstsmiddleware", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-07-15T20:25:19+00:00", "yanked": false, "dependencies": ["Django (>=1.3)"]}}}

@@ -1,0 +1,1 @@
+{"name": "signal2", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-07-11T14:45:30+00:00", "yanked": false, "dependencies": ["ctypes_configure", "py"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-07-11T14:40:47+00:00", "yanked": false, "dependencies": ["ctypes_configure"]}}}

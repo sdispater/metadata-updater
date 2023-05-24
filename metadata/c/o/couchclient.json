@@ -1,0 +1,1 @@
+{"name": "couchclient", "versions": {"1.1.1": {"version": "1.1.1", "python_constraint": "*", "released_at": "2012-02-29T00:47:19+00:00", "yanked": false, "dependencies": ["requests", "simplejson"]}, "1.1.0": {"version": "1.1.0", "python_constraint": "*", "released_at": "2012-02-29T00:45:04+00:00", "yanked": false, "dependencies": ["requests", "simplejson"]}}}

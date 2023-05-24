@@ -1,0 +1,1 @@
+{"name": "collective-recipe-mxodbc", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2011-02-04T15:23:36+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2008-06-30T13:06:52+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

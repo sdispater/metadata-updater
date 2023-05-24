@@ -1,0 +1,1 @@
+{"name": "cmsplugin-disqus", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-11-16T12:13:36+00:00", "yanked": false, "dependencies": ["django-cms (>=2.2)"]}}}

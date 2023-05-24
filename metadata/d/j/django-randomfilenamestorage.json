@@ -1,0 +1,1 @@
+{"name": "django-randomfilenamestorage", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2011-03-21T03:42:32+00:00", "yanked": false, "dependencies": ["Django (>=1.0)"]}}}

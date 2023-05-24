@@ -1,0 +1,1 @@
+{"name": "queuey-py", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-08-28T08:22:45+00:00", "yanked": false, "dependencies": ["requests", "ujson"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-07-10T23:09:23+00:00", "yanked": false, "dependencies": ["requests", "ujson"]}}}

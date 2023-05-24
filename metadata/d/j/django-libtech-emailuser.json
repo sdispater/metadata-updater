@@ -1,0 +1,1 @@
+{"name": "django-libtech-emailuser", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-05-20T13:40:51+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-05-20T13:14:47+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "tw2-ace", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2013-01-14T10:58:18+00:00", "yanked": false, "dependencies": ["tw2.core", "tw2.forms"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-01-14T10:54:55+00:00", "yanked": false, "dependencies": ["tw2.core", "tw2.forms"]}}}

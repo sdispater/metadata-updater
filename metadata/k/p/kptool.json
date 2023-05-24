@@ -1,0 +1,1 @@
+{"name": "kptool", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2010-11-20T08:20:25+00:00", "yanked": false, "dependencies": ["argparse", "pycrypto"]}}}

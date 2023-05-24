@@ -1,0 +1,1 @@
+{"name": "pydict", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-11-25T02:19:46+00:00", "yanked": false, "dependencies": ["BeautifulSoup", "mechanize"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-20T11:58:47+00:00", "yanked": false, "dependencies": ["BeautifulSoup", "mechanize"]}}}

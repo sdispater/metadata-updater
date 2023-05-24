@@ -1,0 +1,1 @@
+{"name": "tabola", "versions": {"0.0.5": {"version": "0.0.5", "python_constraint": "*", "released_at": "2010-12-10T04:38:12+00:00", "yanked": false, "dependencies": ["PyYAML", "simplejson", "xlwt"]}}}

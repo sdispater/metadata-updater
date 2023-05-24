@@ -1,0 +1,1 @@
+{"name": "pytest-contextfixture", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-03-12T10:14:17+00:00", "yanked": false, "dependencies": ["pytest (>=2.3.4)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-02T11:28:28+00:00", "yanked": false, "dependencies": ["pytest (>=2.3.4)"]}}}

@@ -1,0 +1,1 @@
+{"name": "products-plonequeuecatalog", "versions": {"2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2007-12-15T01:40:49+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

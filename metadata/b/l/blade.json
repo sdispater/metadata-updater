@@ -1,0 +1,1 @@
+{"name": "blade", "versions": {"0.6.0": {"version": "0.6.0", "python_constraint": "*", "released_at": "2012-10-15T05:21:10+00:00", "yanked": false, "dependencies": ["stuf (>=0.9.6)"]}}}

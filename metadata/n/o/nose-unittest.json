@@ -1,0 +1,1 @@
+{"name": "nose-unittest", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-10-25T19:22:12+00:00", "yanked": false, "dependencies": ["nose (>=0.9)"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-10-23T03:59:23+00:00", "yanked": false, "dependencies": ["nose (>=0.9)"]}}}

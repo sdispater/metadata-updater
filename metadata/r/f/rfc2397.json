@@ -1,0 +1,1 @@
+{"name": "rfc2397", "versions": {"1.0b2": {"version": "1.0b2", "python_constraint": "*", "released_at": "2012-01-03T13:54:46+00:00", "yanked": false, "dependencies": []}, "1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2011-06-16T12:24:04+00:00", "yanked": false, "dependencies": []}}}

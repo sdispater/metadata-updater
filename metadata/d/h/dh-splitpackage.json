@@ -1,0 +1,1 @@
+{"name": "dh-splitpackage", "versions": {"0.2.3": {"version": "0.2.3", "python_constraint": "*", "released_at": "2011-06-14T19:41:53+00:00", "yanked": false, "dependencies": ["argparse", "configobj", "simplejson"]}, "0.2.2": {"version": "0.2.2", "python_constraint": "*", "released_at": "2011-06-04T20:34:14+00:00", "yanked": false, "dependencies": ["argparse", "simplejson"]}}}

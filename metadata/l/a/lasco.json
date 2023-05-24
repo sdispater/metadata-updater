@@ -1,0 +1,1 @@
+{"name": "lasco", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-06-19T14:14:45+00:00", "yanked": false, "dependencies": ["cryptacular", "pyramid", "pyramid_tm", "repoze.bitblt", "repoze.tm2", "repoze.who", "sqlalchemy", "zope.sqlalchemy"]}}}

@@ -1,0 +1,1 @@
+{"name": "buildbot-scheduler-graph", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-05-22T06:58:22+00:00", "yanked": false, "dependencies": ["pydot (>=1.0.28)", "pyparsing (==1.5.6)"]}}}

@@ -1,0 +1,1 @@
+{"name": "collective-portlet-googleapps", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-08-13T08:09:26+00:00", "yanked": false, "dependencies": ["setuptools", "zope.testing ; extra == \"tests\""]}}}

@@ -1,0 +1,1 @@
+{"name": "django-mootools-behavior", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-06-23T18:15:11+00:00", "yanked": false, "dependencies": ["django-widget-tweaks (>=0.3)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-06-23T17:25:11+00:00", "yanked": false, "dependencies": ["django-widget-tweaks (>=0.3)"]}}}

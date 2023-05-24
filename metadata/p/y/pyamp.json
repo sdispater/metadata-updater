@@ -1,0 +1,1 @@
+{"name": "pyamp", "versions": {"1.2": {"version": "1.2", "python_constraint": "*", "released_at": "2012-08-05T07:00:54+00:00", "yanked": false, "dependencies": []}, "1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2012-07-13T23:01:03+00:00", "yanked": false, "dependencies": []}}}

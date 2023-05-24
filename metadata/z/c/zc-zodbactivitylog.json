@@ -1,0 +1,1 @@
+{"name": "zc-zodbactivitylog", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2007-10-03T16:34:42+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

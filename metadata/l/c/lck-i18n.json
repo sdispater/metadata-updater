@@ -1,0 +1,1 @@
+{"name": "lck-i18n", "versions": {"0.3.0": {"version": "0.3.0", "python_constraint": "*", "released_at": "2011-03-25T23:34:34+00:00", "yanked": false, "dependencies": ["lck.common (>=0.4.0)", "polib", "setuptools", "Sphinx"]}}}

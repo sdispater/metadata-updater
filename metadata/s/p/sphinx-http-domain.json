@@ -1,0 +1,1 @@
+{"name": "sphinx-http-domain", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-03-12T21:54:47+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-03-10T20:12:13+00:00", "yanked": false, "dependencies": []}}}

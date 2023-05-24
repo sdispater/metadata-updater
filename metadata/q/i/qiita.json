@@ -1,0 +1,1 @@
+{"name": "qiita", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-10-22T11:15:52+00:00", "yanked": false, "dependencies": ["mock", "requests", "simplejson"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-10-21T05:13:39+00:00", "yanked": false, "dependencies": ["mock", "requests", "simplejson"]}}}

@@ -1,0 +1,1 @@
+{"name": "keas-pbpersist", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-01-28T03:52:27+00:00", "yanked": false, "dependencies": ["keas.pbstate", "setuptools", "ZODB3"]}}}

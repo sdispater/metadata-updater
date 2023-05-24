@@ -1,0 +1,1 @@
+{"name": "otrace", "versions": {"0.30.9": {"version": "0.30.9", "python_constraint": "*", "released_at": "2012-08-27T02:19:51+00:00", "yanked": false, "dependencies": []}, "0.30": {"version": "0.30", "python_constraint": "*", "released_at": "2012-06-11T00:07:02+00:00", "yanked": false, "dependencies": []}}}

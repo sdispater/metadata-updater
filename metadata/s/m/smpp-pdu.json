@@ -1,0 +1,1 @@
+{"name": "smpp-pdu", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2013-05-21T16:41:18+00:00", "yanked": false, "dependencies": ["enum"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-09-23T19:30:19+00:00", "yanked": false, "dependencies": ["enum"]}}}

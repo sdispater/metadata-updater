@@ -1,0 +1,1 @@
+{"name": "collective-collage-contentleadimage", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-06-15T08:28:00+00:00", "yanked": false, "dependencies": ["collective.contentleadimage", "collective.fastview", "Products.Collage", "setuptools"]}}}

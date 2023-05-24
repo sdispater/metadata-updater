@@ -1,0 +1,1 @@
+{"name": "mole", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-05-27T10:40:55+00:00", "yanked": false, "dependencies": ["python-dateutil (>=2.1)", "setproctitle (>=1.1.6)", "Whoosh (>=2.4.1)"]}}}

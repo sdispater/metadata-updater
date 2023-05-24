@@ -1,0 +1,1 @@
+{"name": "wikipedia-template-parser", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-05-21T13:53:26+00:00", "yanked": false, "dependencies": ["pyquery (==1.2.4)", "requests (==1.2.0)"]}}}

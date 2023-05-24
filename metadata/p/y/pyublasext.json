@@ -1,0 +1,1 @@
+{"name": "pyublasext", "versions": {"0.92.4": {"version": "0.92.4", "python_constraint": "*", "released_at": "2008-04-24T16:23:32+00:00", "yanked": false, "dependencies": ["PyUblas (>=0.92.4)"]}, "0.92": {"version": "0.92", "python_constraint": "*", "released_at": "2008-04-20T23:14:33+00:00", "yanked": false, "dependencies": []}}}

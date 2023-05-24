@@ -1,0 +1,1 @@
+{"name": "cell", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2012-08-02T17:26:13+00:00", "yanked": false, "dependencies": ["kombu (>=1.5.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "dpnewman", "versions": {"0.01": {"version": "0.01", "python_constraint": "*", "released_at": "2013-05-28T11:57:23+00:00", "yanked": false, "dependencies": ["cython", "distribute", "numpy", "scipy"]}}}

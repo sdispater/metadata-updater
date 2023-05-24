@@ -1,0 +1,1 @@
+{"name": "djb-headerproxy", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-08-09T03:31:14+00:00", "yanked": false, "dependencies": ["Paste", "setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-08-03T03:20:28+00:00", "yanked": false, "dependencies": ["Paste", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "fabric-with-working-dependencies", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2011-04-19T14:55:05+00:00", "yanked": false, "dependencies": ["paramiko-on-pypi (>=1.7.6)", "pycrypto-on-pypi (>=1.9)"]}}}

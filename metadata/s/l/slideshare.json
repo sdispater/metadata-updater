@@ -1,0 +1,1 @@
+{"name": "slideshare", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2013-05-28T16:40:03+00:00", "yanked": false, "dependencies": ["xmltodict"]}}}

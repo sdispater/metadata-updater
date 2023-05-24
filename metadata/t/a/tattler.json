@@ -1,0 +1,1 @@
+{"name": "tattler", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-01-08T21:26:34+00:00", "yanked": false, "dependencies": ["mock"]}}}

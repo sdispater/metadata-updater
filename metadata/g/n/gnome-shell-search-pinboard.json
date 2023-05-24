@@ -1,0 +1,1 @@
+{"name": "gnome-shell-search-pinboard", "versions": {"1.0.3": {"version": "1.0.3", "python_constraint": "*", "released_at": "2012-11-11T01:55:40+00:00", "yanked": false, "dependencies": ["keyring", "requests"]}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2012-11-11T01:52:29+00:00", "yanked": false, "dependencies": ["keyring", "requests"]}}}

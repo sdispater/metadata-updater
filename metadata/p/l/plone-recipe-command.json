@@ -1,0 +1,1 @@
+{"name": "plone-recipe-command", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2010-02-25T15:31:35+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2007-09-14T11:09:35+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

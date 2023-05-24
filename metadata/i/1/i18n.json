@@ -1,0 +1,1 @@
+{"name": "i18n", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-10-31T19:18:29+00:00", "yanked": false, "dependencies": ["babel", "py"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-05-30T14:39:52+00:00", "yanked": false, "dependencies": ["babel", "py"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-email-test", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2011-08-04T20:38:46+00:00", "yanked": false, "dependencies": ["Django (>=1.2)"]}, "0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2011-04-27T02:42:37+00:00", "yanked": false, "dependencies": ["Django (>=1.2)"]}}}

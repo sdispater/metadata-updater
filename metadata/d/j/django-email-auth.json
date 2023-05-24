@@ -1,0 +1,1 @@
+{"name": "django-email-auth", "versions": {"0.1.5": {"version": "0.1.5", "python_constraint": "*", "released_at": "2012-08-08T11:21:44+00:00", "yanked": false, "dependencies": []}, "0.1.4": {"version": "0.1.4", "python_constraint": "*", "released_at": "2012-08-06T12:23:09+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "bkrypt", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-03-20T12:52:41+00:00", "yanked": false, "dependencies": ["py-bcrypt"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-02-27T10:06:58+00:00", "yanked": false, "dependencies": ["py-bcrypt"]}}}

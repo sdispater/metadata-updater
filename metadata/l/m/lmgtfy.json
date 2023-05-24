@@ -1,0 +1,1 @@
+{"name": "lmgtfy", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2013-05-28T15:43:53+00:00", "yanked": false, "dependencies": ["requests (>=1.2.0)"]}, "0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-05-25T12:01:28+00:00", "yanked": false, "dependencies": ["requests (>=1.2.0)"]}}}

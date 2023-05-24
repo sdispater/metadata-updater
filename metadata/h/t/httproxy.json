@@ -1,0 +1,1 @@
+{"name": "httproxy", "versions": {"0.9.0": {"version": "0.9.0", "python_constraint": "*", "released_at": "2012-10-27T00:32:21+00:00", "yanked": false, "dependencies": ["configparser", "docopt"]}}}

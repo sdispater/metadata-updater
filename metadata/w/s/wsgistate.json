@@ -1,0 +1,1 @@
+{"name": "wsgistate", "versions": {"0.4.2": {"version": "0.4.2", "python_constraint": "*", "released_at": "2007-10-23T00:50:12+00:00", "yanked": false, "dependencies": ["python-memcached", "SQLAlchemy (>0.3)"]}}}

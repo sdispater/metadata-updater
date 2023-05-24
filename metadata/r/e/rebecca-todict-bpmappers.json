@@ -1,0 +1,1 @@
+{"name": "rebecca-todict-bpmappers", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-16T07:50:56+00:00", "yanked": false, "dependencies": ["bpmappers", "pyramid", "pytest ; extra == \"testing\"", "rebecca.todict", "venusian"]}}}

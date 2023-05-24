@@ -1,0 +1,1 @@
+{"name": "wsgiview", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2007-01-02T00:05:17+00:00", "yanked": false, "dependencies": ["setuptools"]}}}
