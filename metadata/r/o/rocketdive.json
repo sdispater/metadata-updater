@@ -1,0 +1,1 @@
+{"name": "rocketdive", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-05-04T18:11:51+00:00", "yanked": false, "dependencies": ["rocket"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-05-04T17:20:00+00:00", "yanked": false, "dependencies": ["rocket"]}}}

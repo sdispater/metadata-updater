@@ -1,0 +1,1 @@
+{"name": "sk-recipe-xdv", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2010-05-29T23:44:04+00:00", "yanked": false, "dependencies": ["setuptools", "xdv (>=0.3)", "zc.buildout (>=1.2.0)"]}}}

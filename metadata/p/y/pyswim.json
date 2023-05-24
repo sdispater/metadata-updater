@@ -1,0 +1,1 @@
+{"name": "pyswim", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2007-12-29T03:51:57+00:00", "yanked": false, "dependencies": ["django", "mwlib (>=0.2.7.dev)"]}}}

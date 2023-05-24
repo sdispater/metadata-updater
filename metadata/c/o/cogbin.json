@@ -1,0 +1,1 @@
+{"name": "cogbin", "versions": {"0.2.11dev": {"version": "0.2.11dev", "python_constraint": "*", "released_at": "2009-03-07T07:54:49+00:00", "yanked": false, "dependencies": ["repoze.what-quickstart", "tgrum", "ToscaWidgets (>=0.9.1)", "TurboGears2", "zope.sqlalchemy"]}}}

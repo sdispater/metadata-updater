@@ -1,0 +1,1 @@
+{"name": "collective-js-prettify", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-07-27T14:15:33+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-07-27T00:47:02+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

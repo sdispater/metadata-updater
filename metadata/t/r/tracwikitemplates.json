@@ -1,0 +1,1 @@
+{"name": "tracwikitemplates", "versions": {"0.3.0": {"version": "0.3.0", "python_constraint": "*", "released_at": "2008-04-21T15:26:13+00:00", "yanked": false, "dependencies": ["TracCtxtnavAdd"]}}}

@@ -1,0 +1,1 @@
+{"name": "collective-workflowed", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2008-10-17T04:00:59+00:00", "yanked": false, "dependencies": ["collective.wtf", "setuptools"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2008-07-25T23:05:03+00:00", "yanked": false, "dependencies": ["collective.wtf", "setuptools"]}}}

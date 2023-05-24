@@ -1,0 +1,1 @@
+{"name": "doapviewplugin", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-07-04T06:07:31+00:00", "yanked": false, "dependencies": ["doapfiend"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-07-04T04:40:08+00:00", "yanked": false, "dependencies": ["doapfiend"]}}}

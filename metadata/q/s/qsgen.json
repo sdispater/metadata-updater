@@ -1,0 +1,1 @@
+{"name": "qsgen", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-11-17T18:57:43+00:00", "yanked": false, "dependencies": ["Mako", "Pygments"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-01-07T08:46:03+00:00", "yanked": false, "dependencies": ["Mako", "Pygments"]}}}

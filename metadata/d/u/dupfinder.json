@@ -1,0 +1,1 @@
+{"name": "dupfinder", "versions": {"1.4.3": {"version": "1.4.3", "python_constraint": "*", "released_at": "2010-01-20T23:38:53+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

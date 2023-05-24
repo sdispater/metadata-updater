@@ -1,0 +1,1 @@
+{"name": "mtstat-mysql", "versions": {"0.7.3.3": {"version": "0.7.3.3", "python_constraint": "*", "released_at": "2007-08-07T21:20:34+00:00", "yanked": false, "dependencies": []}, "0.7.1": {"version": "0.7.1", "python_constraint": "*", "released_at": "2006-12-13T00:30:56+00:00", "yanked": false, "dependencies": []}}}

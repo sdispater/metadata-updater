@@ -1,0 +1,1 @@
+{"name": "formconvert", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2009-10-05T01:09:31+00:00", "yanked": false, "dependencies": ["ConversionKit", "FormBuild (>=2.0,<=2.99)", "NestedRecord", "RecordConvert", "StringConvert", "WebOb"]}}}

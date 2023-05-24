@@ -1,0 +1,1 @@
+{"name": "tw-rating", "versions": {"0.8": {"version": "0.8", "python_constraint": "*", "released_at": "2008-06-02T15:20:41+00:00", "yanked": false, "dependencies": ["ToscaWidgets", "tw.jquery"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-06-01T11:01:36+00:00", "yanked": false, "dependencies": ["ToscaWidgets", "tw.jquery"]}}}

@@ -1,0 +1,1 @@
+{"name": "defi-trainer", "versions": {"1.1b": {"version": "1.1b", "python_constraint": "*", "released_at": "2009-05-31T22:33:14+00:00", "yanked": false, "dependencies": ["docutils (>=0.3)"]}}}

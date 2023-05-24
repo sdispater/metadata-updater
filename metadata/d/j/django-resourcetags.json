@@ -1,0 +1,1 @@
+{"name": "django-resourcetags", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2009-04-19T01:08:08+00:00", "yanked": false, "dependencies": []}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2008-10-01T02:15:51+00:00", "yanked": false, "dependencies": []}}}

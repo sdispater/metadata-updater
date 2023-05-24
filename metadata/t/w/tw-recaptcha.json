@@ -1,0 +1,1 @@
+{"name": "tw-recaptcha", "versions": {"0.8": {"version": "0.8", "python_constraint": "*", "released_at": "2008-06-02T15:24:09+00:00", "yanked": false, "dependencies": ["Genshi", "recaptcha-client", "ToscaWidgets (>0.8)"]}}}
