@@ -1,0 +1,1 @@
+{"name": "document-it", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-08-05T18:13:40+00:00", "yanked": false, "dependencies": ["Markdown"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-08-04T05:00:11+00:00", "yanked": false, "dependencies": ["Markdown"]}}}

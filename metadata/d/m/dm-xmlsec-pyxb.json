@@ -1,0 +1,1 @@
+{"name": "dm-xmlsec-pyxb", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2012-07-02T14:30:58+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-03-21T09:02:34+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

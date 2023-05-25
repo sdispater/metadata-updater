@@ -1,0 +1,1 @@
+{"name": "django-testtools", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-10-27T20:58:07+00:00", "yanked": false, "dependencies": ["django", "setuptools"]}}}

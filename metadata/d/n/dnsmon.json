@@ -1,0 +1,1 @@
+{"name": "dnsmon", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-04-12T05:18:17+00:00", "yanked": false, "dependencies": ["pydns (>=2.3.4)", "python-daemon (>=1.5.5)"]}}}

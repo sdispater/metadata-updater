@@ -1,0 +1,1 @@
+{"name": "django-sherlock", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-03-11T04:46:32+00:00", "yanked": false, "dependencies": ["Django (>=1.4.0)", "redis"]}}}

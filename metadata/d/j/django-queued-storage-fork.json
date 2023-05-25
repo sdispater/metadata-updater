@@ -1,0 +1,1 @@
+{"name": "django-queued-storage-fork", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2011-09-12T11:41:01+00:00", "yanked": false, "dependencies": ["django-celery (>=2.3.3)"]}}}

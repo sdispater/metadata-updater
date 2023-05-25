@@ -1,0 +1,1 @@
+{"name": "djorm-ext-pggeom", "versions": {"0.4.1": {"version": "0.4.1", "python_constraint": "*", "released_at": "2012-10-17T22:11:29+00:00", "yanked": false, "dependencies": ["djorm-ext-core (>=0.4)"]}, "0.4.0": {"version": "0.4.0", "python_constraint": "*", "released_at": "2012-10-07T11:11:12+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "django-redcap", "versions": {"0.1b2": {"version": "0.1b2", "python_constraint": "*", "released_at": "2012-02-27T04:49:51+00:00", "yanked": false, "dependencies": ["distribute", "django"]}, "0.1b1": {"version": "0.1b1", "python_constraint": "*", "released_at": "2012-02-25T17:50:41+00:00", "yanked": false, "dependencies": ["distribute", "django"]}}}

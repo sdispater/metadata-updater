@@ -1,0 +1,1 @@
+{"name": "django-project", "versions": {"0.7": {"version": "0.7", "python_constraint": "*", "released_at": "2011-06-20T02:47:05+00:00", "yanked": false, "dependencies": ["django"]}}}

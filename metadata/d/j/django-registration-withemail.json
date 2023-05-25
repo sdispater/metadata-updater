@@ -1,0 +1,1 @@
+{"name": "django-registration-withemail", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-11-06T04:05:36+00:00", "yanked": false, "dependencies": ["django"]}}}

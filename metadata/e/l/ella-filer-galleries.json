@@ -1,0 +1,1 @@
+{"name": "ella-filer-galleries", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2013-03-02T12:38:21+00:00", "yanked": false, "dependencies": ["ella (>=3.0.0)", "ella-galleries", "setuptools (>=0.6b1)"]}}}

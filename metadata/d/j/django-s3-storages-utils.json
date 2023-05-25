@@ -1,0 +1,1 @@
+{"name": "django-s3-storages-utils", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-09-11T03:40:56+00:00", "yanked": false, "dependencies": ["boto", "django-storages"]}}}

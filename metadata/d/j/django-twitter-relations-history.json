@@ -1,0 +1,1 @@
+{"name": "django-twitter-relations-history", "versions": {"0.3.8": {"version": "0.3.8", "python_constraint": "*", "released_at": "2013-05-14T17:20:39+00:00", "yanked": false, "dependencies": ["django-twitter-api (>=0.1.1)"]}}}

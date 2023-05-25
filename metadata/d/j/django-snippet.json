@@ -1,0 +1,1 @@
+{"name": "django-snippet", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2011-06-09T11:11:00+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-06-09T11:06:29+00:00", "yanked": false, "dependencies": []}}}

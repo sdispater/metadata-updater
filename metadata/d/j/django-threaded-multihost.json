@@ -1,0 +1,1 @@
+{"name": "django-threaded-multihost", "versions": {"1.4-1": {"version": "1.4-1", "python_constraint": "*", "released_at": "2011-12-24T03:01:48+00:00", "yanked": false, "dependencies": []}, "1.4-0": {"version": "1.4-0", "python_constraint": "*", "released_at": "2010-03-21T01:58:34+00:00", "yanked": false, "dependencies": []}}}

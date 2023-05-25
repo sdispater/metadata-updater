@@ -1,0 +1,1 @@
+{"name": "django-stackato", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-06-01T19:29:51+00:00", "yanked": false, "dependencies": []}, "0.9": {"version": "0.9", "python_constraint": "*", "released_at": "2011-05-27T20:02:38+00:00", "yanked": false, "dependencies": []}}}

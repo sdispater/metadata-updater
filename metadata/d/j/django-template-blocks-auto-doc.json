@@ -1,0 +1,1 @@
+{"name": "django-template-blocks-auto-doc", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-04-09T21:06:23+00:00", "yanked": false, "dependencies": ["lxml (==3.1.1)", "Pygments (==1.6)"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-recaptcha-mozilla", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-12-15T00:10:06+00:00", "yanked": false, "dependencies": ["recaptcha-client"]}}}

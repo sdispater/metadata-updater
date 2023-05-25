@@ -1,0 +1,1 @@
+{"name": "django-transplant", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-06-21T21:28:12+00:00", "yanked": false, "dependencies": ["django (>=1.2.5)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-06-15T20:53:52+00:00", "yanked": false, "dependencies": ["django (>=1.2.5)"]}}}

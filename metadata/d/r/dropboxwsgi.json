@@ -1,0 +1,1 @@
+{"name": "dropboxwsgi", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2012-04-06T02:29:21+00:00", "yanked": false, "dependencies": ["dropbox"]}}}

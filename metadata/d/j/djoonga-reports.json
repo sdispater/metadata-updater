@@ -1,0 +1,1 @@
+{"name": "djoonga-reports", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2009-11-04T04:46:39+00:00", "yanked": false, "dependencies": ["scrapy (==0.7)"]}}}

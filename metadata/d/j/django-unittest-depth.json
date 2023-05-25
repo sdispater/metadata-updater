@@ -1,0 +1,1 @@
+{"name": "django-unittest-depth", "versions": {"0.6": {"version": "0.6", "python_constraint": "*", "released_at": "2009-02-07T16:42:37+00:00", "yanked": false, "dependencies": []}, "0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2009-01-22T09:44:53+00:00", "yanked": false, "dependencies": []}}}

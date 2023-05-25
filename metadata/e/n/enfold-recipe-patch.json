@@ -1,0 +1,1 @@
+{"name": "enfold-recipe-patch", "versions": {"1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2009-02-06T11:29:12+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}, "1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2008-11-24T20:01:12+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

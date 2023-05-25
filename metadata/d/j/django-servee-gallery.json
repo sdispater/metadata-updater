@@ -1,0 +1,1 @@
+{"name": "django-servee-gallery", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2012-09-16T19:24:42+00:00", "yanked": false, "dependencies": ["django-improved-inlines"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-09-09T20:45:13+00:00", "yanked": false, "dependencies": ["django-improved-inlines"]}}}

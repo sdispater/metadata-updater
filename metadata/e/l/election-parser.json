@@ -1,0 +1,1 @@
+{"name": "election-parser", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-10-23T02:47:30+00:00", "yanked": false, "dependencies": ["paramiko", "pycurl", "python-gflags", "scpclient", "unittest2"]}}}

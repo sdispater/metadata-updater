@@ -1,0 +1,1 @@
+{"name": "django-webperf", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-09-25T16:43:59+00:00", "yanked": false, "dependencies": ["Django (>=1.2,<1.4) ; extra == \"test\"", "django-appconf (==0.4.1)", "mock (==0.7.2) ; extra == \"test\""]}}}

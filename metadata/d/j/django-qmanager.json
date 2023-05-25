@@ -1,0 +1,1 @@
+{"name": "django-qmanager", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-01-27T13:38:00+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-01-27T12:49:14+00:00", "yanked": false, "dependencies": []}}}

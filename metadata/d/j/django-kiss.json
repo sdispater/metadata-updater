@@ -1,0 +1,1 @@
+{"name": "django-kiss", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-04-29T23:30:39+00:00", "yanked": false, "dependencies": ["Django (>=1.4)", "requests"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-04-29T23:08:12+00:00", "yanked": false, "dependencies": ["Django (>=1.4)", "requests"]}}}

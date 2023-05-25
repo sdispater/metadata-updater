@@ -1,0 +1,1 @@
+{"name": "djungle-backbone", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2012-07-14T14:33:17+00:00", "yanked": false, "dependencies": ["Django (>=1.4)"]}}}

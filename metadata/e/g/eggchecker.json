@@ -1,0 +1,1 @@
+{"name": "eggchecker", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2007-09-30T15:34:21+00:00", "yanked": false, "dependencies": ["pyflakes (<empty>)"]}}}

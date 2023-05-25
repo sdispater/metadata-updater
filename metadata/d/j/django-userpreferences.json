@@ -1,0 +1,1 @@
+{"name": "django-userpreferences", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-04-21T00:36:17+00:00", "yanked": false, "dependencies": ["django_picklefield (>=0.1.9)"]}}}

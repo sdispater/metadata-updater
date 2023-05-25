@@ -1,0 +1,1 @@
+{"name": "doppler", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-08-21T16:42:12+00:00", "yanked": false, "dependencies": ["psycopg2 (>=2.4.5)"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-08-21T16:09:08+00:00", "yanked": false, "dependencies": ["psycopg2 (>=2.4.5)"]}}}

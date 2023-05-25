@@ -1,0 +1,1 @@
+{"name": "dottedish", "versions": {"0.6": {"version": "0.6", "python_constraint": "*", "released_at": "2009-06-30T14:59:06+00:00", "yanked": false, "dependencies": ["simplegeneric"]}, "0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2009-04-29T13:48:16+00:00", "yanked": false, "dependencies": []}}}

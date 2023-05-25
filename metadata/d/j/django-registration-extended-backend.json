@@ -1,0 +1,1 @@
+{"name": "django-registration-extended-backend", "versions": {"0.1.a2": {"version": "0.1.a2", "python_constraint": "*", "released_at": "2012-01-26T22:21:28+00:00", "yanked": false, "dependencies": ["Django (>=1.3)"]}}}

@@ -1,0 +1,1 @@
+{"name": "djftpd", "versions": {"0.3.0": {"version": "0.3.0", "python_constraint": "*", "released_at": "2011-02-24T13:58:55+00:00", "yanked": false, "dependencies": ["django", "pyftpdlib"]}}}

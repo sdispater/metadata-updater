@@ -1,0 +1,1 @@
+{"name": "djungle-html5shiv", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2012-07-14T15:12:01+00:00", "yanked": false, "dependencies": ["Django (>=1.4)"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-push2", "versions": {"0.3.12": {"version": "0.3.12", "python_constraint": "*", "released_at": "2012-02-19T19:52:41+00:00", "yanked": false, "dependencies": ["Django (==1.3)"]}}}

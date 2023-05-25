@@ -1,0 +1,1 @@
+{"name": "ec2selector", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-04-22T23:33:48+00:00", "yanked": false, "dependencies": ["boto"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-04-22T23:29:29+00:00", "yanked": false, "dependencies": ["boto"]}}}

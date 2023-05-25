@@ -1,0 +1,1 @@
+{"name": "easydialogs-gtk", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-01-02T22:41:09+00:00", "yanked": false, "dependencies": ["PyGTK (>=2.0)"]}}}

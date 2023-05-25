@@ -1,0 +1,1 @@
+{"name": "django-rosetta-grappelli", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2011-08-14T18:26:07+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-08-14T02:45:58+00:00", "yanked": false, "dependencies": []}}}

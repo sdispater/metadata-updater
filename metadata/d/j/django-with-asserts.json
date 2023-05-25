@@ -1,0 +1,1 @@
+{"name": "django-with-asserts", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-03-06T02:45:01+00:00", "yanked": false, "dependencies": ["cssselect", "lxml"]}}}

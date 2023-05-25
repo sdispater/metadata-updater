@@ -1,0 +1,1 @@
+{"name": "djungle-favicons", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2012-03-14T22:00:47+00:00", "yanked": false, "dependencies": ["Django (>=1.3.1)"]}}}

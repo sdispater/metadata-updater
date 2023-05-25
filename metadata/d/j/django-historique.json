@@ -1,0 +1,1 @@
+{"name": "django-historique", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2010-02-05T06:59:22+00:00", "yanked": false, "dependencies": ["django"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-02-03T04:56:44+00:00", "yanked": false, "dependencies": ["django"]}}}

@@ -1,0 +1,1 @@
+{"name": "donecal", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2010-10-20T21:28:20+00:00", "yanked": false, "dependencies": ["anyjson"]}}}

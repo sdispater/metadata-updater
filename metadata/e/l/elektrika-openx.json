@@ -1,0 +1,1 @@
+{"name": "elektrika-openx", "versions": {"1.3": {"version": "1.3", "python_constraint": "*", "released_at": "2010-01-03T21:50:34+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.2": {"version": "1.2", "python_constraint": "*", "released_at": "2009-09-02T12:01:35+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

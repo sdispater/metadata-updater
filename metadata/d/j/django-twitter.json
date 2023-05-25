@@ -1,0 +1,1 @@
+{"name": "django-twitter", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-01-06T19:46:13+00:00", "yanked": false, "dependencies": ["oauth2"]}}}

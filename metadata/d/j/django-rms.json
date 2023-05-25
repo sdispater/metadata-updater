@@ -1,0 +1,1 @@
+{"name": "django-rms", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2012-03-17T13:53:39+00:00", "yanked": false, "dependencies": ["django"]}}}

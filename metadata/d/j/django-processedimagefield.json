@@ -1,0 +1,1 @@
+{"name": "django-processedimagefield", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-10-28T10:43:06+00:00", "yanked": false, "dependencies": ["django-processedfilefield (>=0.2)", "PIL"]}}}

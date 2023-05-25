@@ -1,0 +1,1 @@
+{"name": "django-git", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-11-06T19:52:47+00:00", "yanked": false, "dependencies": ["GitPython (>=0.1.4)", "Pygments (>=0.11)"]}}}

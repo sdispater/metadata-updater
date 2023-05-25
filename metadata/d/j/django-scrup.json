@@ -1,0 +1,1 @@
+{"name": "django-scrup", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-03-08T23:45:25+00:00", "yanked": false, "dependencies": ["boto (>=1.9b)"]}}}

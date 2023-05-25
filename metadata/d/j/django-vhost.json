@@ -1,0 +1,1 @@
+{"name": "django-vhost", "versions": {"0.17": {"version": "0.17", "python_constraint": "*", "released_at": "2011-02-25T17:56:56+00:00", "yanked": false, "dependencies": ["Django"]}}}

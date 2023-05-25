@@ -1,0 +1,1 @@
+{"name": "django-servee", "versions": {"0.7a1.dev1": {"version": "0.7a1.dev1", "python_constraint": "*", "released_at": "2012-09-09T20:41:50+00:00", "yanked": false, "dependencies": ["Django (>=1.2.5)", "django-classy-tags"]}, "0.5.3.beta": {"version": "0.5.3.beta", "python_constraint": "*", "released_at": "2010-09-07T04:57:33+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "django-staticfiles-jquery-ui", "versions": {"1.8.24": {"version": "1.8.24", "python_constraint": "*", "released_at": "2012-10-12T12:44:17+00:00", "yanked": false, "dependencies": ["Django"]}}}

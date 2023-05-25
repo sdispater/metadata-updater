@@ -1,0 +1,1 @@
+{"name": "eagle", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2006-01-07T16:19:03+00:00", "yanked": false, "dependencies": ["pygtk (>=2.6)"]}}}

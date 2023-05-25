@@ -1,0 +1,1 @@
+{"name": "dm-zope-rpc", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2013-03-20T08:27:27+00:00", "yanked": false, "dependencies": ["dm.zope.schema", "setuptools"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-09-13T09:20:40+00:00", "yanked": false, "dependencies": ["dm.zope.schema", "setuptools"]}}}

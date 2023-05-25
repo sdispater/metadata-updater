@@ -1,0 +1,1 @@
+{"name": "django-xsendfile", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-02-22T13:49:17+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

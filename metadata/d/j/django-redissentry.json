@@ -1,0 +1,1 @@
+{"name": "django-redissentry", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2012-06-21T21:12:10+00:00", "yanked": false, "dependencies": ["redissentry-core (>=0.2.0)"]}, "0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-06-14T14:45:37+00:00", "yanked": false, "dependencies": ["redissentry-core (>=0.1.1)"]}}}

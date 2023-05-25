@@ -1,0 +1,1 @@
+{"name": "django-svnlit", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-07-08T16:36:01+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-01-30T01:53:31+00:00", "yanked": false, "dependencies": ["pysvn"]}}}

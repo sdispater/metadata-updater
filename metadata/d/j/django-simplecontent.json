@@ -1,0 +1,1 @@
+{"name": "django-simplecontent", "versions": {"0.1a.1": {"version": "0.1a.1", "python_constraint": "*", "released_at": "2010-12-05T12:20:46+00:00", "yanked": false, "dependencies": []}, "0.1a": {"version": "0.1a", "python_constraint": "*", "released_at": "2010-12-03T15:39:17+00:00", "yanked": false, "dependencies": []}}}

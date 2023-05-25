@@ -1,0 +1,1 @@
+{"name": "djungle-headjs", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-07-14T14:10:36+00:00", "yanked": false, "dependencies": ["Django (>=1.4)"]}, "0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2012-07-13T20:23:04+00:00", "yanked": false, "dependencies": ["Django (>=1.4)"]}}}

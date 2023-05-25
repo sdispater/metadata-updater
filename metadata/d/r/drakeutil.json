@@ -1,0 +1,1 @@
+{"name": "drakeutil", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-02-05T04:12:40+00:00", "yanked": false, "dependencies": ["MySQL-python (>=1.2.3) ; extra == \"mysql\"", "python-datetime-tz (>=0.2)", "python-dateutil (>=1.5)"]}}}

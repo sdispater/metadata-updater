@@ -1,0 +1,1 @@
+{"name": "django-shop-multiplecurrencies", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2012-09-12T13:58:09+00:00", "yanked": false, "dependencies": ["Django (>=1.2)", "django-shop (>=0.0.9)"]}}}

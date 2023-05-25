@@ -1,0 +1,1 @@
+{"name": "django-spaminspector", "versions": {"0.1rc4": {"version": "0.1rc4", "python_constraint": "*", "released_at": "2011-07-22T17:02:34+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1rc3": {"version": "0.1rc3", "python_constraint": "*", "released_at": "2011-07-22T16:43:32+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

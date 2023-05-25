@@ -1,0 +1,1 @@
+{"name": "django-social-login", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2013-04-06T13:29:35+00:00", "yanked": false, "dependencies": ["socialoauth"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-04-05T08:15:23+00:00", "yanked": false, "dependencies": ["socialoauth"]}}}

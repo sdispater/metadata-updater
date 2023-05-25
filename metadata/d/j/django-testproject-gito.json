@@ -1,0 +1,1 @@
+{"name": "django-testproject-gito", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-04-01T00:46:00+00:00", "yanked": false, "dependencies": ["Django (>=1.2)"]}}}

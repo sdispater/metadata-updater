@@ -1,0 +1,1 @@
+{"name": "django-postfix", "versions": {"0.0.1dev": {"version": "0.0.1dev", "python_constraint": "*", "released_at": "2012-06-04T18:58:06+00:00", "yanked": false, "dependencies": ["distribute", "Django (>=1.4)"]}}}
