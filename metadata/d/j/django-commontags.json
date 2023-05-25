@@ -1,0 +1,1 @@
+{"name": "django-commontags", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-04-19T03:18:31+00:00", "yanked": false, "dependencies": ["Django (>=1.1.1)"]}}}

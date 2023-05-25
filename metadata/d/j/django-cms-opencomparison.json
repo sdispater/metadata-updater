@@ -1,0 +1,1 @@
+{"name": "django-cms-opencomparison", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2011-11-12T19:26:02+00:00", "yanked": false, "dependencies": ["django-cms (>=2.1)"]}}}

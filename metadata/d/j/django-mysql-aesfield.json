@@ -1,0 +1,1 @@
+{"name": "django-mysql-aesfield", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2012-09-21T22:36:16+00:00", "yanked": false, "dependencies": []}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-09-21T22:27:44+00:00", "yanked": false, "dependencies": []}}}

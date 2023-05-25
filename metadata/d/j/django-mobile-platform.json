@@ -1,0 +1,1 @@
+{"name": "django-mobile-platform", "versions": {"0.2.3": {"version": "0.2.3", "python_constraint": "*", "released_at": "2012-10-17T11:37:30+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

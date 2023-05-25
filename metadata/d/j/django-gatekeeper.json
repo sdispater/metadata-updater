@@ -1,0 +1,1 @@
+{"name": "django-gatekeeper", "versions": {"0.3.0": {"version": "0.3.0", "python_constraint": "*", "released_at": "2009-10-26T15:43:18+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-12-18T22:45:47+00:00", "yanked": false, "dependencies": []}}}

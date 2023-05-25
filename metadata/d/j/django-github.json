@@ -1,0 +1,1 @@
+{"name": "django-github", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2010-08-07T00:06:47+00:00", "yanked": false, "dependencies": ["httplib2"]}}}

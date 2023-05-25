@@ -1,0 +1,1 @@
+{"name": "distext", "versions": {"0.0.4": {"version": "0.0.4", "python_constraint": "*", "released_at": "2010-11-17T09:58:11+00:00", "yanked": false, "dependencies": ["Jinja2"]}}}

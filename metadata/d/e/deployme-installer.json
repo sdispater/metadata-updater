@@ -1,0 +1,1 @@
+{"name": "deployme-installer", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2012-12-30T01:29:31+00:00", "yanked": false, "dependencies": ["kajiki", "PyYAML"]}}}

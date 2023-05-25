@@ -1,0 +1,1 @@
+{"name": "django-cms-pictures", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-11-17T20:44:28+00:00", "yanked": false, "dependencies": ["django-cms (>=2.1)"]}, "0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2011-11-05T08:40:23+00:00", "yanked": false, "dependencies": ["django-cms (>=2.1)"]}}}

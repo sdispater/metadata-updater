@@ -1,0 +1,1 @@
+{"name": "django-hinting-cache", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2012-03-29T05:16:55+00:00", "yanked": false, "dependencies": []}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-03-29T05:09:45+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "django-briefcase", "versions": {"0.1b2": {"version": "0.1b2", "python_constraint": "*", "released_at": "2010-10-27T15:19:56+00:00", "yanked": false, "dependencies": ["Django", "south"]}}}

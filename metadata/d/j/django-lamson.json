@@ -1,0 +1,1 @@
+{"name": "django-lamson", "versions": {"0.1.0.beta": {"version": "0.1.0.beta", "python_constraint": "*", "released_at": "2012-01-26T12:39:04+00:00", "yanked": false, "dependencies": ["lamson (==1.1)"]}}}

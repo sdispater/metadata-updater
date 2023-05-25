@@ -1,0 +1,1 @@
+{"name": "django-dbconf", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-10-25T16:16:27+00:00", "yanked": false, "dependencies": ["distribute"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-10-20T22:45:11+00:00", "yanked": false, "dependencies": ["distribute"]}}}

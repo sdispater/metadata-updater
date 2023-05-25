@@ -1,0 +1,1 @@
+{"name": "django-cached-user", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-03-16T18:39:40+00:00", "yanked": false, "dependencies": ["Django"]}}}

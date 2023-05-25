@@ -1,0 +1,1 @@
+{"name": "django-albertson", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-02-21T18:09:46+00:00", "yanked": false, "dependencies": ["albertson", "django"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-02-21T05:26:40+00:00", "yanked": false, "dependencies": ["albertson", "django"]}}}

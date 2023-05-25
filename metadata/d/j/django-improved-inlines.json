@@ -1,0 +1,1 @@
+{"name": "django-improved-inlines", "versions": {"0.2.2": {"version": "0.2.2", "python_constraint": "*", "released_at": "2011-03-25T14:40:55+00:00", "yanked": false, "dependencies": ["beautifulsoup (>=3.2.0)"]}, "0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2010-08-17T05:35:18+00:00", "yanked": false, "dependencies": []}}}

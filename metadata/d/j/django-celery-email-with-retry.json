@@ -1,0 +1,1 @@
+{"name": "django-celery-email-with-retry", "versions": {"1.0.3": {"version": "1.0.3", "python_constraint": "*", "released_at": "2013-05-08T13:50:08+00:00", "yanked": false, "dependencies": ["django-celery (>=2.2.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-compass", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-03-09T15:21:00+00:00", "yanked": false, "dependencies": ["django-boss (>=0.6.1)"]}}}

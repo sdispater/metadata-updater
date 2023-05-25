@@ -1,0 +1,1 @@
+{"name": "distancematrix", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-01-05T22:04:26+00:00", "yanked": false, "dependencies": ["networkx", "pymetis"]}}}

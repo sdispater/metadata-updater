@@ -1,0 +1,1 @@
+{"name": "django-cms-social-networks", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-05-10T18:01:07+00:00", "yanked": false, "dependencies": ["django-cms (>=2.1)"]}, "0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2011-11-05T08:40:24+00:00", "yanked": false, "dependencies": ["django-cms (>=2.1)"]}}}

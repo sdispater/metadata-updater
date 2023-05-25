@@ -1,0 +1,1 @@
+{"name": "django-conch", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-01-30T13:40:41+00:00", "yanked": false, "dependencies": ["Twisted (>=12.3.0)"]}}}

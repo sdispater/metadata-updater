@@ -1,0 +1,1 @@
+{"name": "django-formsetfield", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-02-06T11:15:03+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-02-01T13:45:11+00:00", "yanked": false, "dependencies": []}}}

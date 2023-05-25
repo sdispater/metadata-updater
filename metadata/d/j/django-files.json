@@ -1,0 +1,1 @@
+{"name": "django-files", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2013-02-21T09:55:15+00:00", "yanked": false, "dependencies": ["django", "django-braces"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-11-30T12:17:56+00:00", "yanked": false, "dependencies": ["django", "django-braces"]}}}

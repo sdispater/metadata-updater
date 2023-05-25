@@ -1,0 +1,1 @@
+{"name": "django-mimemail", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-11-18T14:22:53+00:00", "yanked": false, "dependencies": ["beautifulsoup", "django"]}}}

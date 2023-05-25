@@ -1,0 +1,1 @@
+{"name": "django-cache-throttle", "versions": {"2012.11.09.3": {"version": "2012.11.09.3", "python_constraint": "*", "released_at": "2012-11-09T19:36:43+00:00", "yanked": false, "dependencies": ["django"]}}}

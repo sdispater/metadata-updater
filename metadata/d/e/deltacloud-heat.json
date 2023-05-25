@@ -1,0 +1,1 @@
+{"name": "deltacloud-heat", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-03-01T10:45:17+00:00", "yanked": false, "dependencies": ["deltacloud (>=0.9.1)", "python-novaclient"]}}}

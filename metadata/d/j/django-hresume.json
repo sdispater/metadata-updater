@@ -1,0 +1,1 @@
+{"name": "django-hresume", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-06-27T07:28:04+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-auth-hack", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-12-29T18:47:23+00:00", "yanked": false, "dependencies": ["Django (>=1.3.1)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-12-29T18:37:33+00:00", "yanked": false, "dependencies": ["Django (>=1.3.1)"]}}}

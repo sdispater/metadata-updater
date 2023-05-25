@@ -1,0 +1,1 @@
+{"name": "django-eggnog", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-02-07T12:52:39+00:00", "yanked": false, "dependencies": ["apscheduler", "Django (>=1.4)", "south (>=0.7.2)", "yolk"]}}}

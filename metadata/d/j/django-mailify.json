@@ -1,0 +1,1 @@
+{"name": "django-mailify", "versions": {"0.1.0alpha2": {"version": "0.1.0alpha2", "python_constraint": "*", "released_at": "2012-07-07T21:01:49+00:00", "yanked": false, "dependencies": []}, "0.1.0alpha1": {"version": "0.1.0alpha1", "python_constraint": "*", "released_at": "2012-07-07T12:43:34+00:00", "yanked": false, "dependencies": []}}}

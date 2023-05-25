@@ -1,0 +1,1 @@
+{"name": "django-littlebro", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2011-12-18T22:31:22+00:00", "yanked": false, "dependencies": ["anyjson", "carrot (>=0.6.0)", "celery (>=0.8.0)", "django-celery", "django-kombu", "importlib", "pymongo"]}}}

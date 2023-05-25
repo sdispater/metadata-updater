@@ -1,0 +1,1 @@
+{"name": "django-doorman", "versions": {"0.1.4": {"version": "0.1.4", "python_constraint": "*", "released_at": "2012-12-20T02:53:33+00:00", "yanked": false, "dependencies": ["django (>=1.2)"]}, "0.1.3": {"version": "0.1.3", "python_constraint": "*", "released_at": "2012-12-20T00:11:52+00:00", "yanked": false, "dependencies": ["django (>=1.2)"]}}}

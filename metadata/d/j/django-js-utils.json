@@ -1,0 +1,1 @@
+{"name": "django-js-utils", "versions": {"0.0.5dev": {"version": "0.0.5dev", "python_constraint": "*", "released_at": "2012-09-07T12:52:32+00:00", "yanked": false, "dependencies": ["django"]}}}

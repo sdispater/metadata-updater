@@ -1,0 +1,1 @@
+{"name": "django-auditable", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2013-01-31T21:11:26+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-01-29T13:28:20+00:00", "yanked": false, "dependencies": []}}}

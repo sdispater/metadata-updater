@@ -1,0 +1,1 @@
+{"name": "django-custom-delete-selected", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-06-27T11:55:05+00:00", "yanked": false, "dependencies": ["django"]}}}

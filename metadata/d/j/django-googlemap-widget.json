@@ -1,0 +1,1 @@
+{"name": "django-googlemap-widget", "versions": {"0.1.4": {"version": "0.1.4", "python_constraint": "*", "released_at": "2012-03-03T20:30:17+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1.3": {"version": "0.1.3", "python_constraint": "*", "released_at": "2012-02-28T11:48:10+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

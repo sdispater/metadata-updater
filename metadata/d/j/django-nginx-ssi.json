@@ -1,0 +1,1 @@
+{"name": "django-nginx-ssi", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-05-27T17:51:46+00:00", "yanked": false, "dependencies": ["django", "python-memcached"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-01-25T20:37:23+00:00", "yanked": false, "dependencies": ["django", "python-memcached"]}}}

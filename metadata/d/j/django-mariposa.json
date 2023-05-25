@@ -1,0 +1,1 @@
+{"name": "django-mariposa", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-05-02T05:32:13+00:00", "yanked": false, "dependencies": ["mariposa (==0.1)"]}}}

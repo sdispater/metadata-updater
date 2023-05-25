@@ -1,0 +1,1 @@
+{"name": "django-admintools-bootstrap", "versions": {"0.0.1a1": {"version": "0.0.1a1", "python_constraint": "*", "released_at": "2012-01-19T12:41:40+00:00", "yanked": false, "dependencies": ["BeautifulSoup (>=3.2.0)", "django-admin-tools (>=0.4.1)", "django-appconf (>=0.4.1)", "versiontools (>=1.8.2)"]}}}

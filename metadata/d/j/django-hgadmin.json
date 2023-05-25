@@ -1,0 +1,1 @@
+{"name": "django-hgadmin", "versions": {"0.4.2": {"version": "0.4.2", "python_constraint": "*", "released_at": "2010-06-20T18:11:21+00:00", "yanked": false, "dependencies": ["iniparse"]}, "0.4.1": {"version": "0.4.1", "python_constraint": "*", "released_at": "2010-03-30T17:09:05+00:00", "yanked": false, "dependencies": ["iniparse"]}}}

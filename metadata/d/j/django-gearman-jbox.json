@@ -1,0 +1,1 @@
+{"name": "django-gearman-jbox", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-01-31T03:29:56+00:00", "yanked": false, "dependencies": ["gearman (>=2.0.0)", "prettytable (==0.5)"]}}}

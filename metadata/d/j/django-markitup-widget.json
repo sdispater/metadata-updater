@@ -1,0 +1,1 @@
+{"name": "django-markitup-widget", "versions": {"0.1rc3": {"version": "0.1rc3", "python_constraint": "*", "released_at": "2011-06-11T05:48:32+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

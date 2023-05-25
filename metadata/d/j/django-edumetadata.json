@@ -1,0 +1,1 @@
+{"name": "django-edumetadata", "versions": {"0.7": {"version": "0.7", "python_constraint": "*", "released_at": "2012-08-09T20:45:42+00:00", "yanked": false, "dependencies": ["django-categories (>=1.0)"]}}}

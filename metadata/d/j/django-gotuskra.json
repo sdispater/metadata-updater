@@ -1,0 +1,1 @@
+{"name": "django-gotuskra", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-07-03T19:32:49+00:00", "yanked": false, "dependencies": ["coverage (==3.5.2) ; extra == \"test\"", "Django (>=1.4)", "django-appconf (>=0.5)", "django-model-utils (>=1.1.0)", "django-nose (==1.1) ; extra == \"test\"", "requests (>=0.13.2)"]}}}

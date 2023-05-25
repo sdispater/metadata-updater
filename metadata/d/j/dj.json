@@ -1,0 +1,1 @@
+{"name": "dj", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-04T21:53:47+00:00", "yanked": false, "dependencies": ["django"]}, "0.0": {"version": "0.0", "python_constraint": "*", "released_at": "2012-03-11T07:11:17+00:00", "yanked": false, "dependencies": ["django"]}}}

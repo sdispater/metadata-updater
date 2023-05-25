@@ -1,0 +1,1 @@
+{"name": "django-hs-sessions", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-12-18T23:57:20+00:00", "yanked": false, "dependencies": ["python-handler-socket"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2010-12-13T12:44:14+00:00", "yanked": false, "dependencies": []}}}

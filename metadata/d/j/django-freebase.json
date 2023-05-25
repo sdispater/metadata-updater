@@ -1,0 +1,1 @@
+{"name": "django-freebase", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2013-03-02T02:51:49+00:00", "yanked": false, "dependencies": ["Django (>=1.5)"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-blogs", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2012-11-18T07:10:15+00:00", "yanked": false, "dependencies": ["django (>=1.2)", "django-misc", "django-pagination", "django-tagging", "django-voter"]}}}

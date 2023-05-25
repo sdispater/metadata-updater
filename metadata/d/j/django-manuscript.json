@@ -1,0 +1,1 @@
+{"name": "django-manuscript", "versions": {"0.3.1": {"version": "0.3.1", "python_constraint": "*", "released_at": "2011-11-22T20:38:07+00:00", "yanked": false, "dependencies": []}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2011-11-22T20:33:17+00:00", "yanked": false, "dependencies": []}}}

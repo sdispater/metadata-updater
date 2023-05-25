@@ -1,0 +1,1 @@
+{"name": "django-contentadmin", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2011-07-05T14:13:51+00:00", "yanked": false, "dependencies": ["django-form-utils"]}}}

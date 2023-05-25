@@ -1,0 +1,1 @@
+{"name": "django-galicia", "versions": {"0.11": {"version": "0.11", "python_constraint": "*", "released_at": "2013-01-16T18:40:44+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-01-16T18:35:00+00:00", "yanked": false, "dependencies": ["Django (>=1.4)"]}}}

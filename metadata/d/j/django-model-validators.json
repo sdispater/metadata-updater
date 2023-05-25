@@ -1,0 +1,1 @@
+{"name": "django-model-validators", "versions": {"0.1a2": {"version": "0.1a2", "python_constraint": "*", "released_at": "2012-11-02T21:13:23+00:00", "yanked": false, "dependencies": ["Django (>=1.2)"]}}}

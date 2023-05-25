@@ -1,0 +1,1 @@
+{"name": "django-paginator", "versions": {"0.2a3": {"version": "0.2a3", "python_constraint": "*", "released_at": "2012-11-02T21:22:16+00:00", "yanked": false, "dependencies": ["Django (>=1.2)"]}}}

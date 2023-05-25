@@ -1,0 +1,1 @@
+{"name": "django-kippo", "versions": {"0.1.0.0707": {"version": "0.1.0.0707", "python_constraint": "*", "released_at": "2012-07-07T09:49:11+00:00", "yanked": false, "dependencies": ["Django (>=1.4)"]}, "0.0.1.0706": {"version": "0.0.1.0706", "python_constraint": "*", "released_at": "2012-07-06T23:49:59+00:00", "yanked": false, "dependencies": ["Django (>=1.4)"]}}}

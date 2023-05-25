@@ -1,0 +1,1 @@
+{"name": "django-cms-wunderground", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2012-04-19T22:41:58+00:00", "yanked": false, "dependencies": ["django", "django-cms", "setuptools"]}}}

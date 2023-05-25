@@ -1,0 +1,1 @@
+{"name": "django-classymail", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-03-18T09:58:15+00:00", "yanked": false, "dependencies": ["cssselect", "premailer"]}}}

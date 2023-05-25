@@ -1,0 +1,1 @@
+{"name": "decimalpy", "versions": {"0.101": {"version": "0.101", "python_constraint": "*", "released_at": "2013-06-22T19:45:19+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-26T20:38:19+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "django-monit", "versions": {"0.1a": {"version": "0.1a", "python_constraint": "*", "released_at": "2010-03-21T02:26:25+00:00", "yanked": false, "dependencies": ["lxml"]}}}

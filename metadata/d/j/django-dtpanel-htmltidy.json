@@ -1,0 +1,1 @@
+{"name": "django-dtpanel-htmltidy", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-06-15T12:49:19+00:00", "yanked": false, "dependencies": ["pytidylib"]}}}

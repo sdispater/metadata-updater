@@ -1,0 +1,1 @@
+{"name": "django-analytics", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-07-25T14:26:22+00:00", "yanked": false, "dependencies": ["django_geckoboard (>=1.1.0)"]}}}

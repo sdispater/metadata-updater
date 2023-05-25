@@ -1,0 +1,1 @@
+{"name": "django-cmskit", "versions": {"0.1b0": {"version": "0.1b0", "python_constraint": "*", "released_at": "2012-11-28T16:06:51+00:00", "yanked": false, "dependencies": ["django (>=1.4)", "django-cms (==2.3.1)"]}}}

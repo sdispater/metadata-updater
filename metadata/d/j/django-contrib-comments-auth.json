@@ -1,0 +1,1 @@
+{"name": "django-contrib-comments-auth", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-08-12T15:07:38+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-08-12T14:23:45+00:00", "yanked": false, "dependencies": []}}}

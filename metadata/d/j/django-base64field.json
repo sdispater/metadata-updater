@@ -1,0 +1,1 @@
+{"name": "django-base64field", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-06-03T00:31:50+00:00", "yanked": false, "dependencies": ["django"]}, "0.9": {"version": "0.9", "python_constraint": "*", "released_at": "2013-03-26T17:54:14+00:00", "yanked": false, "dependencies": ["django"]}}}

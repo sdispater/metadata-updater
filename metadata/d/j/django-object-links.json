@@ -1,0 +1,1 @@
+{"name": "django-object-links", "versions": {"0.1.6-alpha-1": {"version": "0.1.6-alpha-1", "python_constraint": "*", "released_at": "2009-11-30T02:28:09+00:00", "yanked": false, "dependencies": []}, "0.1.5-alpha-1": {"version": "0.1.5-alpha-1", "python_constraint": "*", "released_at": "2009-11-30T02:02:44+00:00", "yanked": false, "dependencies": []}}}

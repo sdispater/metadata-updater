@@ -1,0 +1,1 @@
+{"name": "django-jqm", "versions": {"1.0.0a2": {"version": "1.0.0a2", "python_constraint": "*", "released_at": "2011-06-27T18:40:28+00:00", "yanked": false, "dependencies": ["django (>=1.2)"]}, "1.0.0a1": {"version": "1.0.0a1", "python_constraint": "*", "released_at": "2011-06-27T17:00:15+00:00", "yanked": false, "dependencies": ["django (>=1.2)"]}}}

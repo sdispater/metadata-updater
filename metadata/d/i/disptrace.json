@@ -1,0 +1,1 @@
+{"name": "disptrace", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2012-08-11T09:14:48+00:00", "yanked": false, "dependencies": ["jinja2"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-07-14T10:45:35+00:00", "yanked": false, "dependencies": ["jinja2"]}}}

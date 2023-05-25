@@ -1,0 +1,1 @@
+{"name": "django-contact", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-06-05T07:02:27+00:00", "yanked": false, "dependencies": ["django-model-utils (>=1.4.0,<2.0)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-06-26T05:26:06+00:00", "yanked": false, "dependencies": []}}}

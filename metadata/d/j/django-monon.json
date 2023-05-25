@@ -1,0 +1,1 @@
+{"name": "django-monon", "versions": {"0.0.1-dev": {"version": "0.0.1-dev", "python_constraint": "*", "released_at": "2013-01-31T22:29:24+00:00", "yanked": false, "dependencies": ["Django (>=1.3)", "pymonon"]}}}

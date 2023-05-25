@@ -1,0 +1,1 @@
+{"name": "django-extra-form-fields", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-09-15T17:28:25+00:00", "yanked": false, "dependencies": ["multi-registry"]}}}

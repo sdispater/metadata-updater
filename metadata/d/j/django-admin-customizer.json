@@ -1,0 +1,1 @@
+{"name": "django-admin-customizer", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-04-04T22:45:12+00:00", "yanked": false, "dependencies": ["Django"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-04-02T02:50:10+00:00", "yanked": false, "dependencies": ["Django"]}}}

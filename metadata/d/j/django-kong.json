@@ -1,0 +1,1 @@
+{"name": "django-kong", "versions": {"0.9": {"version": "0.9", "python_constraint": "*", "released_at": "2010-10-22T08:31:10+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-01-03T05:58:54+00:00", "yanked": false, "dependencies": []}}}

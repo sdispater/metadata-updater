@@ -1,0 +1,1 @@
+{"name": "django-modify-history", "versions": {"0.1rc2": {"version": "0.1rc2", "python_constraint": "*", "released_at": "2011-06-11T06:19:57+00:00", "yanked": false, "dependencies": ["setuptools"]}}}
