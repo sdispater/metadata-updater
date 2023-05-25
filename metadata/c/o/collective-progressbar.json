@@ -1,0 +1,1 @@
+{"name": "collective-progressbar", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2009-09-18T21:21:25+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

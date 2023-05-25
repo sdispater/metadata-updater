@@ -1,0 +1,1 @@
+{"name": "envparser", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2011-11-06T21:08:33+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-11-06T20:29:48+00:00", "yanked": false, "dependencies": []}}}

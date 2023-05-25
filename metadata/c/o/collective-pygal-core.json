@@ -1,0 +1,1 @@
+{"name": "collective-pygal-core", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-04-02T13:07:34+00:00", "yanked": false, "dependencies": ["pygal", "setuptools"]}}}

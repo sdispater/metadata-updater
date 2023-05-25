@@ -1,0 +1,1 @@
+{"name": "firedj", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-02-23T12:53:20+00:00", "yanked": false, "dependencies": ["django (>=1.3)"]}}}

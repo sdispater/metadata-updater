@@ -1,0 +1,1 @@
+{"name": "zope-thread", "versions": {"3.4": {"version": "3.4", "python_constraint": "*", "released_at": "2007-07-13T10:51:27+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

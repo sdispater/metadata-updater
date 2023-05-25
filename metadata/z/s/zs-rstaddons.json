@@ -1,0 +1,1 @@
+{"name": "zs-rstaddons", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-05-05T14:00:06+00:00", "yanked": false, "dependencies": ["docutils (>=0.5)"]}}}

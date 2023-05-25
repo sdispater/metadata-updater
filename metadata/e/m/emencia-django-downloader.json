@@ -1,0 +1,1 @@
+{"name": "emencia-django-downloader", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-04-27T23:13:47+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "js-jquery-jqote2", "versions": {"0.9.7": {"version": "0.9.7", "python_constraint": "*", "released_at": "2011-04-28T14:40:39+00:00", "yanked": false, "dependencies": ["fanstatic", "js.jquery", "setuptools"]}}}

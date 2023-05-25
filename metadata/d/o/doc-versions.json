@@ -1,0 +1,1 @@
+{"name": "doc-versions", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-02-23T18:35:29+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-23T18:13:31+00:00", "yanked": false, "dependencies": []}}}

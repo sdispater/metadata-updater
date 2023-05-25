@@ -1,0 +1,1 @@
+{"name": "collective-js-formvalidation", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2012-03-01T13:43:55+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2011-06-20T18:10:02+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

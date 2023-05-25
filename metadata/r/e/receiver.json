@@ -1,0 +1,1 @@
+{"name": "receiver", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2013-05-07T20:19:15+00:00", "yanked": false, "dependencies": ["couchdbkit", "couchexport", "couchforms (>=1.0.0)", "dimagi-utils (>=1.0.0)", "django", "lxml", "pytz", "requests", "restkit", "simplejson"]}}}

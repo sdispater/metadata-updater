@@ -1,0 +1,1 @@
+{"name": "flask-compass", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-10-15T23:05:04+00:00", "yanked": false, "dependencies": ["Flask"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-04-03T14:56:56+00:00", "yanked": false, "dependencies": ["Flask"]}}}

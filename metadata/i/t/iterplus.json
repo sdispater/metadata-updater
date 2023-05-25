@@ -1,0 +1,1 @@
+{"name": "iterplus", "versions": {"0.2.5": {"version": "0.2.5", "python_constraint": "*", "released_at": "2011-11-16T09:09:13+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2011-11-11T12:38:13+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

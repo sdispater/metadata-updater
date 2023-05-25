@@ -1,0 +1,1 @@
+{"name": "scribes-file-goto-dir", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-09-24T05:27:22+00:00", "yanked": false, "dependencies": ["scribes.helpers (>=0.3dev)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-08-28T17:18:50+00:00", "yanked": false, "dependencies": ["scribes.helpers (>=0.3dev)"]}}}

@@ -1,0 +1,1 @@
+{"name": "collective-js-d3", "versions": {"3.0.8.1": {"version": "3.0.8.1", "python_constraint": "*", "released_at": "2013-03-20T08:22:54+00:00", "yanked": false, "dependencies": ["setuptools"]}, "3.0.8": {"version": "3.0.8", "python_constraint": "*", "released_at": "2013-03-19T20:12:49+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

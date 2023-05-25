@@ -1,0 +1,1 @@
+{"name": "jsautobuild", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-02-28T19:50:03+00:00", "yanked": false, "dependencies": ["lpjsmin", "pyinotify"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-02-28T19:14:43+00:00", "yanked": false, "dependencies": []}}}

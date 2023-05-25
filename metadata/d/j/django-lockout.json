@@ -1,0 +1,1 @@
+{"name": "django-lockout", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-08-30T17:58:01+00:00", "yanked": false, "dependencies": ["django"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-07-18T22:50:27+00:00", "yanked": false, "dependencies": ["django"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-jigsawview", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-02-07T21:32:18+00:00", "yanked": false, "dependencies": ["Django (>=1.4)", "django-filter", "mock ; extra == \"test\"", "nose ; extra == \"test\"", "six", "unittest2 ; extra == \"test\""]}}}

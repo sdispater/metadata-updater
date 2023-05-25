@@ -1,0 +1,1 @@
+{"name": "wsme-extdirect", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2012-10-16T11:19:04+00:00", "yanked": false, "dependencies": ["Mako", "WSME", "WSME-SQLAlchemy"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-04-20T15:55:21+00:00", "yanked": false, "dependencies": ["Mako", "WSME"]}}}

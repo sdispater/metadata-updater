@@ -1,0 +1,1 @@
+{"name": "saucelabsfixture", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-05-22T11:55:58+00:00", "yanked": false, "dependencies": ["fixtures (>=0.3.8)", "selenium (>=2.21.3)", "sst (>=0.2.1)", "testtools (>=0.9.14)"]}}}

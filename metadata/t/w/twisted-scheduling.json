@@ -1,0 +1,1 @@
+{"name": "twisted-scheduling", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-06-02T21:39:05+00:00", "yanked": false, "dependencies": ["setuptools", "Twisted (>=8)", "zope.interface"]}}}

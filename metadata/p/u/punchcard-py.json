@@ -1,0 +1,1 @@
+{"name": "punchcard-py", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-03-02T23:18:05+00:00", "yanked": false, "dependencies": ["pygooglechart"]}}}

@@ -1,0 +1,1 @@
+{"name": "forrin", "versions": {"0.1-alpha": {"version": "0.1-alpha", "python_constraint": "*", "released_at": "2012-07-01T18:12:28+00:00", "yanked": false, "dependencies": ["polib (>=1.0)", "six"]}}}

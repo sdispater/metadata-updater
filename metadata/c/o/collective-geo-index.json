@@ -1,0 +1,1 @@
+{"name": "collective-geo-index", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-02-16T11:07:21+00:00", "yanked": false, "dependencies": ["collective.geo.contentlocations", "collective.geo.kml", "collective.geo.mapwidget", "Products.CMFPlone", "Rtree", "setuptools", "shapely"]}}}

@@ -1,0 +1,1 @@
+{"name": "cmsplugin-fb-agenda", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-02-16T08:18:22+00:00", "yanked": false, "dependencies": ["django-cms", "facebook-sdk"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-06T16:07:01+00:00", "yanked": false, "dependencies": ["django-cms", "facebook-sdk"]}}}

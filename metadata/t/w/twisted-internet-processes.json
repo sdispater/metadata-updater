@@ -1,0 +1,1 @@
+{"name": "twisted-internet-processes", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2009-08-24T21:27:39+00:00", "yanked": false, "dependencies": ["multiprocessing (<2.6.2.1)", "setuptools", "Twisted"]}}}

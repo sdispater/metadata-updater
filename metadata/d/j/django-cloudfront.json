@@ -1,0 +1,1 @@
+{"name": "django-cloudfront", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-26T07:39:28+00:00", "yanked": false, "dependencies": ["pycrypto (==2.6)"]}}}

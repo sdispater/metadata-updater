@@ -1,0 +1,1 @@
+{"name": "slow", "versions": {"0.3.3": {"version": "0.3.3", "python_constraint": "*", "released_at": "2006-03-24T14:44:57+00:00", "yanked": false, "dependencies": ["lxml (>=0.9)", "mathdom (>=0.7)"]}, "0.3.2": {"version": "0.3.2", "python_constraint": "*", "released_at": "2006-03-22T14:28:23+00:00", "yanked": false, "dependencies": ["lxml (>=0.9)", "mathdom (>=0.7)"]}}}

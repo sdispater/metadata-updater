@@ -1,0 +1,1 @@
+{"name": "cmsplugin-gallery-filer", "versions": {"0.5.2.1": {"version": "0.5.2.1", "python_constraint": "*", "released_at": "2012-09-23T04:56:06+00:00", "yanked": false, "dependencies": ["django-filer", "django-inline-ordering (>=0.1.1)", "easy-thumbnails"]}}}

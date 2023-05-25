@@ -1,0 +1,1 @@
+{"name": "ngi-site-notification", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-02-13T06:26:54+00:00", "yanked": false, "dependencies": ["plone.app.dexterity", "plone.app.registry", "python-twitter", "setuptools"]}}}

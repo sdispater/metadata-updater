@@ -1,0 +1,1 @@
+{"name": "collective-privateurl", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-10-21T19:32:43+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

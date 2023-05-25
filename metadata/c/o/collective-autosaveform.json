@@ -1,0 +1,1 @@
+{"name": "collective-autosaveform", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-10-13T15:32:53+00:00", "yanked": false, "dependencies": ["jquery.pyproxy", "setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-10-13T15:19:45+00:00", "yanked": false, "dependencies": ["jquery.pyproxy", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "wille", "versions": {"2.3": {"version": "2.3", "python_constraint": "*", "released_at": "2011-03-11T10:20:29+00:00", "yanked": false, "dependencies": ["argparse (>=1.1)", "feedparser (>=5.0)", "httplib2 (>=0.6.0)", "pyjavaproperties (>=0.5)"]}}}

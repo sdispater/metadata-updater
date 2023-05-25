@@ -1,0 +1,1 @@
+{"name": "eastofeaton-paypal", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2011-06-21T05:17:30+00:00", "yanked": false, "dependencies": ["paypal", "plone.app.testing ; extra == \"test\"", "setuptools"]}}}

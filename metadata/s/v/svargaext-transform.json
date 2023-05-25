@@ -1,0 +1,1 @@
+{"name": "svargaext-transform", "versions": {"0.6": {"version": "0.6", "python_constraint": "*", "released_at": "2011-04-11T21:54:34+00:00", "yanked": false, "dependencies": ["clevercss", "opster", "svarga"]}, "0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2010-12-26T13:09:41+00:00", "yanked": false, "dependencies": ["clevercss", "opster", "svarga"]}}}

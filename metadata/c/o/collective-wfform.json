@@ -1,0 +1,1 @@
+{"name": "collective-wfform", "versions": {"1.0-a1": {"version": "1.0-a1", "python_constraint": "*", "released_at": "2012-05-01T00:03:02+00:00", "yanked": false, "dependencies": ["plone.app.registry", "plone.app.testing ; extra == \"test\"", "plone.app.z3cform", "setuptools", "z3c.form"]}}}

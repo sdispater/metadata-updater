@@ -1,0 +1,1 @@
+{"name": "webplotlib", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-05-26T04:38:47+00:00", "yanked": false, "dependencies": ["Django", "matplotlib", "numpy", "pytest (>=2)", "setuptools"]}}}

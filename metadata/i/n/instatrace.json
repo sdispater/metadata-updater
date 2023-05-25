@@ -1,0 +1,1 @@
+{"name": "instatrace", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2010-09-19T15:07:13+00:00", "yanked": false, "dependencies": ["argparse (>=1.1)"]}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2010-06-17T20:12:46+00:00", "yanked": false, "dependencies": ["argparse (>=1.1)"]}}}

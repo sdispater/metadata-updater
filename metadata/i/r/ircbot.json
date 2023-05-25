@@ -1,0 +1,1 @@
+{"name": "ircbot", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2013-02-25T05:43:48+00:00", "yanked": false, "dependencies": ["Twisted"]}}}

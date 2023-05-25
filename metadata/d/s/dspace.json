@@ -1,0 +1,1 @@
+{"name": "dspace", "versions": {"2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2011-03-24T16:37:53+00:00", "yanked": false, "dependencies": ["lxml (>=2.3)", "pyoai (>=2.4.2)", "setuptools"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-08-19T18:46:28+00:00", "yanked": false, "dependencies": ["pyoai (>=2.4.2)", "setuptools"]}}}

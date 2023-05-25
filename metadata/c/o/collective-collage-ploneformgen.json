@@ -1,0 +1,1 @@
+{"name": "collective-collage-ploneformgen", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2011-03-03T11:38:52+00:00", "yanked": false, "dependencies": ["Products.Collage", "Products.PloneFormGen (>=1.5b2)", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "js-jquery-qtip", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-05-06T16:32:03+00:00", "yanked": false, "dependencies": ["fanstatic", "setuptools"]}}}

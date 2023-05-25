@@ -1,0 +1,1 @@
+{"name": "js-jquery-ba-resize", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2011-05-17T16:41:14+00:00", "yanked": false, "dependencies": ["fanstatic", "setuptools"]}}}

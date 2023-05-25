@@ -1,0 +1,1 @@
+{"name": "yaco-recipe-pycairo", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-11-17T18:43:25+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-11-17T18:38:01+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

@@ -1,0 +1,1 @@
+{"name": "fixture-yaml", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2012-06-28T10:50:20+00:00", "yanked": false, "dependencies": ["fixture", "pyyaml"]}, "0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-06-07T02:26:11+00:00", "yanked": false, "dependencies": ["fixture", "pyyaml"]}}}

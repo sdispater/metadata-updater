@@ -1,0 +1,1 @@
+{"name": "ztfy-monitor", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-07-25T08:52:33+00:00", "yanked": false, "dependencies": ["setuptools", "threadframe", "zc.z3monitor", "zope.testing ; extra == \"test\""]}}}

@@ -1,0 +1,1 @@
+{"name": "scmaccessplugin", "versions": {"2.1": {"version": "2.1", "python_constraint": "*", "released_at": "2010-10-28T19:28:31+00:00", "yanked": false, "dependencies": []}, "2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2010-10-28T19:16:56+00:00", "yanked": false, "dependencies": []}}}

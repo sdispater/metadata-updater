@@ -1,0 +1,1 @@
+{"name": "cblog", "versions": {"0.1a": {"version": "0.1a", "python_constraint": "*", "released_at": "2006-12-15T23:42:41+00:00", "yanked": false, "dependencies": ["cElementTree", "Cheetah (>=2.0rc6)", "docutils (>=0.4)", "pysqlite (>=2.2)", "python-dateutil", "simplejson", "textile (>=2.0.11)", "TurboGears (>=1.0b2)"]}}}

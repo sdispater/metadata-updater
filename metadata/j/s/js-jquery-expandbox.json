@@ -1,0 +1,1 @@
+{"name": "js-jquery-expandbox", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2011-04-28T10:10:09+00:00", "yanked": false, "dependencies": ["fanstatic", "js.jquery", "setuptools"]}}}

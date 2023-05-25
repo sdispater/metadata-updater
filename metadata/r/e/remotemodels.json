@@ -1,0 +1,1 @@
+{"name": "remotemodels", "versions": {"0.6.3": {"version": "0.6.3", "python_constraint": "*", "released_at": "2013-02-18T18:21:43+00:00", "yanked": false, "dependencies": ["PySO8601", "python-dateutil (==1.5)"]}, "0.6.2": {"version": "0.6.2", "python_constraint": "*", "released_at": "2013-02-18T17:57:59+00:00", "yanked": false, "dependencies": ["python-dateutil (==1.5)"]}}}

@@ -1,0 +1,1 @@
+{"name": "zc-signalhandler", "versions": {"1.2.0": {"version": "1.2.0", "python_constraint": "*", "released_at": "2010-11-12T06:21:10+00:00", "yanked": false, "dependencies": ["ZConfig (>=2.4a3)", "zope.testing ; extra == \"test\""]}}}

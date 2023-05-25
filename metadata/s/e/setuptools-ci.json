@@ -1,0 +1,1 @@
+{"name": "setuptools-ci", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-06-06T14:01:15+00:00", "yanked": false, "dependencies": ["nose", "nosexcover", "setuptools-clonedigger", "setuptools-flakes", "setuptools-lint", "setuptools-sloccount"]}}}

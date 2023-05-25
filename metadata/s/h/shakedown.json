@@ -1,0 +1,1 @@
+{"name": "shakedown", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-05-05T18:39:24+00:00", "yanked": false, "dependencies": ["confetti (>=2.0.0.dev2)", "logbook", "raven", "requests (>=1.1.0)", "six"]}}}

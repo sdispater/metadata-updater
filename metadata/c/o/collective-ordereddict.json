@@ -1,0 +1,1 @@
+{"name": "collective-ordereddict", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-08-25T13:33:45+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

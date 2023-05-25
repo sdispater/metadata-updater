@@ -1,0 +1,1 @@
+{"name": "collective-pygal-plonestats", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-04-02T13:06:07+00:00", "yanked": false, "dependencies": ["collective.pygal.core", "setuptools"]}}}

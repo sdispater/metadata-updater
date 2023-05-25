@@ -1,0 +1,1 @@
+{"name": "flask-tweepy", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-01-04T20:52:26+00:00", "yanked": false, "dependencies": ["Flask (>=0.8)", "tweepy (>=1.8,<1.9)"]}}}

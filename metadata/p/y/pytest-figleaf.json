@@ -1,0 +1,1 @@
+{"name": "pytest-figleaf", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-01-18T15:36:59+00:00", "yanked": false, "dependencies": ["figleaf", "py (>=1.1.1)"]}}}

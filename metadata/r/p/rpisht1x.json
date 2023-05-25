@@ -1,0 +1,1 @@
+{"name": "rpisht1x", "versions": {"1.2": {"version": "1.2", "python_constraint": "*", "released_at": "2013-01-01T02:21:18+00:00", "yanked": false, "dependencies": ["RPi.GPIO"]}}}

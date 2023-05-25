@@ -1,0 +1,1 @@
+{"name": "mswinprint", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2012-07-16T14:52:30+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-06-23T00:11:39+00:00", "yanked": false, "dependencies": []}}}

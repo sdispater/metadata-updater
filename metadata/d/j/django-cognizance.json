@@ -1,0 +1,1 @@
+{"name": "django-cognizance", "versions": {"0.0a1": {"version": "0.0a1", "python_constraint": "*", "released_at": "2013-03-16T23:49:45+00:00", "yanked": false, "dependencies": ["Django (>=1.4)", "django-guardian"]}}}
