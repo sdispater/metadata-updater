@@ -1,0 +1,1 @@
+{"name": "bopen-recipe-libinc", "versions": {"0.3.0": {"version": "0.3.0", "python_constraint": "*", "released_at": "2010-09-07T16:48:47+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}, "0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2007-10-15T12:10:06+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

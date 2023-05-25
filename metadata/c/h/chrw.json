@@ -1,0 +1,1 @@
+{"name": "chrw", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2013-02-06T20:47:01+00:00", "yanked": false, "dependencies": ["requests"]}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2013-02-06T06:04:59+00:00", "yanked": false, "dependencies": ["requests"]}}}

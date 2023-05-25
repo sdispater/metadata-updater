@@ -1,0 +1,1 @@
+{"name": "bebop-protocol", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2007-07-10T20:18:19+00:00", "yanked": false, "dependencies": ["setuptools", "zope.app.component", "zope.app.publisher", "zope.component", "zope.configuration", "zope.dottedname", "zope.interface", "zope.publisher", "zope.schema"]}}}

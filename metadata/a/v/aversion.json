@@ -1,0 +1,1 @@
+{"name": "aversion", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-02-12T23:30:02+00:00", "yanked": false, "dependencies": ["webob (>=1.1)"]}}}

@@ -1,0 +1,1 @@
+{"name": "c2c-recipe-jarfile", "versions": {"0.4.3": {"version": "0.4.3", "python_constraint": "*", "released_at": "2011-02-07T09:57:07+00:00", "yanked": false, "dependencies": ["zc.buildout"]}, "0.4.2": {"version": "0.4.2", "python_constraint": "*", "released_at": "2010-09-27T09:58:17+00:00", "yanked": false, "dependencies": ["zc.buildout"]}}}

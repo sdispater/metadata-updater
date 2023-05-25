@@ -1,0 +1,1 @@
+{"name": "bda-daemon", "versions": {"1.1.1": {"version": "1.1.1", "python_constraint": "*", "released_at": "2009-01-14T10:25:28+00:00", "yanked": false, "dependencies": []}, "1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2009-01-14T10:23:34+00:00", "yanked": false, "dependencies": []}}}

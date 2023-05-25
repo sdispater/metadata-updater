@@ -1,0 +1,1 @@
+{"name": "canoe", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-03-20T15:26:47+00:00", "yanked": false, "dependencies": ["ply"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-20T15:03:40+00:00", "yanked": false, "dependencies": ["ply"]}}}

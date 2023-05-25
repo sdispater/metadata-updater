@@ -1,0 +1,1 @@
+{"name": "cc42", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-10-29T05:29:18+00:00", "yanked": false, "dependencies": ["requests (>=0.13.3)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-10-28T07:55:17+00:00", "yanked": false, "dependencies": ["requests (>=0.13.3)"]}}}

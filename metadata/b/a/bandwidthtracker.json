@@ -1,0 +1,1 @@
+{"name": "bandwidthtracker", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2012-01-11T16:18:25+00:00", "yanked": false, "dependencies": []}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2012-01-11T03:54:02+00:00", "yanked": false, "dependencies": []}}}

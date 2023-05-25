@@ -1,0 +1,1 @@
+{"name": "basecampreporting", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2009-04-23T01:42:44+00:00", "yanked": false, "dependencies": ["elementtree", "setuptools", "simplejson"]}}}

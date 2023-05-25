@@ -1,0 +1,1 @@
+{"name": "bo", "versions": {"0.1-alpha": {"version": "0.1-alpha", "python_constraint": "*", "released_at": "2013-03-19T03:14:44+00:00", "yanked": false, "dependencies": ["argparse (>=1.2.1)", "PyYAML (>=3.10)", "sleekxmpp (>=1.1.10)"]}}}

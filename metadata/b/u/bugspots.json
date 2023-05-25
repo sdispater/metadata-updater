@@ -1,0 +1,1 @@
+{"name": "bugspots", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-12-31T02:09:03+00:00", "yanked": false, "dependencies": ["GitPython (>=0.3)"]}}}

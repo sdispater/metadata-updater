@@ -1,0 +1,1 @@
+{"name": "campbx", "versions": {"1.0.5": {"version": "1.0.5", "python_constraint": "*", "released_at": "2012-04-28T18:35:16+00:00", "yanked": false, "dependencies": ["simplejson"]}, "1.0.4": {"version": "1.0.4", "python_constraint": "*", "released_at": "2012-04-20T21:24:06+00:00", "yanked": false, "dependencies": ["simplejson"]}}}

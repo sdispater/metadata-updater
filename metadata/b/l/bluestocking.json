@@ -1,0 +1,1 @@
+{"name": "bluestocking", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-08-26T03:59:46+00:00", "yanked": false, "dependencies": ["nltk"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-08-26T03:37:02+00:00", "yanked": false, "dependencies": ["nltk"]}}}

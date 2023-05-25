@@ -1,0 +1,1 @@
+{"name": "bda-zeopack", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-04-08T16:59:11+00:00", "yanked": false, "dependencies": ["setuptools", "ZODB3"]}}}

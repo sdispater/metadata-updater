@@ -1,0 +1,1 @@
+{"name": "amico", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2013-01-08T05:40:37+00:00", "yanked": false, "dependencies": ["redis"]}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2013-01-08T02:34:58+00:00", "yanked": false, "dependencies": ["redis"]}}}

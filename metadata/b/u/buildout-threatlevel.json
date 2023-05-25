@@ -1,0 +1,1 @@
+{"name": "buildout-threatlevel", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2010-05-06T03:42:20+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-05-04T09:55:31+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

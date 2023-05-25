@@ -1,0 +1,1 @@
+{"name": "bp-rename", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-08-30T23:00:38+00:00", "yanked": false, "dependencies": ["baker (>=1.1)", "texttable (>=0.7.0)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-08-29T00:38:18+00:00", "yanked": false, "dependencies": ["baker", "setuptools", "texttable"]}}}

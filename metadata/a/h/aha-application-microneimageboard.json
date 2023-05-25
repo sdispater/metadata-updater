@@ -1,0 +1,1 @@
+{"name": "aha-application-microneimageboard", "versions": {"0.6bdev": {"version": "0.6bdev", "python_constraint": "*", "released_at": "2011-04-04T04:41:14+00:00", "yanked": false, "dependencies": ["aha", "aha.plugin.microne", "aha.plugin.twitteroauth"]}}}

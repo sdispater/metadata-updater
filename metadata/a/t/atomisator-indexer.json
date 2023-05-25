@@ -1,0 +1,1 @@
+{"name": "atomisator-indexer", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2008-11-08T11:44:49+00:00", "yanked": false, "dependencies": ["afpy.xap"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2008-09-27T18:28:41+00:00", "yanked": false, "dependencies": ["afpy.xap"]}}}

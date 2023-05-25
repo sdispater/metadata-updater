@@ -1,0 +1,1 @@
+{"name": "applause", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-10-07T02:05:32+00:00", "yanked": false, "dependencies": ["github2"]}}}

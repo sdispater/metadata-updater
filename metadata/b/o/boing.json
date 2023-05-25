@@ -1,0 +1,1 @@
+{"name": "boing", "versions": {"0.3.1": {"version": "0.3.1", "python_constraint": "*", "released_at": "2012-09-19T08:47:08+00:00", "yanked": false, "dependencies": ["pyparsing (>=1.5.6)"]}}}

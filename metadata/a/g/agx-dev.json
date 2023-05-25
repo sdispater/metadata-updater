@@ -1,0 +1,1 @@
+{"name": "agx-dev", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2013-02-23T10:14:38+00:00", "yanked": false, "dependencies": ["agx.generator.dexterity", "agx.generator.generator", "agx.generator.sql", "agx.generator.uml", "interlude ; extra == \"test\"", "setuptools"]}}}

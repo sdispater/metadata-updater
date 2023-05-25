@@ -1,0 +1,1 @@
+{"name": "clwapp", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-12-20T21:44:47+00:00", "yanked": false, "dependencies": ["Paste", "PasteScript", "WebOb"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-02-26T19:15:55+00:00", "yanked": false, "dependencies": ["Paste", "PasteScript", "WebOb"]}}}

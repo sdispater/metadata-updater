@@ -1,0 +1,1 @@
+{"name": "c2-sample-csvworkflow", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2010-06-18T10:15:26+00:00", "yanked": false, "dependencies": ["collective.wtf", "setuptools"]}}}

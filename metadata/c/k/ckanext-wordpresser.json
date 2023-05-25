@@ -1,0 +1,1 @@
+{"name": "ckanext-wordpresser", "versions": {"0.11": {"version": "0.11", "python_constraint": "*", "released_at": "2011-03-21T11:53:40+00:00", "yanked": false, "dependencies": ["httpencode", "lxml", "webob"]}}}

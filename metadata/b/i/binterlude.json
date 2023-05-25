@@ -1,0 +1,1 @@
+{"name": "binterlude", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2011-08-10T18:08:33+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

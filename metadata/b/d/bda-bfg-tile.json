@@ -1,0 +1,1 @@
+{"name": "bda-bfg-tile", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2009-09-10T17:02:04+00:00", "yanked": false, "dependencies": ["interlude ; extra == \"test\"", "repoze.bfg", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "briefs-caster", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-09-28T20:45:38+00:00", "yanked": false, "dependencies": ["Flask (>=0.6)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-09-23T22:59:12+00:00", "yanked": false, "dependencies": ["Flask (>=0.6)"]}}}

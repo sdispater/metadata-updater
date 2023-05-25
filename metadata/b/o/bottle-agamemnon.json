@@ -1,0 +1,1 @@
+{"name": "bottle-agamemnon", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-04-27T18:46:06+00:00", "yanked": false, "dependencies": ["agamemnon (>=0.4)", "bottle (>=0.9)"]}}}

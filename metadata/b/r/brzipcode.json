@@ -1,0 +1,1 @@
+{"name": "brzipcode", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2012-05-25T05:31:33+00:00", "yanked": false, "dependencies": ["requests"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-10-10T04:54:19+00:00", "yanked": false, "dependencies": ["requests"]}}}

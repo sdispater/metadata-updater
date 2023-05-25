@@ -1,0 +1,1 @@
+{"name": "cloudplay", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-01-29T08:18:35+00:00", "yanked": false, "dependencies": ["lxml", "requests"]}}}

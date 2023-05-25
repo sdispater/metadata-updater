@@ -1,0 +1,1 @@
+{"name": "blueprint-io", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-07-01T22:22:03+00:00", "yanked": false, "dependencies": ["blueprint (>=3.0.5)"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-06-03T17:58:57+00:00", "yanked": false, "dependencies": ["blueprint (>=3.0.5)"]}}}

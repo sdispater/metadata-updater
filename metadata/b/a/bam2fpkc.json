@@ -1,0 +1,1 @@
+{"name": "bam2fpkc", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-01-04T05:51:59+00:00", "yanked": false, "dependencies": ["numpy (>=1.6.1)", "pysam (>=0.6)"]}}}

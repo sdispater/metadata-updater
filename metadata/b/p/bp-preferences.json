@@ -1,0 +1,1 @@
+{"name": "bp-preferences", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-09-06T11:56:46+00:00", "yanked": false, "dependencies": ["Preferences (==0.08)"]}}}

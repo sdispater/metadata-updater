@@ -1,0 +1,1 @@
+{"name": "bezel", "versions": {"1.0dev": {"version": "1.0dev", "python_constraint": "*", "released_at": "2009-02-25T10:01:55+00:00", "yanked": false, "dependencies": ["pybonjour", "pygame (>=1.7)", "simplejson (>=1.9.2)"]}}}

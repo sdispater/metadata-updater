@@ -1,0 +1,1 @@
+{"name": "alfajor", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-06-25T07:34:24+00:00", "yanked": false, "dependencies": ["blinker", "lxml", "Werkzeug (>=0.6)"]}}}

@@ -1,0 +1,1 @@
+{"name": "artie", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-08-28T10:56:37+00:00", "yanked": false, "dependencies": ["pyyaml", "twisted"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-07-05T20:45:12+00:00", "yanked": false, "dependencies": ["pyyaml", "twisted"]}}}

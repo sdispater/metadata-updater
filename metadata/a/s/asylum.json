@@ -1,0 +1,1 @@
+{"name": "asylum", "versions": {"0.4.1": {"version": "0.4.1", "python_constraint": "*", "released_at": "2013-03-21T06:44:32+00:00", "yanked": false, "dependencies": ["blessings", "distribute"]}, "0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2013-03-21T02:48:00+00:00", "yanked": false, "dependencies": ["blessings", "distribute"]}}}

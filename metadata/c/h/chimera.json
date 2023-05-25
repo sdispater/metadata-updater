@@ -1,0 +1,1 @@
+{"name": "chimera", "versions": {"0.4.7": {"version": "0.4.7", "python_constraint": "*", "released_at": "2007-02-11T18:20:22+00:00", "yanked": false, "dependencies": ["setuptools (>=0.6a11)"]}, "0.4.6": {"version": "0.4.6", "python_constraint": "*", "released_at": "2006-08-10T18:11:57+00:00", "yanked": false, "dependencies": ["setuptools (>=0.6a11)"]}}}

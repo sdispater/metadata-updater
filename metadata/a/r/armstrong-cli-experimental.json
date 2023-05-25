@@ -1,0 +1,1 @@
+{"name": "armstrong-cli-experimental", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-03-08T17:00:01+00:00", "yanked": false, "dependencies": ["gevent (==0.13.6)", "pyquery (==1.1.1)", "requests (==0.10.6)"]}}}

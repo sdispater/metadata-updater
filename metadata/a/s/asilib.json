@@ -1,0 +1,1 @@
+{"name": "asilib", "versions": {"1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2009-12-23T14:27:41+00:00", "yanked": false, "dependencies": ["minimock ; extra == \"test\"", "opensocial.py", "restlib (>=0.9)"]}}}

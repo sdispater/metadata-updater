@@ -1,0 +1,1 @@
+{"name": "ahc", "versions": {"1.5.0": {"version": "1.5.0", "python_constraint": "*", "released_at": "2013-04-09T06:00:41+00:00", "yanked": false, "dependencies": ["django", "flup", "grab", "MySQL-python", "paramiko", "pycurl", "setuptools", "virtualenv", "xmpppy"]}}}

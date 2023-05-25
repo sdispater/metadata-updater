@@ -1,0 +1,1 @@
+{"name": "cc-license", "versions": {"0.02": {"version": "0.02", "python_constraint": "*", "released_at": "2008-08-15T17:50:28+00:00", "yanked": false, "dependencies": ["FormEncode", "Genshi", "nose", "pylons", "rdfadict", "setuptools", "zope.interface"]}}}

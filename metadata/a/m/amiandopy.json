@@ -1,0 +1,1 @@
+{"name": "amiandopy", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-07-10T17:34:17+00:00", "yanked": false, "dependencies": ["requests (>=0.8)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-07-10T16:45:02+00:00", "yanked": false, "dependencies": ["requests (>=0.8)"]}}}

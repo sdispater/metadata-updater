@@ -1,0 +1,1 @@
+{"name": "anthill-exampletheme", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-08-09T15:51:32+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-08-09T11:21:46+00:00", "yanked": false, "dependencies": ["anthill.skinner (>=0.2)", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "boreas", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-20T18:50:05+00:00", "yanked": false, "dependencies": ["requests (>=1.1.0)", "simplejson (>=3.0.7)", "tornado (>=2.4.1)"]}}}

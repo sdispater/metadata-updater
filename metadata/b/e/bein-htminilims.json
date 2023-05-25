@@ -1,0 +1,1 @@
+{"name": "bein-htminilims", "versions": {"1.065": {"version": "1.065", "python_constraint": "*", "released_at": "2011-04-08T10:43:47+00:00", "yanked": false, "dependencies": ["cherrypy", "mako", "unittest2"]}, "1.06": {"version": "1.06", "python_constraint": "*", "released_at": "2011-04-07T13:46:54+00:00", "yanked": false, "dependencies": ["cherrypy", "mako"]}}}

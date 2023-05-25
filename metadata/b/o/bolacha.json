@@ -1,0 +1,1 @@
+{"name": "bolacha", "versions": {"0.3.0": {"version": "0.3.0", "python_constraint": "*", "released_at": "2010-04-12T22:36:06+00:00", "yanked": false, "dependencies": []}, "0.2.2": {"version": "0.2.2", "python_constraint": "*", "released_at": "2010-04-12T22:23:23+00:00", "yanked": false, "dependencies": ["httplib2 (==0.4.0)"]}}}

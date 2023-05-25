@@ -1,0 +1,1 @@
+{"name": "catfacts", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-07-29T00:29:59+00:00", "yanked": false, "dependencies": ["flask", "pyyaml", "requests", "shove", "sqlalchemy", "tw2.core", "tw2.forms", "twilio"]}}}

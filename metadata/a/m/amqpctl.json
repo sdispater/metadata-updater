@@ -1,0 +1,1 @@
+{"name": "amqpctl", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-08-19T17:29:34+00:00", "yanked": false, "dependencies": ["amqplib"]}}}

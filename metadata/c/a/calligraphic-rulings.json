@@ -1,0 +1,1 @@
+{"name": "calligraphic-rulings", "versions": {"0.2alpha": {"version": "0.2alpha", "python_constraint": "*", "released_at": "2012-05-16T18:52:10+00:00", "yanked": false, "dependencies": ["reportlab"]}, "0.1alpha": {"version": "0.1alpha", "python_constraint": "*", "released_at": "2010-12-30T16:52:05+00:00", "yanked": false, "dependencies": ["reportlab"]}}}

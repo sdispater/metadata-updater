@@ -1,0 +1,1 @@
+{"name": "bda-blogview", "versions": {"1.0-beta1": {"version": "1.0-beta1", "python_constraint": "*", "released_at": "2008-03-11T16:44:11+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

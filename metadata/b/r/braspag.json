@@ -1,0 +1,1 @@
+{"name": "braspag", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2012-11-19T17:38:09+00:00", "yanked": false, "dependencies": ["Jinja2"]}}}

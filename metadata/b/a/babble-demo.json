@@ -1,0 +1,1 @@
+{"name": "babble-demo", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-01-19T11:19:45+00:00", "yanked": false, "dependencies": ["actionbar.babble", "setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-04-17T10:51:03+00:00", "yanked": false, "dependencies": ["actionbar.babble", "setuptools"]}}}

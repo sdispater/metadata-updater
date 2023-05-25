@@ -1,0 +1,1 @@
+{"name": "ao-tron", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2010-03-21T04:23:23+00:00", "yanked": false, "dependencies": ["Sphinx ; extra == \"docs\"", "z3c.recipe.sphinxdoc ; extra == \"docs\"", "zope.testing ; extra == \"test\""]}}}

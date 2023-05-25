@@ -1,0 +1,1 @@
+{"name": "brockman", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2012-06-07T21:26:06+00:00", "yanked": false, "dependencies": ["omnijson (>=0.1.2)", "requests (>=0.13.0)"]}}}

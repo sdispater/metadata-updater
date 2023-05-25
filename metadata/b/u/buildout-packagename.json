@@ -1,0 +1,1 @@
+{"name": "buildout-packagename", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-10-26T22:38:14+00:00", "yanked": false, "dependencies": ["pytest (>=2.3) ; extra == \"testing\"", "pytest-pep8 ; extra == \"testing\"", "setuptools", "zc.buildout ; extra == \"testing\""]}}}

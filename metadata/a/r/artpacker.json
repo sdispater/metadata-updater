@@ -1,0 +1,1 @@
+{"name": "artpacker", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2012-05-29T21:51:30+00:00", "yanked": false, "dependencies": ["PIL"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-05-29T21:15:52+00:00", "yanked": false, "dependencies": []}}}

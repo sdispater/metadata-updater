@@ -1,0 +1,1 @@
+{"name": "cmsplugin-embedded-pages", "versions": {"0.0.4": {"version": "0.0.4", "python_constraint": "*", "released_at": "2011-12-31T15:49:18+00:00", "yanked": false, "dependencies": ["django-cms"]}, "0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2011-12-31T15:14:24+00:00", "yanked": false, "dependencies": ["django-cms"]}}}

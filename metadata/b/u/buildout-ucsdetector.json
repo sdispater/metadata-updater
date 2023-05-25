@@ -1,0 +1,1 @@
+{"name": "buildout-ucsdetector", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2010-04-06T19:18:30+00:00", "yanked": false, "dependencies": ["zc.buildout"]}}}

@@ -1,0 +1,1 @@
+{"name": "bobik-python-sdk", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-07-26T00:51:02+00:00", "yanked": false, "dependencies": ["requests (>=0.12)"]}}}

@@ -1,0 +1,1 @@
+{"name": "backplane2-pyclient", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-01-07T23:46:04+00:00", "yanked": false, "dependencies": ["requests"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-12-17T18:53:01+00:00", "yanked": false, "dependencies": ["httplib2"]}}}

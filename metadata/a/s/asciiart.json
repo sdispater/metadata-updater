@@ -1,0 +1,1 @@
+{"name": "asciiart", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-03-12T18:35:44+00:00", "yanked": false, "dependencies": ["Pillow (>=1.7.8)", "requests (>=1.1.0)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-12T15:59:11+00:00", "yanked": false, "dependencies": ["Pillow (>=1.7.8)", "requests (>=1.1.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "c2-app-shortnameselection", "versions": {"1.0a2": {"version": "1.0a2", "python_constraint": "*", "released_at": "2010-03-10T06:36:41+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2010-03-09T11:19:18+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

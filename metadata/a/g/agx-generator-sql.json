@@ -1,0 +1,1 @@
+{"name": "agx-generator-sql", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2013-02-23T10:11:47+00:00", "yanked": false, "dependencies": ["agx.generator.pyegg", "interlude", "interlude ; extra == \"test\"", "setuptools"]}}}

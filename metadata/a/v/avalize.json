@@ -1,0 +1,1 @@
+{"name": "avalize", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-03-18T01:23:45+00:00", "yanked": false, "dependencies": ["python-easygui"]}}}

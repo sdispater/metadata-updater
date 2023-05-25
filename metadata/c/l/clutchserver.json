@@ -1,0 +1,1 @@
+{"name": "clutchserver", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-10-05T01:47:26+00:00", "yanked": false, "dependencies": ["boto (==2.5.2)", "Django (==1.4.1)", "django-pagination (==1.0.7)", "gevent (==0.13.8)", "gunicorn (==0.14.6)", "psycopg2 (==2.4.5)", "setuptools", "simplejson (==2.6.1)"]}}}

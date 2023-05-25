@@ -1,0 +1,1 @@
+{"name": "ams", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2010-08-16T15:15:46+00:00", "yanked": false, "dependencies": []}, "0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2010-01-25T13:25:28+00:00", "yanked": false, "dependencies": []}}}

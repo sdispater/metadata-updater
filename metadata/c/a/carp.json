@@ -1,0 +1,1 @@
+{"name": "carp", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2012-11-16T16:25:50+00:00", "yanked": false, "dependencies": ["clepy", "jinja2"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-11-05T15:37:25+00:00", "yanked": false, "dependencies": ["clepy", "jinja2"]}}}

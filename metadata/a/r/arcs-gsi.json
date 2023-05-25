@@ -1,0 +1,1 @@
+{"name": "arcs-gsi", "versions": {"1.2dev-20091120": {"version": "1.2dev-20091120", "python_constraint": "*", "released_at": "2009-11-20T03:44:15+00:00", "yanked": false, "dependencies": ["M2Crypto", "setuptools"]}}}

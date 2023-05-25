@@ -1,0 +1,1 @@
+{"name": "borg-supergroup", "versions": {"1.0rc1": {"version": "1.0rc1", "python_constraint": "*", "released_at": "2008-04-05T17:44:24+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

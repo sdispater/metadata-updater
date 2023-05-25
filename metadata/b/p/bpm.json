@@ -1,0 +1,1 @@
+{"name": "bpm", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-06-12T10:14:20+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-06-11T18:32:36+00:00", "yanked": false, "dependencies": []}}}

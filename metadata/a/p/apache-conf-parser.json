@@ -1,0 +1,1 @@
+{"name": "apache-conf-parser", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2011-04-12T05:07:48+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-04-09T22:50:59+00:00", "yanked": false, "dependencies": []}}}

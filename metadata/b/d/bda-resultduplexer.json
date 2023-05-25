@@ -1,0 +1,1 @@
+{"name": "bda-resultduplexer", "versions": {"1.0-beta2": {"version": "1.0-beta2", "python_constraint": "*", "released_at": "2010-03-10T17:45:14+00:00", "yanked": false, "dependencies": ["bda.contentproxy", "setuptools"]}, "1.0-beta1": {"version": "1.0-beta1", "python_constraint": "*", "released_at": "2008-03-10T08:14:58+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

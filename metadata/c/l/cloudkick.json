@@ -1,0 +1,1 @@
+{"name": "cloudkick", "versions": {"0.1.0-dev": {"version": "0.1.0-dev", "python_constraint": "*", "released_at": "2010-04-02T02:49:18+00:00", "yanked": false, "dependencies": ["oauth"]}}}

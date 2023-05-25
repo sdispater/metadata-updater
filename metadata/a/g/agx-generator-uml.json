@@ -1,0 +1,1 @@
+{"name": "agx-generator-uml", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2013-02-23T10:11:24+00:00", "yanked": false, "dependencies": ["agx.transform.xmi2uml", "agx.transform.xmi2uml ; extra == \"test\"", "interlude ; extra == \"test\"", "setuptools"]}}}

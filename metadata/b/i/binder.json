@@ -1,0 +1,1 @@
+{"name": "binder", "versions": {"0.6": {"version": "0.6", "python_constraint": "*", "released_at": "2013-01-22T06:30:57+00:00", "yanked": false, "dependencies": []}, "0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2013-01-12T08:51:35+00:00", "yanked": false, "dependencies": []}}}

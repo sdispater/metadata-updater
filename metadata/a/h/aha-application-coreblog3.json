@@ -1,0 +1,1 @@
+{"name": "aha-application-coreblog3", "versions": {"0.6adev": {"version": "0.6adev", "python_constraint": "*", "released_at": "2010-11-22T14:37:53+00:00", "yanked": false, "dependencies": ["aha"]}}}

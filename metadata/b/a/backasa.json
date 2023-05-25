@@ -1,0 +1,1 @@
+{"name": "backasa", "versions": {"0.9.5": {"version": "0.9.5", "python_constraint": "*", "released_at": "2013-02-21T22:32:38+00:00", "yanked": false, "dependencies": ["gdata (>=2.0.17)"]}, "0.9.3": {"version": "0.9.3", "python_constraint": "*", "released_at": "2013-02-21T17:11:54+00:00", "yanked": false, "dependencies": ["gdata (>=2.0.17)"]}}}

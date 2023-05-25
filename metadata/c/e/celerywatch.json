@@ -1,0 +1,1 @@
+{"name": "celerywatch", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-12-02T19:51:01+00:00", "yanked": false, "dependencies": ["django-celery (>=2.4.1)"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-11-23T23:33:17+00:00", "yanked": false, "dependencies": ["django-celery (==2.4.1)"]}}}

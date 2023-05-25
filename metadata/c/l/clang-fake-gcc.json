@@ -1,0 +1,1 @@
+{"name": "clang-fake-gcc", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2010-05-10T12:16:02+00:00", "yanked": false, "dependencies": []}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-05-10T12:15:27+00:00", "yanked": false, "dependencies": []}}}

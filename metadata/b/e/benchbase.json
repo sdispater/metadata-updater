@@ -1,0 +1,1 @@
+{"name": "benchbase", "versions": {"1.1.0": {"version": "1.1.0", "python_constraint": "*", "released_at": "2011-09-20T15:49:36+00:00", "yanked": false, "dependencies": ["cElementTree", "docutils", "mako"]}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-09-02T15:58:44+00:00", "yanked": false, "dependencies": []}}}

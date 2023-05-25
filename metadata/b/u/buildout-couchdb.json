@@ -1,0 +1,1 @@
+{"name": "buildout-couchdb", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-11-09T23:19:19+00:00", "yanked": false, "dependencies": ["distribute", "zc.buildout", "zc.recipe.cmmi"]}}}

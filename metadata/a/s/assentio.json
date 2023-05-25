@@ -1,0 +1,1 @@
+{"name": "assentio", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-09-14T10:07:25+00:00", "yanked": false, "dependencies": ["blinker", "Flask", "Flask-admin (==1.0.1)", "Flask-bcrypt", "Flask-DebugToolbar", "Flask-login", "Flask-Script", "Flask-sqlalchemy", "setuptools", "WTForms (==1.0.1)"]}}}

@@ -1,0 +1,1 @@
+{"name": "archetypes-gridfield", "versions": {"0.1a1": {"version": "0.1a1", "python_constraint": "*", "released_at": "2010-03-18T14:23:43+00:00", "yanked": false, "dependencies": ["archetypes.schemaextender ; extra == \"example\"", "collective.testcaselayer ; extra == \"tests\"", "plone.app.jquerytools", "plone.app.z3cform", "plone.z3cform (>=0.5.10)", "setuptools"]}}}

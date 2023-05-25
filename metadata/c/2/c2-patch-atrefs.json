@@ -1,0 +1,1 @@
+{"name": "c2-patch-atrefs", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2010-07-09T07:20:25+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

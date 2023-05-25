@@ -1,0 +1,1 @@
+{"name": "betahaus-livesearch", "versions": {"0.1b2": {"version": "0.1b2", "python_constraint": "*", "released_at": "2010-04-07T11:57:09+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1b": {"version": "0.1b", "python_constraint": "*", "released_at": "2010-02-11T11:41:05+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

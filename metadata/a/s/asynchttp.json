@@ -1,0 +1,1 @@
+{"name": "asynchttp", "versions": {"0.0.4": {"version": "0.0.4", "python_constraint": "*", "released_at": "2011-10-28T04:48:56+00:00", "yanked": false, "dependencies": ["httplib2 (>=0.5.0)"]}, "0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2011-08-31T05:35:51+00:00", "yanked": false, "dependencies": ["httplib2 (>=0.5.0)"]}}}

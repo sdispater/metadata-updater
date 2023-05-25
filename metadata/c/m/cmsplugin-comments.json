@@ -1,0 +1,1 @@
+{"name": "cmsplugin-comments", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-03-13T22:14:31+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

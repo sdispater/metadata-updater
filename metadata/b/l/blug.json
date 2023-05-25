@@ -1,0 +1,1 @@
+{"name": "blug", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2012-10-23T00:08:48+00:00", "yanked": false, "dependencies": []}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-07-18T23:42:11+00:00", "yanked": false, "dependencies": ["Jinja2 (>=2.6)", "Markdown (>=2.2.0)", "PyYAML (>=3.10)"]}}}

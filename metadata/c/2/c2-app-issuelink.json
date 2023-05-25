@@ -1,0 +1,1 @@
+{"name": "c2-app-issuelink", "versions": {"1.0b2": {"version": "1.0b2", "python_constraint": "*", "released_at": "2011-04-25T09:13:25+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2011-04-23T10:28:43+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

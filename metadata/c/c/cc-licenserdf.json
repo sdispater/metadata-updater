@@ -1,0 +1,1 @@
+{"name": "cc-licenserdf", "versions": {"0.2.29": {"version": "0.2.29", "python_constraint": "*", "released_at": "2012-01-26T21:08:47+00:00", "yanked": false, "dependencies": ["argparse", "Babel (>0.99)", "cc.i18n", "nose", "python-gettext (<2.0)", "rdfadict", "rdflib (<3.0)", "setuptools", "zope.i18n"]}}}

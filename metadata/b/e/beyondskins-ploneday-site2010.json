@@ -1,0 +1,1 @@
+{"name": "beyondskins-ploneday-site2010", "versions": {"1.0.3": {"version": "1.0.3", "python_constraint": "*", "released_at": "2010-04-15T17:13:26+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2010-04-14T19:08:36+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

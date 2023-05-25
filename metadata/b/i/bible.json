@@ -1,0 +1,1 @@
+{"name": "bible", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-01-17T00:37:51+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-01-11T15:17:58+00:00", "yanked": false, "dependencies": []}}}
