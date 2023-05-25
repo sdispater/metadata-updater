@@ -1,0 +1,1 @@
+{"name": "collective-recipe-hudsonjob", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-10-31T21:31:21+00:00", "yanked": false, "dependencies": ["collective.recipe.template", "genshi (>=0.6)", "mocker", "setuptools", "zc.buildout", "zc.buildout ; extra == \"tests\"", "zc.recipe.egg", "zope.testing ; extra == \"tests\""]}}}

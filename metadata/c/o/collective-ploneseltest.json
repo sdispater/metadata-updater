@@ -1,0 +1,1 @@
+{"name": "collective-ploneseltest", "versions": {"1.0b2": {"version": "1.0b2", "python_constraint": "*", "released_at": "2009-10-08T09:10:48+00:00", "yanked": false, "dependencies": ["selenium", "setuptools"]}, "1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2008-05-29T01:16:20+00:00", "yanked": false, "dependencies": ["selenium", "setuptools"]}}}

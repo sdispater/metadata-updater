@@ -1,0 +1,1 @@
+{"name": "cosent-guruscan", "versions": {"1.0dev": {"version": "1.0dev", "python_constraint": "*", "released_at": "2013-03-04T12:17:44+00:00", "yanked": false, "dependencies": ["plone.app.testing ; extra == \"test\"", "setuptools"]}}}

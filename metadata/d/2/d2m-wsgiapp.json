@@ -1,0 +1,1 @@
+{"name": "d2m-wsgiapp", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-05-31T17:11:54+00:00", "yanked": false, "dependencies": ["grok", "setuptools"]}}}

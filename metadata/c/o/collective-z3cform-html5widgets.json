@@ -1,0 +1,1 @@
+{"name": "collective-z3cform-html5widgets", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-21T17:29:25+00:00", "yanked": false, "dependencies": ["plone.app.z3cform", "plone.formwidget.autocomplete", "setuptools"]}}}

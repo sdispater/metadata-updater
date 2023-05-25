@@ -1,0 +1,1 @@
+{"name": "collective-rdfadcviewlet", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-06-30T09:35:26+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

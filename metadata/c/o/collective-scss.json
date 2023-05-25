@@ -1,0 +1,1 @@
+{"name": "collective-scss", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2011-11-12T17:06:50+00:00", "yanked": false, "dependencies": ["plone.app.testing ; extra == \"test\"", "scss", "setuptools"]}}}

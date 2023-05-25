@@ -1,0 +1,1 @@
+{"name": "collective-contentrules-subscription", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-05-10T06:51:33+00:00", "yanked": false, "dependencies": ["collective.z3cform.norobots", "plone.app.testing ; extra == \"test\"", "plone.contentrules", "setuptools"]}}}

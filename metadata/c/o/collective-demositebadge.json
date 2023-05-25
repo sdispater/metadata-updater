@@ -1,0 +1,1 @@
+{"name": "collective-demositebadge", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-03-16T14:53:21+00:00", "yanked": false, "dependencies": ["plone.app.registry", "plone.app.testing ; extra == \"test\"", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "collective-keywordcondition", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2007-12-20T03:04:09+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

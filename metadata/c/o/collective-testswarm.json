@@ -1,0 +1,1 @@
+{"name": "collective-testswarm", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2011-07-24T23:49:29+00:00", "yanked": false, "dependencies": ["plone.app.testing ; extra == \"test\"", "Products.PloneTestCase ; extra == \"test\"", "setuptools"]}}}

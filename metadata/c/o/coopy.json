@@ -1,0 +1,1 @@
+{"name": "coopy", "versions": {"0.3.1": {"version": "0.3.1", "python_constraint": "*", "released_at": "2012-12-18T18:53:04+00:00", "yanked": false, "dependencies": ["six"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-12-18T18:47:02+00:00", "yanked": false, "dependencies": []}}}

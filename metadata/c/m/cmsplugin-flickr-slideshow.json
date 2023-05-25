@@ -1,0 +1,1 @@
+{"name": "cmsplugin-flickr-slideshow", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-09-25T08:24:19+00:00", "yanked": false, "dependencies": ["Django (>=1.4)", "django-cms (>=2.3)"]}}}

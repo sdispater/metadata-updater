@@ -1,0 +1,1 @@
+{"name": "collective-geo-geopoint", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-06-20T11:57:15+00:00", "yanked": false, "dependencies": ["collective.geo.openlayers", "collective.geo.settings", "plone.app.z3cform", "setuptools"]}}}

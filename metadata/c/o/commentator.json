@@ -1,0 +1,1 @@
+{"name": "commentator", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-01-24T23:41:22+00:00", "yanked": false, "dependencies": ["genshi", "Paste", "PasteScript", "WebOb"]}}}

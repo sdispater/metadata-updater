@@ -1,0 +1,1 @@
+{"name": "collective-ui-ie6nomore", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2009-08-05T05:53:22+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

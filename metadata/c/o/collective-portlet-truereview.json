@@ -1,0 +1,1 @@
+{"name": "collective-portlet-truereview", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2009-03-31T10:21:56+00:00", "yanked": false, "dependencies": ["collective.autopermission", "Plone (>=3.3rc1)", "plone.app.portlets", "plone.indexer", "setuptools"]}}}

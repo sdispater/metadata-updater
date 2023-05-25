@@ -1,0 +1,1 @@
+{"name": "datastore-mongo", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-02-14T14:11:57+00:00", "yanked": false, "dependencies": ["datastore (>=0.3.3)", "pymongo (==2.4.2)"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-02-13T18:02:38+00:00", "yanked": false, "dependencies": ["datastore (>=0.3.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "cubicweb-document", "versions": {"0.6.0": {"version": "0.6.0", "python_constraint": "*", "released_at": "2011-01-25T21:23:01+00:00", "yanked": false, "dependencies": []}, "0.3.0": {"version": "0.3.0", "python_constraint": "*", "released_at": "2009-06-23T12:39:39+00:00", "yanked": false, "dependencies": []}}}

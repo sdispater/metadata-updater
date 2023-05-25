@@ -1,0 +1,1 @@
+{"name": "collective-js-prefixfree", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-10-25T11:50:45+00:00", "yanked": false, "dependencies": ["Plone", "plone.act ; extra == \"robot\"", "plone.app.testing ; extra == \"test\"", "plone.theme", "Products.GenericSetup", "setuptools"]}}}

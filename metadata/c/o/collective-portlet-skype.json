@@ -1,0 +1,1 @@
+{"name": "collective-portlet-skype", "versions": {"1.0-beta1": {"version": "1.0-beta1", "python_constraint": "*", "released_at": "2008-02-09T20:48:18+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

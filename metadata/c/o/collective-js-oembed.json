@@ -1,0 +1,1 @@
+{"name": "collective-js-oembed", "versions": {"1.0a": {"version": "1.0a", "python_constraint": "*", "released_at": "2012-01-02T17:29:01+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

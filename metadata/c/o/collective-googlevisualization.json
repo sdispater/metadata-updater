@@ -1,0 +1,1 @@
+{"name": "collective-googlevisualization", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2011-04-01T15:17:27+00:00", "yanked": false, "dependencies": ["five.grok", "Products.ATContentTypes", "setuptools"]}}}

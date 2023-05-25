@@ -1,0 +1,1 @@
+{"name": "collective-hook", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2010-05-27T16:22:00+00:00", "yanked": false, "dependencies": ["setuptools", "zope.event", "zope.interface", "zope.schema"]}}}

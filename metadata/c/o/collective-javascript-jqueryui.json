@@ -1,0 +1,1 @@
+{"name": "collective-javascript-jqueryui", "versions": {"1.8.4": {"version": "1.8.4", "python_constraint": "*", "released_at": "2010-08-29T14:11:08+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

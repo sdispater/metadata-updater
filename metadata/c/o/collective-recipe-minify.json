@@ -1,0 +1,1 @@
+{"name": "collective-recipe-minify", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-01-05T11:42:10+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout", "zc.buildout ; extra == \"tests\"", "zc.recipe.egg", "zope.testing ; extra == \"tests\""]}}}

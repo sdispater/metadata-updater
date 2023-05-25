@@ -1,0 +1,1 @@
+{"name": "contentlet", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-05-23T14:19:48+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-05-23T14:03:20+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "collective-captchaforms", "versions": {"0.1-20090814": {"version": "0.1-20090814", "python_constraint": "*", "released_at": "2009-08-14T12:05:42+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

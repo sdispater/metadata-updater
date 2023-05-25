@@ -1,0 +1,1 @@
+{"name": "collective-cdn-alternatehostname", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2011-02-21T20:58:26+00:00", "yanked": false, "dependencies": ["collective.cdn.core", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "collective-subrip2html", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2010-12-29T16:05:40+00:00", "yanked": false, "dependencies": ["pysrt (>0.2.3)", "setuptools"]}}}

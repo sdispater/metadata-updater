@@ -1,0 +1,1 @@
+{"name": "collective-js-nomensamediaplayer", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-06-26T15:53:16+00:00", "yanked": false, "dependencies": ["collective.js.jqueryui", "collective.swfobject", "setuptools"]}}}

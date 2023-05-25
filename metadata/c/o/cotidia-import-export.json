@@ -1,0 +1,1 @@
+{"name": "cotidia-import-export", "versions": {"0.1.5": {"version": "0.1.5", "python_constraint": "*", "released_at": "2013-02-26T21:34:48+00:00", "yanked": false, "dependencies": ["diff-match-patch", "Django (>=1.4.2)", "tablib"]}}}

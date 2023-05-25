@@ -1,0 +1,1 @@
+{"name": "collective-fsexternalmethod", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-07-09T10:46:15+00:00", "yanked": false, "dependencies": ["Products.CMFCore", "Products.ExternalMethod", "setuptools"]}}}

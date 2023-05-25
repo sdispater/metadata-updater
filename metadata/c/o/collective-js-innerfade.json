@@ -1,0 +1,1 @@
+{"name": "collective-js-innerfade", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-02-23T14:44:07+00:00", "yanked": false, "dependencies": ["plone.app.imaging", "setuptools"]}}}

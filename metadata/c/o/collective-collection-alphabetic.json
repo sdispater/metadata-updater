@@ -1,0 +1,1 @@
+{"name": "collective-collection-alphabetic", "versions": {"0.4.5": {"version": "0.4.5", "python_constraint": "*", "released_at": "2009-06-11T01:46:34+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

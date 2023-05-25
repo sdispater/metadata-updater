@@ -1,0 +1,1 @@
+{"name": "collective-sectionsubskin", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-07-18T10:51:23+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-07-16T15:50:31+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

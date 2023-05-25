@@ -1,0 +1,1 @@
+{"name": "crawly", "versions": {"0.1b": {"version": "0.1b", "python_constraint": "*", "released_at": "2012-11-03T19:24:49+00:00", "yanked": false, "dependencies": ["gevent (==0.13.7)", "lxml (==3.0.1)", "requests (==0.14)"]}}}

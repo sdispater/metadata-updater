@@ -1,0 +1,1 @@
+{"name": "collective-remove-kupu", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-11-29T01:08:37+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

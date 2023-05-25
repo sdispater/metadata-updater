@@ -1,0 +1,1 @@
+{"name": "collective-fancyboxgallery", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-12-06T22:26:40+00:00", "yanked": false, "dependencies": ["collective.configviews", "collective.gallery", "collective.js.easing", "collective.js.fancybox", "plone.app.testing ; extra == \"test\"", "setuptools"]}}}

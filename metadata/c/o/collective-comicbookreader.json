@@ -1,0 +1,1 @@
+{"name": "collective-comicbookreader", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-10-03T23:48:53+00:00", "yanked": false, "dependencies": ["rarfile", "setuptools"]}}}

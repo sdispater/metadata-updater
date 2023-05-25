@@ -1,0 +1,1 @@
+{"name": "cykooz-title", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-03-14T14:39:02+00:00", "yanked": false, "dependencies": ["distribute", "zope.app.testing ; extra == \"test\"", "zope.component", "zope.container", "zope.dublincore", "zope.i18n", "zope.i18nmessageid", "zope.interface"]}}}

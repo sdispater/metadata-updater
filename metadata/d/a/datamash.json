@@ -1,0 +1,1 @@
+{"name": "datamash", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-04-25T23:17:09+00:00", "yanked": false, "dependencies": ["python-dateutil (==1.5)", "requests (==1.0)", "simplejson"]}}}

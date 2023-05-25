@@ -1,0 +1,1 @@
+{"name": "collective-cdn-coral", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2011-02-21T20:52:12+00:00", "yanked": false, "dependencies": ["collective.cdn.core", "setuptools"]}}}

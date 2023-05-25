@@ -1,0 +1,1 @@
+{"name": "collective-js-charcount", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2013-05-18T16:19:03+00:00", "yanked": false, "dependencies": ["plone.app.testing ; extra == \"test\"", "setuptools"]}}}

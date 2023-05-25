@@ -1,0 +1,1 @@
+{"name": "collective-jqueryuithememanager", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-12-15T16:08:03+00:00", "yanked": false, "dependencies": ["collective.js.jqueryui", "collective.z3cform.colorpicker", "plone.app.registry", "plone.app.testing ; extra == \"tests\"", "plone.namedfile", "plone.resource", "setuptools"]}}}

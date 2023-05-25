@@ -1,0 +1,1 @@
+{"name": "d9t-json", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2009-06-22T14:11:03+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2009-03-30T21:15:57+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

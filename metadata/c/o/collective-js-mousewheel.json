@@ -1,0 +1,1 @@
+{"name": "collective-js-mousewheel", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-01-04T21:33:09+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

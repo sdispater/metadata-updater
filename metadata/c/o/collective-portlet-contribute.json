@@ -1,0 +1,1 @@
+{"name": "collective-portlet-contribute", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2009-03-26T05:26:04+00:00", "yanked": false, "dependencies": ["collective.autopermission", "plone.app.portlets", "setuptools"]}}}

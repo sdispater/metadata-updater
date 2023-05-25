@@ -1,0 +1,1 @@
+{"name": "collective-rtvideo-mediacore", "versions": {"2.0.1": {"version": "2.0.1", "python_constraint": "*", "released_at": "2013-05-15T10:38:34+00:00", "yanked": false, "dependencies": ["python-cjson", "redturtle.video (>=0.6.0)", "setuptools"]}}}

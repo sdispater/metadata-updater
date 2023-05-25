@@ -1,0 +1,1 @@
+{"name": "cns-recipe-zmysqlda", "versions": {"2.0.9": {"version": "2.0.9", "python_constraint": "*", "released_at": "2008-03-12T14:34:30+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}, "2.0.8": {"version": "2.0.8", "python_constraint": "*", "released_at": "2007-10-30T07:13:56+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

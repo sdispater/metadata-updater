@@ -1,0 +1,1 @@
+{"name": "continuous-services", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-02-16T16:44:29+00:00", "yanked": false, "dependencies": ["dnspython", "xmpppy"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-02-16T13:44:42+00:00", "yanked": false, "dependencies": ["dnspython", "xmpppy"]}}}

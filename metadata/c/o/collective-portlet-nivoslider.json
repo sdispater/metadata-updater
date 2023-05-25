@@ -1,0 +1,1 @@
+{"name": "collective-portlet-nivoslider", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-08-28T15:46:52+00:00", "yanked": false, "dependencies": ["collective.js.nivoslider", "setuptools"]}}}

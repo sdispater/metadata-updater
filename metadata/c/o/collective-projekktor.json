@@ -1,0 +1,1 @@
+{"name": "collective-projekktor", "versions": {"0.2b1": {"version": "0.2b1", "python_constraint": "*", "released_at": "2010-10-06T19:10:32+00:00", "yanked": false, "dependencies": ["Plone (>=4.0)", "setuptools"]}}}

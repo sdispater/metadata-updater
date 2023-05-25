@@ -1,0 +1,1 @@
+{"name": "collective-trajectory", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-10-03T18:00:20+00:00", "yanked": false, "dependencies": ["setuptools", "traject", "zope.globalrequest"]}}}

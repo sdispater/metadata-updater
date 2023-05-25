@@ -1,0 +1,1 @@
+{"name": "cynq", "versions": {"2.3.11": {"version": "2.3.11", "python_constraint": "*", "released_at": "2012-06-01T00:59:10+00:00", "yanked": false, "dependencies": ["sanetime (>=4,<5)"]}}}

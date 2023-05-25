@@ -1,0 +1,1 @@
+{"name": "cssmergemedia", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-06-13T15:12:47+00:00", "yanked": false, "dependencies": ["cssutils (>=0.9.9)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-06-13T14:18:34+00:00", "yanked": false, "dependencies": []}}}

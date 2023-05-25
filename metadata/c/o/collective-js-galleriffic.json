@@ -1,0 +1,1 @@
+{"name": "collective-js-galleriffic", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2013-01-31T13:13:58+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-01-04T11:03:19+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

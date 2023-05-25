@@ -1,0 +1,1 @@
+{"name": "collective-nivoslider", "versions": {"1.0a": {"version": "1.0a", "python_constraint": "*", "released_at": "2010-12-19T21:33:16+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1a": {"version": "0.1a", "python_constraint": "*", "released_at": "2010-12-19T21:13:17+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "collective-synchronisedworkflow", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-01-12T08:32:09+00:00", "yanked": false, "dependencies": ["collective.testcaselayer", "Products.CMFCore", "Products.LinguaPlone", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "collective-microdata-contentlisting", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-09-08T12:25:42+00:00", "yanked": false, "dependencies": ["collective.microdata.core", "plone.app.testing ; extra == \"test\"", "setuptools"]}}}

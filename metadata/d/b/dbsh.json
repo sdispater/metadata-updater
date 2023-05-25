@@ -1,0 +1,1 @@
+{"name": "dbsh", "versions": {"0.1.6": {"version": "0.1.6", "python_constraint": "*", "released_at": "2008-09-04T19:34:00+00:00", "yanked": false, "dependencies": ["IPython", "SQLAlchemy"]}, "0.1.5": {"version": "0.1.5", "python_constraint": "*", "released_at": "2008-08-27T18:48:42+00:00", "yanked": false, "dependencies": ["IPython", "SQLAlchemy"]}}}

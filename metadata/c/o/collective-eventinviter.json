@@ -1,0 +1,1 @@
+{"name": "collective-eventinviter", "versions": {"0.1b1": {"version": "0.1b1", "python_constraint": "*", "released_at": "2009-05-27T15:11:43+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

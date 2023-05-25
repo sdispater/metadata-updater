@@ -1,0 +1,1 @@
+{"name": "collective-formwidget-uberselect", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-05-16T00:49:00+00:00", "yanked": false, "dependencies": ["setuptools", "z3c.form", "z3c.formwidget.query", "zope.i18nmessageid", "zope.interface", "zope.schema"]}}}

@@ -1,0 +1,1 @@
+{"name": "collective-simpleeditbutton", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2009-03-31T03:10:04+00:00", "yanked": false, "dependencies": ["collective.autopermission", "setuptools", "zope.testing ; extra == \"tests\""]}}}

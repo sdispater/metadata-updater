@@ -1,0 +1,1 @@
+{"name": "codepadr", "versions": {"0.9": {"version": "0.9", "python_constraint": "*", "released_at": "2011-10-18T00:20:42+00:00", "yanked": false, "dependencies": ["argparse", "requests"]}}}

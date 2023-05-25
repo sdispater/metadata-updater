@@ -1,0 +1,1 @@
+{"name": "collective-geo-mapcontent", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-11-10T12:39:53+00:00", "yanked": false, "dependencies": ["collective.geo.MapWidget", "collective.geo.openlayers", "collective.geo.settings", "plone.app.z3cform", "setuptools"]}}}

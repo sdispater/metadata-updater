@@ -1,0 +1,1 @@
+{"name": "collective-cu3er", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-05-23T17:54:47+00:00", "yanked": false, "dependencies": ["archetypes.schemaextender", "setuptools"]}}}

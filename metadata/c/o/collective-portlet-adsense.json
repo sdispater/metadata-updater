@@ -1,0 +1,1 @@
+{"name": "collective-portlet-adsense", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2008-06-27T10:37:36+00:00", "yanked": false, "dependencies": ["plone.app.portlets", "plone.portlets", "setuptools"]}}}

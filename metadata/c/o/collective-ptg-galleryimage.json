@@ -1,0 +1,1 @@
+{"name": "collective-ptg-galleryimage", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-03-18T21:09:31+00:00", "yanked": false, "dependencies": ["archetypes.schemaextender", "collective.plonetruegallery (>=3.3.0a1)", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "copydog", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-08-18T18:51:57+00:00", "yanked": false, "dependencies": ["docopt (==0.4.1)", "python-daemon (==1.6)", "python-dateutil (==2.1)", "pytz (==2012c)", "PyYAML (==3.10)", "redis (==2.6.2)", "requests (==0.13.6)", "texttable (==0.8.1)"]}}}

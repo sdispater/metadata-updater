@@ -1,0 +1,1 @@
+{"name": "cztext", "versions": {"2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2009-11-21T12:43:02+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2009-06-16T07:23:35+00:00", "yanked": false, "dependencies": []}}}

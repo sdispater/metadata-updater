@@ -1,0 +1,1 @@
+{"name": "cmsplugin-plaintext", "versions": {"0.1.1-alpha-2": {"version": "0.1.1-alpha-2", "python_constraint": "*", "released_at": "2009-12-03T05:46:26+00:00", "yanked": false, "dependencies": []}, "0.1.1-alpha-1": {"version": "0.1.1-alpha-1", "python_constraint": "*", "released_at": "2009-11-30T01:56:16+00:00", "yanked": false, "dependencies": []}}}

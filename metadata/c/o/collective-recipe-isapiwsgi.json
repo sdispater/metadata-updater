@@ -1,0 +1,1 @@
+{"name": "collective-recipe-isapiwsgi", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2009-09-20T19:39:50+00:00", "yanked": false, "dependencies": ["setuptools", "zc.recipe.egg"]}}}

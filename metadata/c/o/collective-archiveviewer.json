@@ -1,0 +1,1 @@
+{"name": "collective-archiveviewer", "versions": {"1.0b2": {"version": "1.0b2", "python_constraint": "*", "released_at": "2012-03-16T15:02:53+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2012-03-16T14:43:46+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "collect", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-10-27T19:07:45+00:00", "yanked": false, "dependencies": ["couchdbkit (>=0.5.7)"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-10-27T18:56:54+00:00", "yanked": false, "dependencies": ["couchdbkit (>=0.5.7)"]}}}

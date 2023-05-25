@@ -1,0 +1,1 @@
+{"name": "collective-z3cform-kss", "versions": {"0.1b1dev": {"version": "0.1b1dev", "python_constraint": "*", "released_at": "2008-06-20T16:32:13+00:00", "yanked": false, "dependencies": ["kss.core", "plone.app.form", "plone.z3cform", "setuptools"]}}}

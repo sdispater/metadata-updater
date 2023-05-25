@@ -1,0 +1,1 @@
+{"name": "collective-autopermission", "versions": {"1.0b2": {"version": "1.0b2", "python_constraint": "*", "released_at": "2011-05-02T15:03:37+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2009-03-11T16:07:27+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

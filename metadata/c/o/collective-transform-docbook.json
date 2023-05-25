@@ -1,0 +1,1 @@
+{"name": "collective-transform-docbook", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-03-11T21:15:52+00:00", "yanked": false, "dependencies": ["html2docbook", "setuptools"]}}}

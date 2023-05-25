@@ -1,0 +1,1 @@
+{"name": "collective-barcamp", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-08-16T08:25:58+00:00", "yanked": false, "dependencies": ["Plone", "plone.z3cform", "setuptools", "zope.testing ; extra == \"tests\""]}}}

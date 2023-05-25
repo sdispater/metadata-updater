@@ -1,0 +1,1 @@
+{"name": "collective-contentrules-template", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-10-26T14:28:12+00:00", "yanked": false, "dependencies": ["plone.app.contentrules", "plone.contentrules", "setuptools"]}}}

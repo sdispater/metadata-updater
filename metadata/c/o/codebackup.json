@@ -1,0 +1,1 @@
+{"name": "codebackup", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2010-04-12T04:08:26+00:00", "yanked": false, "dependencies": ["argparse"]}}}

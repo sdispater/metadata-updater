@@ -1,0 +1,1 @@
+{"name": "collective-viewlet-banner", "versions": {"0.1a": {"version": "0.1a", "python_constraint": "*", "released_at": "2009-12-18T11:37:59+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

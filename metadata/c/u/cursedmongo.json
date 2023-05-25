@@ -1,0 +1,1 @@
+{"name": "cursedmongo", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-30T15:46:24+00:00", "yanked": false, "dependencies": ["pymongo (>=2.3)", "urwid (>=1.0.2)"]}}}

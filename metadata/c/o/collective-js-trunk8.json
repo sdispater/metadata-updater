@@ -1,0 +1,1 @@
+{"name": "collective-js-trunk8", "versions": {"1.2.3": {"version": "1.2.3", "python_constraint": "*", "released_at": "2013-02-08T08:04:21+00:00", "yanked": false, "dependencies": ["plone.app.testing ; extra == \"test\"", "setuptools"]}}}

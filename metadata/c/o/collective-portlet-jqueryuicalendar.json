@@ -1,0 +1,1 @@
+{"name": "collective-portlet-jqueryuicalendar", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-16T21:19:07+00:00", "yanked": false, "dependencies": ["collective.js.jqueryui", "collective.js.timeago", "setuptools"]}}}

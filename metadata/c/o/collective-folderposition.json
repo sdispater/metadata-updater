@@ -1,0 +1,1 @@
+{"name": "collective-folderposition", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-12-14T17:14:34+00:00", "yanked": false, "dependencies": ["plone.app.content", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "collective-dexteritypaste", "versions": {"1.0alpha1": {"version": "1.0alpha1", "python_constraint": "*", "released_at": "2010-03-22T09:18:02+00:00", "yanked": false, "dependencies": ["PasteScript", "setuptools", "ZopeSkel"]}}}

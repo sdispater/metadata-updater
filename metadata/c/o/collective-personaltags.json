@@ -1,0 +1,1 @@
+{"name": "collective-personaltags", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-03-10T12:15:50+00:00", "yanked": false, "dependencies": ["collective.autopermission", "plone.app.dexterity", "plone.app.registry", "setuptools"]}}}

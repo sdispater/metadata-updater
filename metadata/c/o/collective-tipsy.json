@@ -1,0 +1,1 @@
+{"name": "collective-tipsy", "versions": {"1.0.0a": {"version": "1.0.0a", "python_constraint": "*", "released_at": "2010-09-08T10:24:08+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

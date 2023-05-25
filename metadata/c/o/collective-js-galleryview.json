@@ -1,0 +1,1 @@
+{"name": "collective-js-galleryview", "versions": {"0.5.1": {"version": "0.5.1", "python_constraint": "*", "released_at": "2010-01-07T16:54:20+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2009-12-29T17:48:55+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

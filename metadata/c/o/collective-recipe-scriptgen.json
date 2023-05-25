@@ -1,0 +1,1 @@
+{"name": "collective-recipe-scriptgen", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-09-13T17:46:55+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-04-28T22:04:48+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

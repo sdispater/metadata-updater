@@ -1,0 +1,1 @@
+{"name": "collective-categories", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-01-11T14:38:24+00:00", "yanked": false, "dependencies": ["archetypes.linguakeywordwidget ; extra == \"test\"", "plone.app.testing ; extra == \"test\"", "Products.ATVocabularyManager ; extra == \"test\"", "setuptools"]}}}
