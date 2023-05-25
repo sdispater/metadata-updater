@@ -1,0 +1,1 @@
+{"name": "watchlion", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2013-03-04T05:27:23+00:00", "yanked": false, "dependencies": ["MacFSEvents", "PyYAML"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-03-01T05:04:20+00:00", "yanked": false, "dependencies": ["MacFSEvents", "PyYAML"]}}}

@@ -1,0 +1,1 @@
+{"name": "oldowan-mitomotifs-cmdline", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2008-08-17T02:11:46+00:00", "yanked": false, "dependencies": ["oldowan.fasta (>=1.0.0)", "oldowan.mitomotifs (>=1.0.0)"]}}}

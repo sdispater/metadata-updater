@@ -1,0 +1,1 @@
+{"name": "iw-recipe-fetcher", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-01-11T09:45:46+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

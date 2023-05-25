@@ -1,0 +1,1 @@
+{"name": "collective-examples-diazo", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-10-30T20:06:20+00:00", "yanked": false, "dependencies": ["collective.xdv", "setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-10-30T19:58:00+00:00", "yanked": false, "dependencies": ["collective.xdv", "setuptools"]}}}

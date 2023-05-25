@@ -1,0 +1,1 @@
+{"name": "django-redshift", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-06-07T20:27:00+00:00", "yanked": false, "dependencies": ["psycopg2 (==2.5)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-06-03T15:57:01+00:00", "yanked": false, "dependencies": ["psycopg2 (>=2.4.1)"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-makemessages-plus", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-06-22T15:47:34+00:00", "yanked": false, "dependencies": ["django (>=1.2)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-06-22T15:42:57+00:00", "yanked": false, "dependencies": ["django (>=1.2)"]}}}

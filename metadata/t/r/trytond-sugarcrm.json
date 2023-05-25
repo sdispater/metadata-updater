@@ -1,0 +1,1 @@
+{"name": "trytond-sugarcrm", "versions": {"2.6.1.0": {"version": "2.6.1.0", "python_constraint": "*", "released_at": "2013-06-19T12:29:00+00:00", "yanked": false, "dependencies": ["sugarcrm", "trytond (>=2.6,<2.7)", "trytond_party (>=2.6,<2.7)", "trytonzz_party_communication (>=2.6,<2.7)"]}}}

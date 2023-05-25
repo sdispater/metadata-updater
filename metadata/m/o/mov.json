@@ -1,0 +1,1 @@
+{"name": "mov", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-06-24T02:59:49+00:00", "yanked": false, "dependencies": ["docopt ; extra == \"docopt\""]}}}

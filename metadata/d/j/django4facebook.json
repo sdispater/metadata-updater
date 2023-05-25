@@ -1,0 +1,1 @@
+{"name": "django4facebook", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-06-23T15:56:01+00:00", "yanked": false, "dependencies": ["django (>=1.2.7)", "facebook-sdk (>=0.3.1)"]}}}

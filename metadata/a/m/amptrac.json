@@ -1,0 +1,1 @@
+{"name": "amptrac", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-06-13T01:39:32+00:00", "yanked": false, "dependencies": ["treq", "twisted (>=13.0.0)"]}, "0.0": {"version": "0.0", "python_constraint": "*", "released_at": "2013-06-06T19:09:08+00:00", "yanked": false, "dependencies": ["treq", "twisted (>=13.0.0)"]}}}

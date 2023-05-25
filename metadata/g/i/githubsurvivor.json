@@ -1,0 +1,1 @@
+{"name": "githubsurvivor", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-06-11T11:58:54+00:00", "yanked": false, "dependencies": ["derpconf (==0.4.8)", "Flask (==0.9)", "iso8601 (==0.1.4)", "jira-python (==0.13)", "mongoengine (==0.8.1)", "PyGithub (==1.16.0)", "python-dateutil (==2.1)"]}}}

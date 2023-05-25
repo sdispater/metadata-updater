@@ -1,0 +1,1 @@
+{"name": "nanoweb", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-06-19T00:55:32+00:00", "yanked": false, "dependencies": ["json-schema-validator", "routes", "webob"]}}}

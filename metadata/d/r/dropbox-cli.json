@@ -1,0 +1,1 @@
+{"name": "dropbox-cli", "versions": {"0.00.01": {"version": "0.00.01", "python_constraint": "*", "released_at": "2013-06-23T10:24:11+00:00", "yanked": false, "dependencies": ["clicore (==0.00.01)", "dropbox (==1.5.1)"]}}}

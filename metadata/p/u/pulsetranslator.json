@@ -1,0 +1,1 @@
+{"name": "pulsetranslator", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-04-19T19:17:15+00:00", "yanked": false, "dependencies": ["mozillapulse"]}}}

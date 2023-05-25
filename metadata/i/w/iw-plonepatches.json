@@ -1,0 +1,1 @@
+{"name": "iw-plonepatches", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2008-07-07T09:03:07+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2008-06-20T08:33:02+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

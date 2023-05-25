@@ -1,0 +1,1 @@
+{"name": "json-schema-toolkit", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2013-06-16T22:52:56+00:00", "yanked": false, "dependencies": ["json_document (>=0.8)", "json_schema_validator (>=2.3)"]}}}

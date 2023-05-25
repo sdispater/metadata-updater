@@ -1,0 +1,1 @@
+{"name": "requests-proxy", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-12-17T21:27:07+00:00", "yanked": false, "dependencies": ["requests"]}}}

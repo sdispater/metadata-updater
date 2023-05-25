@@ -1,0 +1,1 @@
+{"name": "xml-compare", "versions": {"1.0.5": {"version": "1.0.5", "python_constraint": "*", "released_at": "2008-12-07T00:31:13+00:00", "yanked": false, "dependencies": ["lxml"]}}}

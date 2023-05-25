@@ -1,0 +1,1 @@
+{"name": "py-li", "versions": {"0.0.8": {"version": "0.0.8", "python_constraint": "*", "released_at": "2013-06-04T20:24:44+00:00", "yanked": false, "dependencies": ["argparse (==1.2.1)", "requests (==1.2.3)", "wsgiref (==0.1.2)"]}}}

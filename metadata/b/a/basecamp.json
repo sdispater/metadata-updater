@@ -1,0 +1,1 @@
+{"name": "basecamp", "versions": {"0.0.12": {"version": "0.0.12", "python_constraint": "*", "released_at": "2012-03-12T13:52:29+00:00", "yanked": false, "dependencies": ["elementtree (>=0.0.7)", "requests (>=0.10.6)"]}}}

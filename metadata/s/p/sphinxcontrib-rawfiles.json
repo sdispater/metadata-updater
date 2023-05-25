@@ -1,0 +1,1 @@
+{"name": "sphinxcontrib-rawfiles", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-07-16T13:37:51+00:00", "yanked": false, "dependencies": ["Sphinx (>=0.6)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-07-16T11:37:48+00:00", "yanked": false, "dependencies": ["Sphinx (>=0.6)"]}}}

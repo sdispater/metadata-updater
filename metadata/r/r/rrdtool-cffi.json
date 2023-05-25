@@ -1,0 +1,1 @@
+{"name": "rrdtool-cffi", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-06-11T14:59:04+00:00", "yanked": false, "dependencies": ["cffi", "six"]}}}

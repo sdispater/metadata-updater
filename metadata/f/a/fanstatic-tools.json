@@ -1,0 +1,1 @@
+{"name": "fanstatic-tools", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-01-15T07:43:45+00:00", "yanked": false, "dependencies": ["six"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-01-06T11:08:23+00:00", "yanked": false, "dependencies": ["six"]}}}

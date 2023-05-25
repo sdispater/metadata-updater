@@ -1,0 +1,1 @@
+{"name": "django-la-facebook", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-04-18T19:35:58+00:00", "yanked": false, "dependencies": ["oauth2"]}}}

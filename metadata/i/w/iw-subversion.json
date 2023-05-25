@@ -1,0 +1,1 @@
+{"name": "iw-subversion", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2008-01-02T18:06:08+00:00", "yanked": false, "dependencies": ["setuptools", "zope.testing"]}}}

@@ -1,0 +1,1 @@
+{"name": "iw-debug", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2008-05-28T15:12:12+00:00", "yanked": false, "dependencies": ["ipdb", "setuptools"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-01-10T06:02:23+00:00", "yanked": false, "dependencies": ["ipdb", "setuptools"]}}}

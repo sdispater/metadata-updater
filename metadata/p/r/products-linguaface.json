@@ -1,0 +1,1 @@
+{"name": "products-linguaface", "versions": {"3.0.0": {"version": "3.0.0", "python_constraint": "*", "released_at": "2010-11-30T15:59:53+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "txlastfmapi", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-12-17T08:43:09+00:00", "yanked": false, "dependencies": ["lastfmapi", "twisted"]}}}

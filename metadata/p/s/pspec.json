@@ -1,0 +1,1 @@
+{"name": "pspec", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2013-06-25T10:16:47+00:00", "yanked": false, "dependencies": ["Attest", "docopt (==0.6.1)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-05-29T16:37:30+00:00", "yanked": false, "dependencies": ["Attest", "docopt (==0.6.1)"]}}}

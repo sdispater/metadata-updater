@@ -1,0 +1,1 @@
+{"name": "django-cms-patched", "versions": {"2.3.5": {"version": "2.3.5", "python_constraint": "*", "released_at": "2013-06-26T15:53:58+00:00", "yanked": false, "dependencies": ["Django (>=1.3.1,<1.5)", "django-classy-tags (>=0.3.4.1)", "django-mptt (>=0.5.1,<0.5.3)", "django-sekizai (>=0.6.1)", "html5lib", "south (>=0.7.2)"]}}}

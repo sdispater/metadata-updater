@@ -1,0 +1,1 @@
+{"name": "django-static-upstream", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-01-01T10:37:03+00:00", "yanked": false, "dependencies": []}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-12-31T23:43:01+00:00", "yanked": false, "dependencies": []}}}

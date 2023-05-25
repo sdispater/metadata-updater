@@ -1,0 +1,1 @@
+{"name": "pyrewriter", "versions": {"0.1.58": {"version": "0.1.58", "python_constraint": "*", "released_at": "2013-06-20T19:55:54+00:00", "yanked": false, "dependencies": ["pyparsing (==1.5.6)"]}}}

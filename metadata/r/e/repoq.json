@@ -1,0 +1,1 @@
+{"name": "repoq", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-06-14T13:23:29+00:00", "yanked": false, "dependencies": ["boto"]}}}

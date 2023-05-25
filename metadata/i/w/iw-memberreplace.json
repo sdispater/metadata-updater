@@ -1,0 +1,1 @@
+{"name": "iw-memberreplace", "versions": {"1.0.0alpha1": {"version": "1.0.0alpha1", "python_constraint": "*", "released_at": "2008-09-25T16:03:53+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0.0-RC1": {"version": "1.0.0-RC1", "python_constraint": "*", "released_at": "2009-03-08T01:02:32+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

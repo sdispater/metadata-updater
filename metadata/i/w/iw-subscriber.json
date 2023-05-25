@@ -1,0 +1,1 @@
+{"name": "iw-subscriber", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2008-02-06T11:28:15+00:00", "yanked": false, "dependencies": ["iw.email (>0.2)", "p4a.datetimewidgets", "setuptools"]}}}

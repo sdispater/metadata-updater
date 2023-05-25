@@ -1,0 +1,1 @@
+{"name": "pygameoflife", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-06-23T15:08:01+00:00", "yanked": false, "dependencies": ["pyagents"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-06-22T22:15:38+00:00", "yanked": false, "dependencies": ["pyagents"]}}}

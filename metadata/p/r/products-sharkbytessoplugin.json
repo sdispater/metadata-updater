@@ -1,0 +1,1 @@
+{"name": "products-sharkbytessoplugin", "versions": {"0.6.0b1": {"version": "0.6.0b1", "python_constraint": "*", "released_at": "2010-11-02T19:23:13+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

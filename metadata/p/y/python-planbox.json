@@ -1,0 +1,1 @@
+{"name": "python-planbox", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-02-28T15:49:18+00:00", "yanked": false, "dependencies": ["pyyaml (>=3.09)"]}}}

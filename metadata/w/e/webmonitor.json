@@ -1,0 +1,1 @@
+{"name": "webmonitor", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2013-06-06T14:54:55+00:00", "yanked": false, "dependencies": ["logbook", "requests"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-06-06T14:48:30+00:00", "yanked": false, "dependencies": ["logbook", "requests"]}}}

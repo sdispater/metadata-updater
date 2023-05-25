@@ -1,0 +1,1 @@
+{"name": "dnsimple-zoneimport", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-06-25T15:00:14+00:00", "yanked": false, "dependencies": ["docopt (==0.6.1)", "requests (==1.2.3)"]}}}

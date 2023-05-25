@@ -1,0 +1,1 @@
+{"name": "lesswatch", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-06-14T13:48:59+00:00", "yanked": false, "dependencies": ["pathfinder", "watchdog"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-pariah", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-03-05T02:14:57+00:00", "yanked": false, "dependencies": ["django (>1.2)", "PIL"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-02-26T06:09:26+00:00", "yanked": false, "dependencies": ["django (>1.2)", "PIL"]}}}

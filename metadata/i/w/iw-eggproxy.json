@@ -1,0 +1,1 @@
+{"name": "iw-eggproxy", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2008-09-22T08:57:32+00:00", "yanked": false, "dependencies": ["setuptools", "zope.testing"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2008-06-06T13:27:44+00:00", "yanked": false, "dependencies": ["setuptools", "zope.testing"]}}}

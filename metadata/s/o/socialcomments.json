@@ -1,0 +1,1 @@
+{"name": "socialcomments", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-06-24T22:44:48+00:00", "yanked": false, "dependencies": ["bambu-tools (>=3.0.3)", "Django (>=1.4)"]}}}

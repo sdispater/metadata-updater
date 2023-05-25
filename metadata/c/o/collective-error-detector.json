@@ -1,0 +1,1 @@
+{"name": "collective-error-detector", "versions": {"0.1.0b1": {"version": "0.1.0b1", "python_constraint": "*", "released_at": "2013-06-25T12:00:14+00:00", "yanked": false, "dependencies": ["plone.app.testing ; extra == \"test\"", "setuptools"]}}}

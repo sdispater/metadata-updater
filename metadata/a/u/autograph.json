@@ -1,0 +1,1 @@
+{"name": "autograph", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2013-06-08T10:53:36+00:00", "yanked": false, "dependencies": ["django (>=1.4.5)", "pil (>=1.1.7)", "south (>=0.8.1)"]}}}

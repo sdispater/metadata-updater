@@ -1,0 +1,1 @@
+{"name": "pyautotest", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-06-04T21:20:19+00:00", "yanked": false, "dependencies": ["watchdog (>=0.6.0)"]}}}

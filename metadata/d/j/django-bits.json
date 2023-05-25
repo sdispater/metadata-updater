@@ -1,0 +1,1 @@
+{"name": "django-bits", "versions": {"0.3.1": {"version": "0.3.1", "python_constraint": "*", "released_at": "2013-06-26T08:42:32+00:00", "yanked": false, "dependencies": []}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2013-06-26T08:32:24+00:00", "yanked": false, "dependencies": []}}}

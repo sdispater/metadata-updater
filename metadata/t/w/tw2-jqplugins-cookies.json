@@ -1,0 +1,1 @@
+{"name": "tw2-jqplugins-cookies", "versions": {"2.0.0": {"version": "2.0.0", "python_constraint": "*", "released_at": "2012-03-20T16:21:33+00:00", "yanked": false, "dependencies": ["Genshi (>=0.3.5) ; extra == \"genshi\"", "Mako (>=0.1.1) ; extra == \"mako\"", "tw2.core (>=2.0b2)", "tw2.jqplugins.ui (>=2.0b7)", "tw2.jquery"]}}}

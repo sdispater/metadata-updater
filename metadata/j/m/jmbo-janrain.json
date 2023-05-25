@@ -1,0 +1,1 @@
+{"name": "jmbo-janrain", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-06-20T08:09:12+00:00", "yanked": false, "dependencies": ["jmbo-foundry (>=0.7)", "requests (>=1.1.0)"]}}}

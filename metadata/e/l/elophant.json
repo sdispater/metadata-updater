@@ -1,0 +1,1 @@
+{"name": "elophant", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2013-03-01T08:27:32+00:00", "yanked": false, "dependencies": ["requests"]}, "0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2013-03-01T06:59:42+00:00", "yanked": false, "dependencies": ["requests"]}}}

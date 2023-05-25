@@ -1,0 +1,1 @@
+{"name": "django-session-csrf-cookie", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-08-15T22:57:12+00:00", "yanked": false, "dependencies": ["django", "django-session-csrf"]}}}

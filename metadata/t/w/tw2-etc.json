@@ -1,0 +1,1 @@
+{"name": "tw2-etc", "versions": {"2.1.0": {"version": "2.1.0", "python_constraint": "*", "released_at": "2012-11-26T17:15:26+00:00", "yanked": false, "dependencies": ["tw2.core (>=2.0b4)"]}}}

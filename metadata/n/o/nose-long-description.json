@@ -1,0 +1,1 @@
+{"name": "nose-long-description", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-06-26T20:53:24+00:00", "yanked": false, "dependencies": ["nose"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-06-26T19:59:01+00:00", "yanked": false, "dependencies": ["nose"]}}}

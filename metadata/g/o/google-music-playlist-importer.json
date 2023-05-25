@@ -1,0 +1,1 @@
+{"name": "google-music-playlist-importer", "versions": {"2012.03.28": {"version": "2012.03.28", "python_constraint": "*", "released_at": "2012-03-28T22:00:15+00:00", "yanked": false, "dependencies": ["chardet", "gmusicapi (==2012.03.27)"]}}}

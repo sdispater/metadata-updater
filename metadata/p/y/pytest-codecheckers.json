@@ -1,0 +1,1 @@
+{"name": "pytest-codecheckers", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-02-13T15:03:08+00:00", "yanked": false, "dependencies": ["pep8", "py (>=1.2.0)", "pyflakes (>=0.4)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-02-13T13:47:04+00:00", "yanked": false, "dependencies": ["pep8", "pyflakes (>=0.4)"]}}}

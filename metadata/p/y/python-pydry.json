@@ -1,0 +1,1 @@
+{"name": "python-pydry", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2013-06-24T01:40:26+00:00", "yanked": false, "dependencies": ["requests (>=1.2.3)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-06-24T00:53:16+00:00", "yanked": false, "dependencies": ["requests (>=1.2.3)"]}}}

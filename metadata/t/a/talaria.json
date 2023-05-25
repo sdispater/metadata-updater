@@ -1,0 +1,1 @@
+{"name": "talaria", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2010-06-19T09:33:13+00:00", "yanked": false, "dependencies": ["Jinja2 (>=2.2)", "markdown (>=2.0)", "mercurial (>=1.3)"]}}}

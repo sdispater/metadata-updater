@@ -1,0 +1,1 @@
+{"name": "django-deferred-filelogger", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-06-12T14:44:36+00:00", "yanked": false, "dependencies": ["django"]}}}

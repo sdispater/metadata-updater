@@ -1,0 +1,1 @@
+{"name": "iw-mailhost", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2008-07-11T15:58:17+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-02-11T14:18:45+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "js-signals", "versions": {"0.8.1": {"version": "0.8.1", "python_constraint": "*", "released_at": "2012-08-14T10:57:42+00:00", "yanked": false, "dependencies": ["fanstatic", "setuptools"]}}}

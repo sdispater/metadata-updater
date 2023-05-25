@@ -1,0 +1,1 @@
+{"name": "firewall", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2012-11-05T20:29:16+00:00", "yanked": false, "dependencies": ["boto", "ec2 (>=0.2)"]}}}

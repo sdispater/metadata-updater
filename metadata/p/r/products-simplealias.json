@@ -1,0 +1,1 @@
+{"name": "products-simplealias", "versions": {"2.1.1": {"version": "2.1.1", "python_constraint": "*", "released_at": "2010-08-20T15:54:47+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-granular-access", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-11-25T14:30:51+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-17T16:00:52+00:00", "yanked": false, "dependencies": []}}}

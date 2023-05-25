@@ -1,0 +1,1 @@
+{"name": "jb-recipe-supervisor", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-03-11T12:20:37+00:00", "yanked": false, "dependencies": ["collective.recipe.template", "setuptools", "supervisor", "z3c.recipe.scripts"]}}}

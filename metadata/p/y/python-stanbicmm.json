@@ -1,0 +1,1 @@
+{"name": "python-stanbicmm", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-12-02T16:20:49+00:00", "yanked": false, "dependencies": ["mechanize (>=0.2.5)"]}}}

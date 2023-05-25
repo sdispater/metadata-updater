@@ -1,0 +1,1 @@
+{"name": "collective-getpid", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-11-02T09:41:30+00:00", "yanked": false, "dependencies": ["setuptools"]}}}
