@@ -1,0 +1,1 @@
+{"name": "amqpdeliver", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-09-06T13:07:30+00:00", "yanked": false, "dependencies": ["amqplib (>=1.0)", "setuptools (>=0.6b1)"]}}}

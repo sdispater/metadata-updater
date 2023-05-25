@@ -1,0 +1,1 @@
+{"name": "flask-zen", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-08-16T00:25:17+00:00", "yanked": false, "dependencies": ["Flask-Script", "PyZen"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-08-15T02:01:43+00:00", "yanked": false, "dependencies": ["Flask-Script", "PyZen"]}}}

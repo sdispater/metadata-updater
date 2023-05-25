@@ -1,0 +1,1 @@
+{"name": "carapace", "versions": {"0.3.1": {"version": "0.3.1", "python_constraint": "*", "released_at": "2013-04-21T20:26:47+00:00", "yanked": false, "dependencies": ["pyasn1", "PyCrypto", "twisted", "zope.component"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-storelocator", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-07-01T11:01:16+00:00", "yanked": false, "dependencies": ["geopy (>=0.95.1)", "requests (>=1.1.0)"]}}}

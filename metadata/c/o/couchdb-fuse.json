@@ -1,0 +1,1 @@
+{"name": "couchdb-fuse", "versions": {"0.2dev": {"version": "0.2dev", "python_constraint": "*", "released_at": "2009-07-30T13:23:32+00:00", "yanked": false, "dependencies": ["CouchDB (>=0.5)"]}}}

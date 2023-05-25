@@ -1,0 +1,1 @@
+{"name": "motifanalysispackage", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-03-19T13:17:33+00:00", "yanked": false, "dependencies": ["Biopython", "fisher", "HTML", "matplotlib", "numpy", "pandas", "scipy", "statsmodels"]}}}

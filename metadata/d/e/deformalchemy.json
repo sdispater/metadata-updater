@@ -1,0 +1,1 @@
+{"name": "deformalchemy", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2012-11-15T10:42:30+00:00", "yanked": false, "dependencies": ["colanderalchemy (>=0.2dev)", "deform", "deform_bootstrap", "pyramid"]}}}

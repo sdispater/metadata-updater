@@ -1,0 +1,1 @@
+{"name": "mongoalchemyvoltron", "versions": {"0.12.1": {"version": "0.12.1", "python_constraint": "*", "released_at": "2011-12-12T23:30:59+00:00", "yanked": false, "dependencies": ["pymongo"]}, "0.12": {"version": "0.12", "python_constraint": "*", "released_at": "2011-12-12T23:17:25+00:00", "yanked": false, "dependencies": ["pymongo"]}}}

@@ -1,0 +1,1 @@
+{"name": "flask-passlib", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-01-14T08:39:55+00:00", "yanked": false, "dependencies": ["Flask", "passlib (==1.6.1)", "Werkzeug (>=0.6.1)"]}}}

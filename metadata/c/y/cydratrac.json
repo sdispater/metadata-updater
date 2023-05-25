@@ -1,0 +1,1 @@
+{"name": "cydratrac", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-05-31T14:03:00+00:00", "yanked": false, "dependencies": ["Cydra (>=0.2)", "Trac"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-03-05T15:19:46+00:00", "yanked": false, "dependencies": ["Cydra (>=0.1)", "Trac"]}}}

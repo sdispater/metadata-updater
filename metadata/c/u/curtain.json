@@ -1,0 +1,1 @@
+{"name": "curtain", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2010-04-19T10:13:40+00:00", "yanked": false, "dependencies": ["zope.i18n", "zope.interface"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-02-11T13:26:03+00:00", "yanked": false, "dependencies": ["zope.i18n", "zope.interface"]}}}

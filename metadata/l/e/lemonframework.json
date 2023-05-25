@@ -1,0 +1,1 @@
+{"name": "lemonframework", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-03-09T01:02:48+00:00", "yanked": false, "dependencies": ["jinja2 ; extra == \"templates\"", "pymongo ; extra == \"nosql\"", "wtforms ; extra == \"forms\""]}}}

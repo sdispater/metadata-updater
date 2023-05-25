@@ -1,0 +1,1 @@
+{"name": "cfanalyze", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-09-19T05:51:38+00:00", "yanked": false, "dependencies": ["boto (>=2.5.2)"]}}}

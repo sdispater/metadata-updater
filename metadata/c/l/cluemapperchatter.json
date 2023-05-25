@@ -1,0 +1,1 @@
+{"name": "cluemapperchatter", "versions": {"0.6": {"version": "0.6", "python_constraint": "*", "released_at": "2008-06-05T22:20:56+00:00", "yanked": false, "dependencies": ["setuptools", "supybot (>=0.83,<=0.83.9999)"]}}}

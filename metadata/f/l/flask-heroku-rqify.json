@@ -1,0 +1,1 @@
+{"name": "flask-heroku-rqify", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-04-22T01:53:43+00:00", "yanked": false, "dependencies": ["Flask-RQ (==0.2)", "Flask-Script (>=0.5.3)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-04-21T22:34:53+00:00", "yanked": false, "dependencies": ["Flask-RQ (==0.2)"]}}}

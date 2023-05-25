@@ -1,0 +1,1 @@
+{"name": "gaeassetbundler", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2013-01-21T12:54:36+00:00", "yanked": false, "dependencies": ["cssmin", "jsmin"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-09-13T09:17:31+00:00", "yanked": false, "dependencies": ["cssmin", "jsmin"]}}}

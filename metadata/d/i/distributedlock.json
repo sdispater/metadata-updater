@@ -1,0 +1,1 @@
+{"name": "distributedlock", "versions": {"1.2": {"version": "1.2", "python_constraint": "*", "released_at": "2013-01-17T18:47:02+00:00", "yanked": false, "dependencies": ["python-memcached (>=1.40)"]}, "1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2013-01-16T22:46:45+00:00", "yanked": false, "dependencies": ["python-memcached (>=1.40)"]}}}

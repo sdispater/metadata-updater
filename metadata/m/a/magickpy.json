@@ -1,0 +1,1 @@
+{"name": "magickpy", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-05-29T12:17:27+00:00", "yanked": false, "dependencies": ["flufl.enum"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-04-28T17:50:19+00:00", "yanked": false, "dependencies": ["flufl.enum"]}}}

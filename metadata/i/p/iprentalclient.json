@@ -1,0 +1,1 @@
+{"name": "iprentalclient", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-11-29T06:07:03+00:00", "yanked": false, "dependencies": ["suds"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-11-27T08:07:17+00:00", "yanked": false, "dependencies": ["suds"]}}}

@@ -1,0 +1,1 @@
+{"name": "hpppm", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-12-19T09:09:50+00:00", "yanked": false, "dependencies": ["httplib (>=1.1)", "jinja2", "lxml", "mechanize (>=0.2.5)"]}}}

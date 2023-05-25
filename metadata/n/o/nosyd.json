@@ -1,0 +1,1 @@
+{"name": "nosyd", "versions": {"0.0.5": {"version": "0.0.5", "python_constraint": "*", "released_at": "2009-10-09T17:00:09+00:00", "yanked": false, "dependencies": ["nose ; extra == \"nose\""]}}}

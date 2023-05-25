@@ -1,0 +1,1 @@
+{"name": "mathbench", "versions": {"1.1.0": {"version": "1.1.0", "python_constraint": "*", "released_at": "2008-04-13T20:08:49+00:00", "yanked": false, "dependencies": ["Yapsy (>=1.7)"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2007-11-10T17:26:51+00:00", "yanked": false, "dependencies": ["wxPython (>=2.8)", "Yapsy (>=1.6)"]}}}

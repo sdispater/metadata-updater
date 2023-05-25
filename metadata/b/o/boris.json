@@ -1,0 +1,1 @@
+{"name": "boris", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-19T22:17:07+00:00", "yanked": false, "dependencies": ["lxml (>=3.0.1)", "Postcodes (>=0.1)"]}}}

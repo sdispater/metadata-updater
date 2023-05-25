@@ -1,0 +1,1 @@
+{"name": "elevator", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2013-02-21T16:51:23+00:00", "yanked": false, "dependencies": ["clint", "fabric", "lz4", "msgpack-python", "plyvel", "procname", "pyzmq", "ujson", "unittest2"]}}}

@@ -1,0 +1,1 @@
+{"name": "moments", "versions": {"2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2012-09-27T12:49:37+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

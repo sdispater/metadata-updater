@@ -1,0 +1,1 @@
+{"name": "interface", "versions": {"2.11.1": {"version": "2.11.1", "python_constraint": "*", "released_at": "2008-08-05T14:15:46+00:00", "yanked": false, "dependencies": ["zope.interface", "zope.schema"]}}}

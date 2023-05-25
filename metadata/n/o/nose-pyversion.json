@@ -1,0 +1,1 @@
+{"name": "nose-pyversion", "versions": {"0.1b1": {"version": "0.1b1", "python_constraint": "*", "released_at": "2013-04-09T16:06:59+00:00", "yanked": false, "dependencies": ["nose"]}}}

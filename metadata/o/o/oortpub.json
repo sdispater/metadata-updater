@@ -1,0 +1,1 @@
+{"name": "oortpub", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2007-10-07T17:39:15+00:00", "yanked": false, "dependencies": ["Oort (>=0.4)", "Paste (>=1.0)", "PasteScript (>=1.0)", "rdflib (>=2.4)"]}}}

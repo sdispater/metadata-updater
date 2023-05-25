@@ -1,0 +1,1 @@
+{"name": "phylosequel", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2009-03-15T23:54:07+00:00", "yanked": false, "dependencies": ["DendroPy (>=2.3.0)", "SQLAlchemy (>=0.5.2)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2009-03-15T23:49:16+00:00", "yanked": false, "dependencies": ["SQLAlchemy (>=0.5.2)"]}}}

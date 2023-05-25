@@ -1,0 +1,1 @@
+{"name": "linkexchange-moinmoin", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-05-12T22:35:24+00:00", "yanked": false, "dependencies": ["LinkExchange (>=0.4dev)"]}}}

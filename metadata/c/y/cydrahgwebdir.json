@@ -1,0 +1,1 @@
+{"name": "cydrahgwebdir", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2013-06-29T19:49:53+00:00", "yanked": false, "dependencies": ["Cydra (>=0.1)", "mercurial"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-03-05T15:18:42+00:00", "yanked": false, "dependencies": ["Cydra (>=0.1)", "mercurial"]}}}

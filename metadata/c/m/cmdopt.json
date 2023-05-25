@@ -1,0 +1,1 @@
+{"name": "cmdopt", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2011-12-13T14:55:46+00:00", "yanked": false, "dependencies": ["PicoTest (>=0.2.0)"]}}}

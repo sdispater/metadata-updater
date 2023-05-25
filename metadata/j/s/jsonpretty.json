@@ -1,0 +1,1 @@
+{"name": "jsonpretty", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2010-12-28T10:07:54+00:00", "yanked": false, "dependencies": ["simplejson"]}}}

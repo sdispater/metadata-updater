@@ -1,0 +1,1 @@
+{"name": "hts-waterworks", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-04-03T00:30:16+00:00", "yanked": false, "dependencies": ["bx-python", "fisher", "ipdb", "motility", "pybedtools", "pygr", "pyper", "ruffus"]}}}

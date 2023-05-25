@@ -1,0 +1,1 @@
+{"name": "fpys", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2008-04-17T05:21:20+00:00", "yanked": false, "dependencies": ["wsgi_intercept"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-03-21T05:57:07+00:00", "yanked": false, "dependencies": ["wsgi_intercept"]}}}

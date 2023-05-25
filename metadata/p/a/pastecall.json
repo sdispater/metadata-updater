@@ -1,0 +1,1 @@
+{"name": "pastecall", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-12-08T11:07:55+00:00", "yanked": false, "dependencies": ["PasteDeploy", "PasteScript"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-12-04T17:11:17+00:00", "yanked": false, "dependencies": ["PasteDeploy", "PasteScript"]}}}

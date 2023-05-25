@@ -1,0 +1,1 @@
+{"name": "osr", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-06-28T04:51:50+00:00", "yanked": false, "dependencies": ["eyeD3 (>=0.6.18)", "Pyglet (==1.1.4)"]}}}

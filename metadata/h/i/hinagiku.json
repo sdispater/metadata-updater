@@ -1,0 +1,1 @@
+{"name": "hinagiku", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2007-05-25T10:31:33+00:00", "yanked": false, "dependencies": ["dateutil", "Genshi", "PyYAML"]}}}

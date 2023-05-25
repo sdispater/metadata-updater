@@ -1,0 +1,1 @@
+{"name": "73-unlockitems", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2011-06-06T11:43:26+00:00", "yanked": false, "dependencies": []}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-05-05T06:44:28+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

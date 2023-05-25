@@ -1,0 +1,1 @@
+{"name": "chordfinder", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-06-08T05:03:05+00:00", "yanked": false, "dependencies": ["wx (>=2.6.4)"]}}}

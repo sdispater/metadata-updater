@@ -1,0 +1,1 @@
+{"name": "dvdev", "versions": {"0.1.3": {"version": "0.1.3", "python_constraint": "*", "released_at": "2009-04-20T00:09:47+00:00", "yanked": false, "dependencies": ["docutils", "filesafe (>=0.2)", "Genshi (>=0.4)", "Mercurial (>=1.2)", "Meritocracy", "Pygments", "Pylons (>=0.9.7)", "repoze.who", "repoze.who.plugins.openid", "yamltrak (==0.6.3)"]}}}

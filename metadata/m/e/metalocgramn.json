@@ -1,0 +1,1 @@
+{"name": "metalocgramn", "versions": {"0.99": {"version": "0.99", "python_constraint": "*", "released_at": "2012-10-01T22:53:46+00:00", "yanked": false, "dependencies": ["suds (>=0.04)"]}}}

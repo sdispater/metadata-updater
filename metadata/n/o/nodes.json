@@ -1,0 +1,1 @@
+{"name": "nodes", "versions": {"1.2": {"version": "1.2", "python_constraint": "*", "released_at": "2009-10-28T19:26:49+00:00", "yanked": false, "dependencies": ["numpy", "pkg_resources", "psyco ; extra == \"PsycOptima\"", "twisted", "wxPython ; extra == \"with_tests\""]}}}

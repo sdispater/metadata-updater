@@ -1,0 +1,1 @@
+{"name": "linkexchange-web-py", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-05-13T10:43:45+00:00", "yanked": false, "dependencies": ["LinkExchange (>=0.4dev)", "web.py"]}}}

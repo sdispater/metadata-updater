@@ -1,0 +1,1 @@
+{"name": "holyview", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-02-24T10:48:13+00:00", "yanked": false, "dependencies": ["louie", "urwid (>=0.9.9.1)"]}}}

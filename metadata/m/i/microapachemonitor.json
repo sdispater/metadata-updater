@@ -1,0 +1,1 @@
+{"name": "microapachemonitor", "versions": {"0.1c1": {"version": "0.1c1", "python_constraint": "*", "released_at": "2010-07-12T19:32:53+00:00", "yanked": false, "dependencies": ["pywin32"]}}}

@@ -1,0 +1,1 @@
+{"name": "flask-wdb", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2013-06-30T02:53:13+00:00", "yanked": false, "dependencies": ["Flask", "wdb"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-05-02T20:43:26+00:00", "yanked": false, "dependencies": ["Flask", "wdb"]}}}

@@ -1,0 +1,1 @@
+{"name": "cluereleasemanager-paste", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2010-04-21T12:41:56+00:00", "yanked": false, "dependencies": ["ClueReleaseManager", "ipython ; extra == \"test\"", "PasteScript", "setuptools", "WebOb", "Werkzeug", "zope.testing ; extra == \"test\""]}}}

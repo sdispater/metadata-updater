@@ -1,0 +1,1 @@
+{"name": "carcade", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-04-21T14:02:18+00:00", "yanked": false, "dependencies": ["argcomplete (>=0.3.7)", "argh (>=0.21.2)", "Jinja2 (>=2.6)", "Markdown (>=2.2.1)", "polib (>=1.0.2)", "PyYAML (>=3.10)", "watchdog (>=0.6.0)", "webassets (>=0.8)"]}}}

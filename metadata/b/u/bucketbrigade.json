@@ -1,0 +1,1 @@
+{"name": "bucketbrigade", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-01-05T03:51:01+00:00", "yanked": false, "dependencies": ["boto (>=1.9)"]}}}

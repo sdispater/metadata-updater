@@ -1,0 +1,1 @@
+{"name": "drqueueipython", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-01-09T23:38:58+00:00", "yanked": false, "dependencies": ["ipython (>=0.12)", "pyzmq (>=2.1.4)"]}}}

@@ -1,0 +1,1 @@
+{"name": "orange-text", "versions": {"1.2a1": {"version": "1.2a1", "python_constraint": "*", "released_at": "2012-06-12T08:53:01+00:00", "yanked": false, "dependencies": ["Orange", "setuptools"]}}}

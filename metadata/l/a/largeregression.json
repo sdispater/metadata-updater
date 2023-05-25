@@ -1,0 +1,1 @@
+{"name": "largeregression", "versions": {"1.01": {"version": "1.01", "python_constraint": "*", "released_at": "2011-12-31T03:28:01+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-12-25T06:56:14+00:00", "yanked": false, "dependencies": []}}}

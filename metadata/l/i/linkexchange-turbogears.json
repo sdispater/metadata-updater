@@ -1,0 +1,1 @@
+{"name": "linkexchange-turbogears", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-05-13T10:31:27+00:00", "yanked": false, "dependencies": ["LinkExchange (>=0.4dev)", "TurboGears (>=1.0,<2.0)"]}}}

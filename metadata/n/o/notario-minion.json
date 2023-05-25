@@ -1,0 +1,1 @@
+{"name": "notario-minion", "versions": {"0.6.0": {"version": "0.6.0", "python_constraint": "*", "released_at": "2012-11-11T06:17:54+00:00", "yanked": false, "dependencies": ["cement", "setuptools"]}}}

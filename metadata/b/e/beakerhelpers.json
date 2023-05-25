@@ -1,0 +1,1 @@
+{"name": "beakerhelpers", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-06-14T10:49:34+00:00", "yanked": false, "dependencies": ["PasteDeploy", "PasteScript", "SQLAlchemy (>=0.5.5)"]}}}

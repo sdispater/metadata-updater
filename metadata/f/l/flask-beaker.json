@@ -1,0 +1,1 @@
+{"name": "flask-beaker", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2012-04-22T22:02:33+00:00", "yanked": false, "dependencies": ["Beaker", "Flask"]}}}

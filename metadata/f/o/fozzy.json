@@ -1,0 +1,1 @@
+{"name": "fozzy", "versions": {"0.7": {"version": "0.7", "python_constraint": "*", "released_at": "2006-04-04T21:35:22+00:00", "yanked": false, "dependencies": ["restresource (>=0.1)", "TurboGears (>=0.8a5)"]}}}

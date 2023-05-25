@@ -1,0 +1,1 @@
+{"name": "nosemultiversion", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-03-03T02:14:13+00:00", "yanked": false, "dependencies": ["execnet", "nose (>=0.11.1)"]}}}

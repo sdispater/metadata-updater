@@ -1,0 +1,1 @@
+{"name": "glosarium", "versions": {"1.2": {"version": "1.2", "python_constraint": "*", "released_at": "2013-02-01T01:14:49+00:00", "yanked": false, "dependencies": ["httplib2 (>=0.6)"]}}}

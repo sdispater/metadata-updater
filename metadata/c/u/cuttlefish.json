@@ -1,0 +1,1 @@
+{"name": "cuttlefish", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2009-10-26T21:41:43+00:00", "yanked": false, "dependencies": ["Bottle (>=0.6.4)", "Mako (>=0.2.5)"]}}}

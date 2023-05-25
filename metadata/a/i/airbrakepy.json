@@ -1,0 +1,1 @@
+{"name": "airbrakepy", "versions": {"1.0.0b2": {"version": "1.0.0b2", "python_constraint": "*", "released_at": "2012-04-11T23:42:35+00:00", "yanked": false, "dependencies": ["xmlbuilder (>=0.9,<1.0)"]}, "1.0.0b1": {"version": "1.0.0b1", "python_constraint": "*", "released_at": "2012-01-25T19:56:05+00:00", "yanked": false, "dependencies": ["xmlbuilder (>=0.9,<1.0)"]}}}

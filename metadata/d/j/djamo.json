@@ -1,0 +1,1 @@
+{"name": "djamo", "versions": {"2.67.0-rc2": {"version": "2.67.0-rc2", "python_constraint": "*", "released_at": "2013-04-29T13:56:23+00:00", "yanked": false, "dependencies": ["django", "pymongo", "six"]}, "2.67.0-rc1": {"version": "2.67.0-rc1", "python_constraint": "*", "released_at": "2013-04-19T15:30:47+00:00", "yanked": false, "dependencies": ["django", "pymongo", "six"]}}}

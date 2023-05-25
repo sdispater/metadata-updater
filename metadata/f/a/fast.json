@@ -1,0 +1,1 @@
+{"name": "fast", "versions": {"2.5": {"version": "2.5", "python_constraint": "*", "released_at": "2010-05-06T18:47:40+00:00", "yanked": false, "dependencies": ["pyutilib.math", "pyutilib.misc", "pyutilib.subprocess"]}}}

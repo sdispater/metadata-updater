@@ -1,0 +1,1 @@
+{"name": "disredis", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-07-01T11:08:05+00:00", "yanked": false, "dependencies": ["Django (>=1.4.1)", "redis (>=2.7.6)"]}}}
