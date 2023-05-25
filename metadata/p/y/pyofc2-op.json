@@ -1,0 +1,1 @@
+{"name": "pyofc2-op", "versions": {"0.1.6dev": {"version": "0.1.6dev", "python_constraint": "*", "released_at": "2011-10-23T04:29:20+00:00", "yanked": false, "dependencies": ["simplejson"]}, "0.1.5dev": {"version": "0.1.5dev", "python_constraint": "*", "released_at": "2011-10-18T18:40:28+00:00", "yanked": false, "dependencies": ["anyjson (>=0.1)"]}}}

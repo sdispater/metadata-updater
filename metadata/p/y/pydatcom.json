@@ -1,0 +1,1 @@
+{"name": "pydatcom", "versions": {"0.2.5": {"version": "0.2.5", "python_constraint": "*", "released_at": "2013-01-04T15:31:22+00:00", "yanked": false, "dependencies": ["jinja2", "matplotlib", "ply"]}}}

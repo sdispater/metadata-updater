@@ -1,0 +1,1 @@
+{"name": "affinitic-docpyflakes", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-02-20T00:29:11+00:00", "yanked": false, "dependencies": ["pyflakes", "setuptools"]}}}

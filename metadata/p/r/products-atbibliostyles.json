@@ -1,0 +1,1 @@
+{"name": "products-atbibliostyles", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2010-06-19T15:56:37+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

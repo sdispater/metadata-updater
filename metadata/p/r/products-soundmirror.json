@@ -1,0 +1,1 @@
+{"name": "products-soundmirror", "versions": {"1.0a": {"version": "1.0a", "python_constraint": "*", "released_at": "2012-02-27T14:11:52+00:00", "yanked": false, "dependencies": ["Products.PatchPloneContent (>=1.0.3)", "setuptools"]}}}

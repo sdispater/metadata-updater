@@ -1,0 +1,1 @@
+{"name": "products-oshatranslations", "versions": {"1.2.38": {"version": "1.2.38", "python_constraint": "*", "released_at": "2010-10-15T18:55:09+00:00", "yanked": false, "dependencies": ["setuptools", "zope.testing ; extra == \"tests\""]}}}

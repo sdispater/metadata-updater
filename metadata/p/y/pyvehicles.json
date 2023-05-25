@@ -1,0 +1,1 @@
+{"name": "pyvehicles", "versions": {"2.1": {"version": "2.1", "python_constraint": "*", "released_at": "2013-04-25T16:26:23+00:00", "yanked": false, "dependencies": ["BootOlympics (>=1.0,<2) ; extra == \"boot\"", "ConfTools (>=1.0,<2)", "procgraph (>=1.0,<2) ; extra == \"procgraph\"", "PyContracts (>=1.2,<2)", "PyGeometry", "python-cjson", "PyYAML"]}}}

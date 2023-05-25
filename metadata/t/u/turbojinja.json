@@ -1,0 +1,1 @@
+{"name": "turbojinja", "versions": {"0.9.1": {"version": "0.9.1", "python_constraint": "*", "released_at": "2007-02-26T07:59:37+00:00", "yanked": false, "dependencies": ["Jinja (>=0.9)", "TurboGears (>=0.9)"]}}}

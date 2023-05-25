@@ -1,0 +1,1 @@
+{"name": "adi-fullscreen", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-03-10T12:22:10+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-01-02T02:36:08+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

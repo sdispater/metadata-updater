@@ -1,0 +1,1 @@
+{"name": "products-simpleuserfolder", "versions": {"2.0.0": {"version": "2.0.0", "python_constraint": "*", "released_at": "2010-08-26T20:56:43+00:00", "yanked": false, "dependencies": ["Products.SQLAlchemyDA ; extra == \"test\"", "Zope2"]}}}

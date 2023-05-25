@@ -1,0 +1,1 @@
+{"name": "products-signalstacklogger", "versions": {"0.9": {"version": "0.9", "python_constraint": "*", "released_at": "2009-12-14T15:29:53+00:00", "yanked": false, "dependencies": ["setuptools", "z3c.deadlockdebugger"]}}}

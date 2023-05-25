@@ -1,0 +1,1 @@
+{"name": "playtools", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2008-12-01T06:08:10+00:00", "yanked": false, "dependencies": ["pysqlite (>=2)", "rdflib (<3a)", "storm (>=0.13)"]}}}

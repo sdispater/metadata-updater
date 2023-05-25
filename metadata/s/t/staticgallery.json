@@ -1,0 +1,1 @@
+{"name": "staticgallery", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-03-08T16:36:11+00:00", "yanked": false, "dependencies": ["Jinja2 (==2.6)", "PIL (==1.1.7)"]}}}

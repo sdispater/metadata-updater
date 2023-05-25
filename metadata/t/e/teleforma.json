@@ -1,0 +1,1 @@
+{"name": "teleforma", "versions": {"0.8": {"version": "0.8", "python_constraint": "*", "released_at": "2012-09-19T21:54:44+00:00", "yanked": false, "dependencies": ["django (>=1.4)", "django-extensions", "django-notes", "django-pagination", "django-postman", "django-timezones", "south", "telemeta"]}}}

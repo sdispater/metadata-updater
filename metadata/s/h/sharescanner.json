@@ -1,0 +1,1 @@
+{"name": "sharescanner", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-01-02T23:07:12+00:00", "yanked": false, "dependencies": ["gi (>=0.0.0)", "smbc (>=1.0.6)"]}}}

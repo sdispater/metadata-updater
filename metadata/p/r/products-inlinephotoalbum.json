@@ -1,0 +1,1 @@
+{"name": "products-inlinephotoalbum", "versions": {"1.3": {"version": "1.3", "python_constraint": "*", "released_at": "2010-11-15T09:54:18+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

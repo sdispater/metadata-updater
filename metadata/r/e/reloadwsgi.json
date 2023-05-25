@@ -1,0 +1,1 @@
+{"name": "reloadwsgi", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2010-11-18T05:21:49+00:00", "yanked": false, "dependencies": ["PasteDeploy"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-03-05T15:27:12+00:00", "yanked": false, "dependencies": ["PasteDeploy"]}}}

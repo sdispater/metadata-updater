@@ -1,0 +1,1 @@
+{"name": "products-ifsearchmonitor", "versions": {"0.4dev": {"version": "0.4dev", "python_constraint": "*", "released_at": "2009-08-11T23:14:50+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

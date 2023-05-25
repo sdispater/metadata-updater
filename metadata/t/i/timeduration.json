@@ -1,0 +1,1 @@
+{"name": "timeduration", "versions": {"0.2a": {"version": "0.2a", "python_constraint": "*", "released_at": "2008-05-02T15:43:45+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

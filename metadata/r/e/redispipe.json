@@ -1,0 +1,1 @@
+{"name": "redispipe", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2010-09-01T17:50:16+00:00", "yanked": false, "dependencies": ["BareNecessities (>=0.2.5,<0.2.99)", "ConversionKit (>=0.3.2,<0.3.99)", "PipeStack (>=0.4.0,<0.4.99)", "redis (==0.6.1)", "StringConvert (>=0.3.0,<0.3.99)"]}}}

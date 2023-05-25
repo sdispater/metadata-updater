@@ -1,0 +1,1 @@
+{"name": "shapy", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2013-03-18T01:06:24+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-05-24T17:44:31+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "abl-jquery-plugins-form", "versions": {"2.49": {"version": "2.49", "python_constraint": "*", "released_at": "2011-02-18T19:06:44+00:00", "yanked": false, "dependencies": ["abl.jquery"]}}}

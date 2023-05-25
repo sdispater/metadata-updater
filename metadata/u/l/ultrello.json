@@ -1,0 +1,1 @@
+{"name": "ultrello", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-05-15T19:23:34+00:00", "yanked": false, "dependencies": ["requests (==1.2.0)"]}}}

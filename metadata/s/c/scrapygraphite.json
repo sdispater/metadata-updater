@@ -1,0 +1,1 @@
+{"name": "scrapygraphite", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-03-09T20:07:21+00:00", "yanked": false, "dependencies": ["galena", "scrapy (>=0.16)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-10-15T22:53:04+00:00", "yanked": false, "dependencies": ["galena", "scrapy"]}}}

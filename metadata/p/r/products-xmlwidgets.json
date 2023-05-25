@@ -1,0 +1,1 @@
+{"name": "products-xmlwidgets", "versions": {"0.13.1": {"version": "0.13.1", "python_constraint": "*", "released_at": "2008-09-30T11:06:01+00:00", "yanked": false, "dependencies": ["Products.ParsedXML", "setuptools"]}}}

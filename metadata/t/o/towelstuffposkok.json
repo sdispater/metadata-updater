@@ -1,0 +1,1 @@
+{"name": "towelstuffposkok", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-07-18T14:00:48+00:00", "yanked": false, "dependencies": ["caldav (==0.1.4)", "Django (>=1.1.1)"]}}}

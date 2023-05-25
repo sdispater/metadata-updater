@@ -1,0 +1,1 @@
+{"name": "affinitic-verifyinterface", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-12-18T16:09:37+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout ; extra == \"test\"", "zc.recipe.testrunner ; extra == \"test\"", "zope.interface", "zope.testing ; extra == \"test\""]}}}

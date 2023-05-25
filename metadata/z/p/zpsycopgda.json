@@ -1,0 +1,1 @@
+{"name": "zpsycopgda", "versions": {"2.4.6": {"version": "2.4.6", "python_constraint": "*", "released_at": "2013-03-16T00:25:08+00:00", "yanked": false, "dependencies": ["setuptools"]}, "2.4.4": {"version": "2.4.4", "python_constraint": "*", "released_at": "2012-03-09T12:50:45+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

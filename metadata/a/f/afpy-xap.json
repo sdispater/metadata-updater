@@ -1,0 +1,1 @@
+{"name": "afpy-xap", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-09-27T18:20:32+00:00", "yanked": false, "dependencies": ["pysqlite", "setuptools", "SQLAlchemy", "zopyx.textindexng3"]}}}

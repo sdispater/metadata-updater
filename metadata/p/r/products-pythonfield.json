@@ -1,0 +1,1 @@
+{"name": "products-pythonfield", "versions": {"1.1.3": {"version": "1.1.3", "python_constraint": "*", "released_at": "2010-03-01T19:27:11+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.1.2": {"version": "1.1.2", "python_constraint": "*", "released_at": "2008-04-27T22:31:10+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

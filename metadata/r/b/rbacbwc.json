@@ -1,0 +1,1 @@
+{"name": "rbacbwc", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-02-12T22:41:59+00:00", "yanked": false, "dependencies": ["SQLAlchemyBWC (>=0.1.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "zencheck", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2012-11-22T18:12:42+00:00", "yanked": false, "dependencies": ["pep8", "pyflakes"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2009-09-16T18:44:24+00:00", "yanked": false, "dependencies": ["pep8 (>=0.3)", "pyflakes (>=0.3)", "setuptools"]}}}

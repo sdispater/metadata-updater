@@ -1,0 +1,1 @@
+{"name": "abl-cssprocessor", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-03-03T13:47:54+00:00", "yanked": false, "dependencies": ["abl.vpath (>=0.4)", "argparse", "pyparsing"]}}}

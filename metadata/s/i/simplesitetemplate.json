@@ -1,0 +1,1 @@
+{"name": "simplesitetemplate", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-11-10T02:08:21+00:00", "yanked": false, "dependencies": ["Paste (>=1.7)"]}}}

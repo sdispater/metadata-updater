@@ -1,0 +1,1 @@
+{"name": "products-republisher", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-10-11T17:59:25+00:00", "yanked": false, "dependencies": ["plone.app.registry", "setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-10-08T18:47:31+00:00", "yanked": false, "dependencies": ["plone.app.registry", "setuptools"]}}}

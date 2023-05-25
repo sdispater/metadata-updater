@@ -1,0 +1,1 @@
+{"name": "rockpy", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-04-12T11:39:18+00:00", "yanked": false, "dependencies": ["caldav (==0.1.4)", "Django (>=1.1.1)"]}}}

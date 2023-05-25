@@ -1,0 +1,1 @@
+{"name": "twirlip", "versions": {"0.6": {"version": "0.6", "python_constraint": "*", "released_at": "2010-07-22T18:43:28+00:00", "yanked": false, "dependencies": ["CabochonServer", "httplib2", "Pylons (==0.9.6.2)", "signedheaders", "simplejson", "SQLObject", "SupervisorErrorMiddleware", "WebOb", "wsgi_intercept", "wsgiutils"]}}}

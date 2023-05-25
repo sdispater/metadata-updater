@@ -1,0 +1,1 @@
+{"name": "products-sqlalchemypas", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-07-11T19:02:57+00:00", "yanked": false, "dependencies": ["DateTime (>=2.11.2dev)", "setuptools", "z3c.saconfig"]}}}

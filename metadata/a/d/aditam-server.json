@@ -1,0 +1,1 @@
+{"name": "aditam-server", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-10-24T21:59:09+00:00", "yanked": false, "dependencies": ["aditam.core (>=0.1)", "Pyro (>=0.7)", "setuptools (>=0.6c7)"]}}}

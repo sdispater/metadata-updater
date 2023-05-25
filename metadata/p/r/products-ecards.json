@@ -1,0 +1,1 @@
+{"name": "products-ecards", "versions": {"1.1rc1": {"version": "1.1rc1", "python_constraint": "*", "released_at": "2008-11-12T01:27:02+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

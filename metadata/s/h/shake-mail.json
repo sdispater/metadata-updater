@@ -1,0 +1,1 @@
+{"name": "shake-mail", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-10-06T03:12:34+00:00", "yanked": false, "dependencies": ["Shake"]}}}

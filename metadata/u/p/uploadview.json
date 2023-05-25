@@ -1,0 +1,1 @@
+{"name": "uploadview", "versions": {"0.2.7": {"version": "0.2.7", "python_constraint": "*", "released_at": "2011-08-02T08:54:02+00:00", "yanked": false, "dependencies": ["Paste", "PasteScript", "WebOb"]}, "0.2.6": {"version": "0.2.6", "python_constraint": "*", "released_at": "2011-07-19T17:10:20+00:00", "yanked": false, "dependencies": ["Paste", "PasteScript", "WebOb"]}}}

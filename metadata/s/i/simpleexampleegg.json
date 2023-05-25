@@ -1,0 +1,1 @@
+{"name": "simpleexampleegg", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2005-12-15T05:25:51+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2005-12-15T00:31:28+00:00", "yanked": false, "dependencies": []}}}

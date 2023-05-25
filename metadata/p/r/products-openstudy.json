@@ -1,0 +1,1 @@
+{"name": "products-openstudy", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2011-11-14T11:08:20+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-06-20T23:42:36+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

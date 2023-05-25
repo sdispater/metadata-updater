@@ -1,0 +1,1 @@
+{"name": "products-atbackref", "versions": {"2.1": {"version": "2.1", "python_constraint": "*", "released_at": "2010-10-12T12:24:50+00:00", "yanked": false, "dependencies": ["Products.Archetypes"]}, "2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2009-01-20T15:59:31+00:00", "yanked": false, "dependencies": ["Products.Archetypes"]}}}

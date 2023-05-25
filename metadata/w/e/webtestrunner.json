@@ -1,0 +1,1 @@
+{"name": "webtestrunner", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-04-10T00:35:41+00:00", "yanked": false, "dependencies": ["flask", "nose"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-04-10T00:05:44+00:00", "yanked": false, "dependencies": ["flask", "nose"]}}}

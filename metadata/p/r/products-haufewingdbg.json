@@ -1,0 +1,1 @@
+{"name": "products-haufewingdbg", "versions": {"4.1.9": {"version": "4.1.9", "python_constraint": "*", "released_at": "2012-12-06T10:09:10+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

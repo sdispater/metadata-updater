@@ -1,0 +1,1 @@
+{"name": "tgsociable", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2007-03-25T16:00:23+00:00", "yanked": false, "dependencies": ["TurboGears (>=1.0.1)"]}}}

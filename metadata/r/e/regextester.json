@@ -1,0 +1,1 @@
+{"name": "regextester", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2012-11-29T14:00:34+00:00", "yanked": false, "dependencies": ["bottle", "clize"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-02-19T22:01:39+00:00", "yanked": false, "dependencies": ["bottle"]}}}

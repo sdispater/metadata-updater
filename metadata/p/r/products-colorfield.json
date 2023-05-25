@@ -1,0 +1,1 @@
+{"name": "products-colorfield", "versions": {"0.3.1": {"version": "0.3.1", "python_constraint": "*", "released_at": "2010-06-01T00:22:58+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.3.0": {"version": "0.3.0", "python_constraint": "*", "released_at": "2009-06-17T20:18:52+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "simplerdfserver", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2006-10-11T05:55:12+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2006-10-08T02:40:29+00:00", "yanked": false, "dependencies": []}}}

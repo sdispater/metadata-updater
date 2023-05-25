@@ -1,0 +1,1 @@
+{"name": "products-bugzscout", "versions": {"1.0a2": {"version": "1.0a2", "python_constraint": "*", "released_at": "2011-05-10T16:34:44+00:00", "yanked": false, "dependencies": ["plone.app.registry", "plone.app.testing ; extra == \"test\"", "setuptools"]}}}

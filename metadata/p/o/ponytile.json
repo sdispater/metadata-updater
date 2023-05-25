@@ -1,0 +1,1 @@
+{"name": "ponytile", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-12-11T21:33:15+00:00", "yanked": false, "dependencies": ["Pillow (>=1.0)"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-12-10T23:22:18+00:00", "yanked": false, "dependencies": ["PIL (>=1.1.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "products-squarelisting", "versions": {"0.1.4": {"version": "0.1.4", "python_constraint": "*", "released_at": "2011-01-21T15:03:40+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-01-12T13:07:10+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

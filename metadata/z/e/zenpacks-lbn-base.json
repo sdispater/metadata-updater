@@ -1,0 +1,1 @@
+{"name": "zenpacks-lbn-base", "versions": {"4.0.3": {"version": "4.0.3", "python_constraint": "*", "released_at": "2013-02-16T15:02:21+00:00", "yanked": false, "dependencies": ["lbn.zenoss (>=4.2.0)"]}}}

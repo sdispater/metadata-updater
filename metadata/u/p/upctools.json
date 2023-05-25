@@ -1,0 +1,1 @@
+{"name": "upctools", "versions": {"0.1a1": {"version": "0.1a1", "python_constraint": "*", "released_at": "2006-12-11T15:36:53+00:00", "yanked": false, "dependencies": ["DivDialogs (>=0.1a0.dev)", "TurboGears (>=1.0b1)"]}}}

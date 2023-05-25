@@ -1,0 +1,1 @@
+{"name": "sapo-broker", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-06-20T13:01:48+00:00", "yanked": false, "dependencies": ["protobuf", "thrift"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-06-20T12:14:56+00:00", "yanked": false, "dependencies": ["protobuf", "thrift"]}}}

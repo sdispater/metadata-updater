@@ -1,0 +1,1 @@
+{"name": "products-zope2makesite", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-07-04T12:16:46+00:00", "yanked": false, "dependencies": ["five.localsitemanager", "setuptools"]}}}

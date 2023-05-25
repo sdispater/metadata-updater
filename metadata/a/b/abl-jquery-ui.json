@@ -1,0 +1,1 @@
+{"name": "abl-jquery-ui", "versions": {"1.8.7-3": {"version": "1.8.7-3", "python_constraint": "*", "released_at": "2011-02-18T19:07:09+00:00", "yanked": false, "dependencies": ["abl.jquery (>=1.4)", "abl.jquery.plugins.form (>=2.28)", "abl.util (>=0.1)"]}}}

@@ -1,0 +1,1 @@
+{"name": "products-calendarlistingportlet", "versions": {"1.0.2b": {"version": "1.0.2b", "python_constraint": "*", "released_at": "2012-10-22T08:30:28+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

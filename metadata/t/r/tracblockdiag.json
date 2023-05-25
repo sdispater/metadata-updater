@@ -1,0 +1,1 @@
+{"name": "tracblockdiag", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2012-02-26T03:10:22+00:00", "yanked": false, "dependencies": ["actdiag (>=0.1.5) ; extra == \"full\"", "blockdiag (>=0.8.1)", "nwdiag (>=0.2.4) ; extra == \"full\"", "seqdiag (>=0.3.5) ; extra == \"full\""]}}}

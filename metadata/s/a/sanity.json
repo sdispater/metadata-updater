@@ -1,0 +1,1 @@
+{"name": "sanity", "versions": {"0.2.5": {"version": "0.2.5", "python_constraint": "*", "released_at": "2010-06-27T22:50:07+00:00", "yanked": false, "dependencies": ["Flask (>=0.4)", "Flask-SQLAlchemy"]}}}

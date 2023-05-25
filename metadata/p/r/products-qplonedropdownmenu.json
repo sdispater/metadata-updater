@@ -1,0 +1,1 @@
+{"name": "products-qplonedropdownmenu", "versions": {"3.0": {"version": "3.0", "python_constraint": "*", "released_at": "2010-07-19T14:14:08+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

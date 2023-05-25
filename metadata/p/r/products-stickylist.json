@@ -1,0 +1,1 @@
+{"name": "products-stickylist", "versions": {"1.0a": {"version": "1.0a", "python_constraint": "*", "released_at": "2012-04-16T11:01:15+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "products-flash10fix", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2009-04-07T01:36:23+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2009-01-30T19:14:18+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

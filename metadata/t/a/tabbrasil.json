@@ -1,0 +1,1 @@
+{"name": "tabbrasil", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2007-07-19T02:05:53+00:00", "yanked": false, "dependencies": ["BeautifulSoup (>=3.0.3)"]}}}

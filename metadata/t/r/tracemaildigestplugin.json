@@ -1,0 +1,1 @@
+{"name": "tracemaildigestplugin", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-09-22T18:07:55+00:00", "yanked": false, "dependencies": ["AMQPDeliver (>=0.1)", "AMQPDeliver ; extra == \"amqpdeliver\"", "setuptools (>=0.6b1)", "Trac (>=0.12)", "TracCron (>=0.3dev)", "TracCronPlugin ; extra == \"traccron\""]}}}

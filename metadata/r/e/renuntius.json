@@ -1,0 +1,1 @@
+{"name": "renuntius", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-28T10:51:21+00:00", "yanked": false, "dependencies": ["flask (>=0.9)", "flask-restless (>=0.9.3)", "flask-sqlalchemy (>=0.16)"]}}}

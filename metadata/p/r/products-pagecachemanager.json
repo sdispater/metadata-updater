@@ -1,0 +1,1 @@
+{"name": "products-pagecachemanager", "versions": {"1.2": {"version": "1.2", "python_constraint": "*", "released_at": "2008-04-16T09:02:49+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

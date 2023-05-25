@@ -1,0 +1,1 @@
+{"name": "products-quaestrio", "versions": {"0.13.1": {"version": "0.13.1", "python_constraint": "*", "released_at": "2010-04-21T14:24:51+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

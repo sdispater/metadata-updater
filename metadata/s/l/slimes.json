@@ -1,0 +1,1 @@
+{"name": "slimes", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-09-10T12:52:49+00:00", "yanked": false, "dependencies": ["requests (>=0.8.2)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-08-24T06:51:41+00:00", "yanked": false, "dependencies": ["requests (>=0.8.2)"]}}}

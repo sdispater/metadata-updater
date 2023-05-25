@@ -1,0 +1,1 @@
+{"name": "products-policyhttpcachemanager", "versions": {"1.2": {"version": "1.2", "python_constraint": "*", "released_at": "2008-04-16T11:08:14+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

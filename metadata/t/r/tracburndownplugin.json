@@ -1,0 +1,1 @@
+{"name": "tracburndownplugin", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-09-22T12:03:58+00:00", "yanked": false, "dependencies": ["EstimationTools (>=0.4.5)", "EstimationTools ; extra == \"estimationtools\"", "setuptools (>=0.6b1)", "Trac (>=0.12)"]}}}

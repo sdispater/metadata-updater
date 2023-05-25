@@ -1,0 +1,1 @@
+{"name": "tgextjs", "versions": {"0.2.3b": {"version": "0.2.3b", "python_constraint": "*", "released_at": "2007-08-29T14:08:49+00:00", "yanked": false, "dependencies": ["Scriptaculous", "TurboGears (>=1.0.1)"]}}}

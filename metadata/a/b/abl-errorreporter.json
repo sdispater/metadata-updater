@@ -1,0 +1,1 @@
+{"name": "abl-errorreporter", "versions": {"0.3.1": {"version": "0.3.1", "python_constraint": "*", "released_at": "2012-01-03T16:13:42+00:00", "yanked": false, "dependencies": ["Genshi", "TurboMail"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-01-03T15:50:31+00:00", "yanked": false, "dependencies": ["Genshi", "TurboMail"]}}}

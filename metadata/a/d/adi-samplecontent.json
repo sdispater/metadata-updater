@@ -1,0 +1,1 @@
+{"name": "adi-samplecontent", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-12-02T07:50:40+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

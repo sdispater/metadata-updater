@@ -1,0 +1,1 @@
+{"name": "seraph", "versions": {"0.33": {"version": "0.33", "python_constraint": "*", "released_at": "2012-08-25T09:52:39+00:00", "yanked": false, "dependencies": ["jinja2", "markdown", "PyYAML"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-08-24T01:48:46+00:00", "yanked": false, "dependencies": ["jinja2", "markdown", "PyYAML"]}}}

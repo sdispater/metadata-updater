@@ -1,0 +1,1 @@
+{"name": "ado", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2013-04-11T16:49:41+00:00", "yanked": false, "dependencies": ["dexy (>=0.9.9)", "Markdown", "python-modargs (>=1.7)"]}}}

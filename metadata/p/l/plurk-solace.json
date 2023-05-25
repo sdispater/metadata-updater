@@ -1,0 +1,1 @@
+{"name": "plurk-solace", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-09-01T16:45:50+00:00", "yanked": false, "dependencies": ["Babel", "creoleparser", "Jinja2", "simplejson", "SQLAlchemy (>=0.5)", "webdepcompress", "Werkzeug (>=0.5.1)"]}}}

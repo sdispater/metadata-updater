@@ -1,0 +1,1 @@
+{"name": "simplemq", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2011-10-27T02:00:08+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-10-26T09:36:38+00:00", "yanked": false, "dependencies": []}}}

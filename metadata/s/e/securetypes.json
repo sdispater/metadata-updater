@@ -1,0 +1,1 @@
+{"name": "securetypes", "versions": {"11.12.28": {"version": "11.12.28", "python_constraint": "*", "released_at": "2011-12-28T15:36:42+00:00", "yanked": false, "dependencies": []}, "11.5.6": {"version": "11.5.6", "python_constraint": "*", "released_at": "2011-05-06T17:42:33+00:00", "yanked": false, "dependencies": []}}}

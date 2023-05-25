@@ -1,0 +1,1 @@
+{"name": "shelley", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2009-10-12T15:33:50+00:00", "yanked": false, "dependencies": ["django ; extra == \"tests\"", "django ; extra == \"geodjango\"", "GDAL ; extra == \"tests\"", "GDAL ; extra == \"gdal\"", "minimock ; extra == \"tests\"", "psycopg2 ; extra == \"tests\"", "pyproj", "setuptools"]}}}

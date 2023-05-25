@@ -1,0 +1,1 @@
+{"name": "products-patchplonecontent", "versions": {"1.0.4": {"version": "1.0.4", "python_constraint": "*", "released_at": "2012-07-26T14:17:41+00:00", "yanked": false, "dependencies": ["setuptools"]}}}
