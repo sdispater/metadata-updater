@@ -1,0 +1,1 @@
+{"name": "xml2data", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-03-02T15:57:27+00:00", "yanked": false, "dependencies": ["chardet", "cssselect", "lxml", "minimock"]}}}

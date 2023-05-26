@@ -1,0 +1,1 @@
+{"name": "turbocheetah", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2007-11-18T21:43:48+00:00", "yanked": false, "dependencies": ["Cheetah (>=2.0.1)"]}, "0.9.5": {"version": "0.9.5", "python_constraint": "*", "released_at": "2006-09-14T22:32:07+00:00", "yanked": false, "dependencies": ["Cheetah (>=1.0)"]}}}

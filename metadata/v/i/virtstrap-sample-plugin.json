@@ -1,0 +1,1 @@
+{"name": "virtstrap-sample-plugin", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-03-06T20:12:43+00:00", "yanked": false, "dependencies": ["virtstrap-local"]}}}

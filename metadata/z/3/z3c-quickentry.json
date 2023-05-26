@@ -1,0 +1,1 @@
+{"name": "z3c-quickentry", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-08-23T08:53:40+00:00", "yanked": false, "dependencies": ["setuptools", "zope.app.testing ; extra == \"test\"", "zope.testing ; extra == \"test\""]}}}

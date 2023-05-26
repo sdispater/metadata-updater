@@ -1,0 +1,1 @@
+{"name": "z3c-davapp-zopefile", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2008-02-27T18:38:50+00:00", "yanked": false, "dependencies": ["cElementTree ; extra == \"test\"", "setuptools", "z3c.conditionalviews", "z3c.dav", "zope.file"]}}}

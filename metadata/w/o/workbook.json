@@ -1,0 +1,1 @@
+{"name": "workbook", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2012-09-21T00:26:05+00:00", "yanked": false, "dependencies": ["xlutils", "xlwt"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-09-20T00:44:48+00:00", "yanked": false, "dependencies": ["xlutils", "xlwt"]}}}

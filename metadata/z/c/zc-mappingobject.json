@@ -1,0 +1,1 @@
+{"name": "zc-mappingobject", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-12-21T12:45:46+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "w20e-hitman", "versions": {"1.1.1": {"version": "1.1.1", "python_constraint": "*", "released_at": "2013-02-05T11:44:51+00:00", "yanked": false, "dependencies": ["pyramid", "w20e.forms", "ZODB3", "zope.component"]}}}

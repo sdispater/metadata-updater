@@ -1,0 +1,1 @@
+{"name": "wsgitrml2pdf", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2010-03-03T14:27:47+00:00", "yanked": false, "dependencies": ["reportlab", "WebOb"]}}}

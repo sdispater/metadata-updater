@@ -1,0 +1,1 @@
+{"name": "xdv", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2010-05-29T10:53:21+00:00", "yanked": false, "dependencies": ["lxml", "setuptools"]}}}

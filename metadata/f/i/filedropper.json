@@ -1,0 +1,1 @@
+{"name": "filedropper", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-06-23T11:47:32+00:00", "yanked": false, "dependencies": ["BeautifulSoup", "GnuPGInterface ; extra == \"GnuPG\"", "poster", "urlgrabber"]}}}

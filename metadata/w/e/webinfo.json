@@ -1,0 +1,1 @@
+{"name": "webinfo", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-06-22T09:11:55+00:00", "yanked": false, "dependencies": ["dnspython"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-06-21T17:11:22+00:00", "yanked": false, "dependencies": ["dnspython"]}}}

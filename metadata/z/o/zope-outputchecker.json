@@ -1,0 +1,1 @@
+{"name": "zope-outputchecker", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2013-03-06T22:43:09+00:00", "yanked": false, "dependencies": ["lxml", "setuptools", "zope.testing"]}}}

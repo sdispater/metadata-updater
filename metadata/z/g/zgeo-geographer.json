@@ -1,0 +1,1 @@
+{"name": "zgeo-geographer", "versions": {"0.3.1": {"version": "0.3.1", "python_constraint": "*", "released_at": "2008-09-03T05:01:30+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2008-02-19T20:03:24+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

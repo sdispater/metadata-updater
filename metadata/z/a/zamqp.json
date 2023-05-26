@@ -1,0 +1,1 @@
+{"name": "zamqp", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2010-06-14T11:34:10+00:00", "yanked": false, "dependencies": ["amqplib", "interlude ; extra == \"test\"", "setuptools", "zope.event"]}}}

@@ -1,0 +1,1 @@
+{"name": "zmqc", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-04-11T03:58:04+00:00", "yanked": false, "dependencies": ["argparse (>=1.2.1)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-02-09T18:27:42+00:00", "yanked": false, "dependencies": ["argparse (>=1.2.1)"]}}}

@@ -1,0 +1,1 @@
+{"name": "products-ldapconnector", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-04-14T22:51:03+00:00", "yanked": false, "dependencies": ["dataflake.cache", "dataflake.ldapconnection", "Products.GenericSetup", "setuptools", "Zope2"]}}}

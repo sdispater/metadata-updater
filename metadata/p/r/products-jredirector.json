@@ -1,0 +1,1 @@
+{"name": "products-jredirector", "versions": {"1.4": {"version": "1.4", "python_constraint": "*", "released_at": "2009-06-23T13:05:00+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

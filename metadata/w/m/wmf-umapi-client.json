@@ -1,0 +1,1 @@
+{"name": "wmf-umapi-client", "versions": {"0.1.1-dev": {"version": "0.1.1-dev", "python_constraint": "*", "released_at": "2013-04-02T17:52:33+00:00", "yanked": false, "dependencies": ["rafutils (>=0.1.2-dev)"]}}}

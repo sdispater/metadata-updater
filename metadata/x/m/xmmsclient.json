@@ -1,0 +1,1 @@
+{"name": "xmmsclient", "versions": {"0.8.1": {"version": "0.8.1", "python_constraint": "*", "released_at": "2012-09-29T12:48:25+00:00", "yanked": false, "dependencies": []}, "0.8": {"version": "0.8", "python_constraint": "*", "released_at": "2012-09-29T12:16:59+00:00", "yanked": false, "dependencies": []}}}

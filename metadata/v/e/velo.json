@@ -1,0 +1,1 @@
+{"name": "velo", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2012-10-27T21:33:22+00:00", "yanked": false, "dependencies": ["gunicorn", "PasteScript", "pyramid", "pyramid_debugtoolbar", "pyramid_rest"]}}}

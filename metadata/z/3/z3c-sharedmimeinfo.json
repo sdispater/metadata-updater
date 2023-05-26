@@ -1,0 +1,1 @@
+{"name": "z3c-sharedmimeinfo", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2009-09-08T21:32:04+00:00", "yanked": false, "dependencies": ["setuptools", "zope.component ; extra == \"test\"", "zope.i18n", "zope.i18nmessageid", "zope.interface", "zope.schema", "zope.testing ; extra == \"test\""]}}}

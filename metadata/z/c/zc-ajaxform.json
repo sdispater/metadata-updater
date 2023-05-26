@@ -1,0 +1,1 @@
+{"name": "zc-ajaxform", "versions": {"0.7.0": {"version": "0.7.0", "python_constraint": "*", "released_at": "2010-04-27T17:53:35+00:00", "yanked": false, "dependencies": ["ClientForm", "rwproperty", "setuptools", "simplejson", "zc.form", "zope.app.zcmlfiles ; extra == \"test\"", "zope.html", "zope.testbrowser", "zope.testbrowser ; extra == \"test\""]}}}

@@ -1,0 +1,1 @@
+{"name": "xrd", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-02T16:53:24+00:00", "yanked": false, "dependencies": ["isodate"]}}}

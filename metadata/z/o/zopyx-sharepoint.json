@@ -1,0 +1,1 @@
+{"name": "zopyx-sharepoint", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2011-07-01T13:05:06+00:00", "yanked": false, "dependencies": ["argparse", "python-ntlm", "suds"]}}}

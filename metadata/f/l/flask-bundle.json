@@ -1,0 +1,1 @@
+{"name": "flask-bundle", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2012-06-28T19:35:02+00:00", "yanked": false, "dependencies": ["Flask"]}}}

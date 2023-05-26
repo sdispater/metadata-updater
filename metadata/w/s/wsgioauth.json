@@ -1,0 +1,1 @@
+{"name": "wsgioauth", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2010-01-25T20:26:57+00:00", "yanked": false, "dependencies": ["httplib2", "oauth2", "webob"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-01-06T22:31:52+00:00", "yanked": false, "dependencies": ["httplib2", "oauth2", "webob", "wsgiref"]}}}

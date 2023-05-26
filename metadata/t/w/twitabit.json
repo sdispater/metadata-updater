@@ -1,0 +1,1 @@
+{"name": "twitabit", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2008-01-19T19:20:35+00:00", "yanked": false, "dependencies": ["PasteDeploy (>=1.3.1)", "Pylons (>=0.9.6.1)", "Schevo (<empty>)", "SchevoPolicy (<empty>)"]}}}

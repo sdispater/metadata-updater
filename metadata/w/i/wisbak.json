@@ -1,0 +1,1 @@
+{"name": "wisbak", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-05-05T03:17:43+00:00", "yanked": false, "dependencies": ["paramiko"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-05-04T17:38:21+00:00", "yanked": false, "dependencies": []}}}

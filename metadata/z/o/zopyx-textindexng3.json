@@ -1,0 +1,1 @@
+{"name": "zopyx-textindexng3", "versions": {"4.0.1": {"version": "4.0.1", "python_constraint": "*", "released_at": "2008-06-08T07:18:08+00:00", "yanked": false, "dependencies": ["setuptools"]}, "4.0.0": {"version": "4.0.0", "python_constraint": "*", "released_at": "2007-07-14T12:15:32+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

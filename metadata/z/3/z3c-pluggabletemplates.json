@@ -1,0 +1,1 @@
+{"name": "z3c-pluggabletemplates", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2006-11-04T01:57:11+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

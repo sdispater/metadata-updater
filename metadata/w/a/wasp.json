@@ -1,0 +1,1 @@
+{"name": "wasp", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2008-09-17T15:48:17+00:00", "yanked": false, "dependencies": ["zope.component", "zope.configuration", "zope.interface", "zope.publisher", "zope.security"]}}}

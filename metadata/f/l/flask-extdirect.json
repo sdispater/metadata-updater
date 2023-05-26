@@ -1,0 +1,1 @@
+{"name": "flask-extdirect", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-02-14T20:49:23+00:00", "yanked": false, "dependencies": ["Flask"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-11-30T16:34:35+00:00", "yanked": false, "dependencies": ["Flask"]}}}

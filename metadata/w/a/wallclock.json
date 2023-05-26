@@ -1,0 +1,1 @@
+{"name": "wallclock", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-05-28T16:51:50+00:00", "yanked": false, "dependencies": ["decorator"]}}}

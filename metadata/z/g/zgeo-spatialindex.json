@@ -1,0 +1,1 @@
+{"name": "zgeo-spatialindex", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2008-02-19T18:47:20+00:00", "yanked": false, "dependencies": ["Rtree", "setuptools", "Shapely", "zgeo.geographer (>=0.3)", "zope.app.catalog"]}}}

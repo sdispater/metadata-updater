@@ -1,0 +1,1 @@
+{"name": "zc-monitorpdb", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2009-10-30T14:49:00+00:00", "yanked": false, "dependencies": ["setuptools", "zc.monitor"]}}}

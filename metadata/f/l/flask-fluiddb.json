@@ -1,0 +1,1 @@
+{"name": "flask-fluiddb", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-08-09T14:42:30+00:00", "yanked": false, "dependencies": ["Flask", "fom", "httplib2"]}}}

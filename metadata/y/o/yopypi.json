@@ -1,0 +1,1 @@
+{"name": "yopypi", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2010-08-09T17:34:40+00:00", "yanked": false, "dependencies": ["bottle (>=0.8)", "paste", "supay"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2010-08-08T00:09:33+00:00", "yanked": false, "dependencies": ["bottle (>=0.8)", "paste", "supay"]}}}

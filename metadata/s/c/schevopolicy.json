@@ -1,0 +1,1 @@
+{"name": "schevopolicy", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2008-01-20T17:33:54+00:00", "yanked": false, "dependencies": ["DecoratorTools", "Schevo (>=3.1a1)"]}}}

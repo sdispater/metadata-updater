@@ -1,0 +1,1 @@
+{"name": "z3c-mountpoint", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-08-03T08:29:46+00:00", "yanked": false, "dependencies": ["setuptools", "zope.app.container", "zope.app.publication", "zope.app.testing ; extra == \"test\"", "zope.component"]}}}

@@ -1,0 +1,1 @@
+{"name": "zope-broken", "versions": {"3.6.0": {"version": "3.6.0", "python_constraint": "*", "released_at": "2010-01-10T17:25:40+00:00", "yanked": false, "dependencies": ["setuptools", "zope.interface"]}, "3.5.0": {"version": "3.5.0", "python_constraint": "*", "released_at": "2009-02-04T20:58:41+00:00", "yanked": false, "dependencies": ["setuptools", "zope.interface"]}}}

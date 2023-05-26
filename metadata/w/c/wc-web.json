@@ -1,0 +1,1 @@
+{"name": "wc-web", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2010-05-31T20:54:34+00:00", "yanked": false, "dependencies": ["wc-socket (==1.0.0)"]}}}

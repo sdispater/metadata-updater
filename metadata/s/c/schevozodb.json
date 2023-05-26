@@ -1,0 +1,1 @@
+{"name": "schevozodb", "versions": {"3.1a1": {"version": "3.1a1", "python_constraint": "*", "released_at": "2008-01-19T22:21:42+00:00", "yanked": false, "dependencies": ["Schevo (>=3.1a1)", "ZODB3 (>=3.8.0c1)"]}}}

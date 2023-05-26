@@ -1,0 +1,1 @@
+{"name": "xmlrpcauth", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2010-09-24T14:43:04+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-09-24T11:43:07+00:00", "yanked": false, "dependencies": []}}}

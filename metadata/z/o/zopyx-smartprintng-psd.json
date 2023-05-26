@@ -1,0 +1,1 @@
+{"name": "zopyx-smartprintng-psd", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-08-12T08:22:55+00:00", "yanked": false, "dependencies": ["lxml"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2010-08-11T09:37:26+00:00", "yanked": false, "dependencies": ["lxml"]}}}

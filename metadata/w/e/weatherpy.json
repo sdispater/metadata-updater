@@ -1,0 +1,1 @@
+{"name": "weatherpy", "versions": {"1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2013-03-01T15:39:57+00:00", "yanked": false, "dependencies": ["python-dateutil"]}, "1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2013-03-01T04:18:28+00:00", "yanked": false, "dependencies": ["python-dateutil"]}}}

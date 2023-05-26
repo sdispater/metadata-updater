@@ -1,0 +1,1 @@
+{"name": "z3c-testsummarizer", "versions": {"2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2011-03-31T15:33:52+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "chandler-helloworldplugin", "versions": {"0.7-r15094": {"version": "0.7-r15094", "python_constraint": "*", "released_at": "2007-07-24T12:55:06+00:00", "yanked": false, "dependencies": []}, "0.7": {"version": "0.7", "python_constraint": "*", "released_at": "2007-09-11T06:33:55+00:00", "yanked": false, "dependencies": []}}}

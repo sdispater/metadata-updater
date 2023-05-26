@@ -1,0 +1,1 @@
+{"name": "schevogears", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2008-01-20T17:44:25+00:00", "yanked": false, "dependencies": ["Schevo (>=3.0)", "TurboGears (>=1.0b2,<1.1)"]}}}

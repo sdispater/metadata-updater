@@ -1,0 +1,1 @@
+{"name": "ventriloquist", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-03-15T04:31:23+00:00", "yanked": false, "dependencies": ["Jinja2", "PasteScript", "setuptools", "simplejson", "WebOb"]}}}

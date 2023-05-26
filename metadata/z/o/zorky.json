@@ -1,0 +1,1 @@
+{"name": "zorky", "versions": {"2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2011-12-24T22:04:12+00:00", "yanked": false, "dependencies": ["nose"]}}}

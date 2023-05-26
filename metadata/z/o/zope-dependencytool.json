@@ -1,0 +1,1 @@
+{"name": "zope-dependencytool", "versions": {"3.4.0": {"version": "3.4.0", "python_constraint": "*", "released_at": "2007-09-21T20:26:06+00:00", "yanked": false, "dependencies": ["setuptools", "zope.testing ; extra == \"test\""]}}}

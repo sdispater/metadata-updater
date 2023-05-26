@@ -1,0 +1,1 @@
+{"name": "wsgioauth-zodb", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-01-25T21:40:34+00:00", "yanked": false, "dependencies": ["repoze.tm2", "repoze.zodbconn", "wsgioauth (>=0.3)", "ZODB3"]}}}

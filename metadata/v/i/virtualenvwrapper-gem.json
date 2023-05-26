@@ -1,0 +1,1 @@
+{"name": "virtualenvwrapper-gem", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-08-23T00:12:16+00:00", "yanked": false, "dependencies": ["virtualenv", "virtualenvwrapper (>=2.11)"]}}}

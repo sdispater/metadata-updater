@@ -1,0 +1,1 @@
+{"name": "w20e-pycms-news", "versions": {"1.0.1a": {"version": "1.0.1a", "python_constraint": "*", "released_at": "2012-07-24T15:22:39+00:00", "yanked": false, "dependencies": ["repoze.catalog", "w20e.pycms (>=1.0.1a)", "zope.interface"]}}}

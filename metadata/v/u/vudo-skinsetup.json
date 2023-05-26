@@ -1,0 +1,1 @@
+{"name": "vudo-skinsetup", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-12-08T20:06:30+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

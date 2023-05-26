@@ -1,0 +1,1 @@
+{"name": "zmqfirewall", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2012-06-01T08:20:21+00:00", "yanked": false, "dependencies": ["Twisted (>=10.0)", "txZMQ (>=0.5.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "zc-security", "versions": {"4.2.0": {"version": "4.2.0", "python_constraint": "*", "released_at": "2008-03-27T17:57:12+00:00", "yanked": false, "dependencies": ["setuptools", "zope.app.authentication", "zope.app.component", "zope.app.security", "zope.component", "zope.interface", "zope.security", "zope.testing"]}}}

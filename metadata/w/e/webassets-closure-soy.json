@@ -1,0 +1,1 @@
+{"name": "webassets-closure-soy", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2012-11-06T22:11:49+00:00", "yanked": false, "dependencies": ["webassets"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-11-06T03:54:12+00:00", "yanked": false, "dependencies": ["webassets"]}}}

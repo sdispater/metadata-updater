@@ -1,0 +1,1 @@
+{"name": "wadofstuff-django-serializers-op", "versions": {"1.1.1": {"version": "1.1.1", "python_constraint": "*", "released_at": "2011-10-18T18:52:50+00:00", "yanked": false, "dependencies": []}, "1.1.0": {"version": "1.1.0", "python_constraint": "*", "released_at": "2011-10-18T18:45:01+00:00", "yanked": false, "dependencies": []}}}

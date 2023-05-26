@@ -1,0 +1,1 @@
+{"name": "z3c-recipe-perlpackage", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-07-04T19:39:29+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

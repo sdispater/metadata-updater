@@ -1,0 +1,1 @@
+{"name": "yaco-releaser", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-06-05T15:12:11+00:00", "yanked": false, "dependencies": ["setuptools", "zest.releaser (>3.0)"]}}}

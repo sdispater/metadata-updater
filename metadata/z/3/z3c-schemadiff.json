@@ -1,0 +1,1 @@
+{"name": "z3c-schemadiff", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-04-30T12:26:27+00:00", "yanked": false, "dependencies": ["setuptools", "zope.component", "zope.interface", "zope.pagetemplate", "zope.schema"]}}}

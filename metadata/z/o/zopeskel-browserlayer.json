@@ -1,0 +1,1 @@
+{"name": "zopeskel-browserlayer", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-10-25T02:46:29+00:00", "yanked": false, "dependencies": ["Paste", "PasteDeploy", "PasteScript", "setuptools", "ZopeSkel"]}}}

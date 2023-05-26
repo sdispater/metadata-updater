@@ -1,0 +1,1 @@
+{"name": "zdhtmlxscheduler", "versions": {"1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2012-10-29T14:50:42+00:00", "yanked": false, "dependencies": ["setuptools", "zc.resourcelibrary"]}}}

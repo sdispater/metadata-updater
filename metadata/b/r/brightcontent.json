@@ -1,0 +1,1 @@
+{"name": "brightcontent", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2006-09-02T17:36:37+00:00", "yanked": false, "dependencies": ["Amara", "Beaker", "Paste", "PasteScript"]}}}

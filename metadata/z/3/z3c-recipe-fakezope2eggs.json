@@ -1,0 +1,1 @@
+{"name": "z3c-recipe-fakezope2eggs", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2008-07-21T10:36:41+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

@@ -1,0 +1,1 @@
+{"name": "zope-decorator", "versions": {"3.4.0": {"version": "3.4.0", "python_constraint": "*", "released_at": "2007-11-05T03:31:30+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

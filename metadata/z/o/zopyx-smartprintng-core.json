@@ -1,0 +1,1 @@
+{"name": "zopyx-smartprintng-core", "versions": {"2.0.0": {"version": "2.0.0", "python_constraint": "*", "released_at": "2009-05-14T15:28:39+00:00", "yanked": false, "dependencies": ["setuptools", "zope.app.testing ; extra == \"test\"", "zope.component", "zope.pagetemplate", "zope.testing ; extra == \"test\"", "zopyx.convert2"]}}}

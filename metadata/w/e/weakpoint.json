@@ -1,0 +1,1 @@
+{"name": "weakpoint", "versions": {"0.2.3": {"version": "0.2.3", "python_constraint": "*", "released_at": "2012-11-21T10:00:07+00:00", "yanked": false, "dependencies": ["Jinja2", "misaka", "PyYAML"]}}}

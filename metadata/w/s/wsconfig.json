@@ -1,0 +1,1 @@
+{"name": "wsconfig", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-08-12T20:55:30+00:00", "yanked": false, "dependencies": ["PyParsing"]}}}

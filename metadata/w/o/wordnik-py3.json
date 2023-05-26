@@ -1,0 +1,1 @@
+{"name": "wordnik-py3", "versions": {"2.1.2": {"version": "2.1.2", "python_constraint": "*", "released_at": "2013-01-15T00:14:59+00:00", "yanked": false, "dependencies": []}, "2.1": {"version": "2.1", "python_constraint": "*", "released_at": "2013-01-04T03:23:03+00:00", "yanked": false, "dependencies": []}}}

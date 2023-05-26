@@ -1,0 +1,1 @@
+{"name": "z3c-rmldocument", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-04-16T10:47:08+00:00", "yanked": false, "dependencies": ["lxml", "setuptools", "z3c.rml", "zope.app.pagetemplate"]}}}

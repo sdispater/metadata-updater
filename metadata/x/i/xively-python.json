@@ -1,0 +1,1 @@
+{"name": "xively-python", "versions": {"0.1.0-rc1": {"version": "0.1.0-rc1", "python_constraint": "*", "released_at": "2013-06-13T07:29:10+00:00", "yanked": false, "dependencies": ["requests (>=1.1.0)"]}, "0.1.0-rc0": {"version": "0.1.0-rc0", "python_constraint": "*", "released_at": "2013-05-15T17:16:17+00:00", "yanked": false, "dependencies": ["requests (>=1.1.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "schevoweb", "versions": {"1.0a2": {"version": "1.0a2", "python_constraint": "*", "released_at": "2006-10-24T20:39:15+00:00", "yanked": false, "dependencies": ["elementtree (>=1.2.6)", "RuleDispatch (>=0.5a0dev)", "Schevo (>=3.0b2)"]}}}

@@ -1,0 +1,1 @@
+{"name": "webpy-celery", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-12-13T11:09:10+00:00", "yanked": false, "dependencies": ["celery (>=2.3.0)", "web.py (>=0.34)"]}}}

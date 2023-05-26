@@ -1,0 +1,1 @@
+{"name": "verobject", "versions": {"0.1.4": {"version": "0.1.4", "python_constraint": "*", "released_at": "2012-01-28T03:28:59+00:00", "yanked": false, "dependencies": ["redis"]}}}
