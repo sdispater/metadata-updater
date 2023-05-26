@@ -1,0 +1,1 @@
+{"name": "lava-serial", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-12-14T18:10:53+00:00", "yanked": false, "dependencies": ["lava-tool (>=0.3a1)", "pyserial (>=2.6)", "versiontools (>=1.8.2)"]}}}

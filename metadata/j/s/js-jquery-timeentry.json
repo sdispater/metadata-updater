@@ -1,0 +1,1 @@
+{"name": "js-jquery-timeentry", "versions": {"1.5.0": {"version": "1.5.0", "python_constraint": "*", "released_at": "2013-02-06T09:19:13+00:00", "yanked": false, "dependencies": ["fanstatic", "js.jquery", "setuptools"]}}}

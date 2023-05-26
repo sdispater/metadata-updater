@@ -1,0 +1,1 @@
+{"name": "inqbus-zopeftp", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2010-11-07T19:37:49+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

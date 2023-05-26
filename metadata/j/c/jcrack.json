@@ -1,0 +1,1 @@
+{"name": "jcrack", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-02-07T05:00:11+00:00", "yanked": false, "dependencies": ["celery (>=2.4.6)", "configparser (>=3.1.0)", "SQLAlchemy (>=0.7.5)"]}}}

@@ -1,0 +1,1 @@
+{"name": "kss-plugin-jsmath", "versions": {"1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2008-07-04T14:07:30+00:00", "yanked": false, "dependencies": ["kss.core (>=1.2)"]}, "1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2008-07-03T11:07:17+00:00", "yanked": false, "dependencies": ["kss.core (>=1.4)"]}}}

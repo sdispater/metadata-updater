@@ -1,0 +1,1 @@
+{"name": "irduino", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-08-11T20:38:40+00:00", "yanked": false, "dependencies": ["pyserial"]}}}

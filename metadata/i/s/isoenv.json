@@ -1,0 +1,1 @@
+{"name": "isoenv", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-02-17T17:50:03+00:00", "yanked": false, "dependencies": ["argparse", "nose"]}}}

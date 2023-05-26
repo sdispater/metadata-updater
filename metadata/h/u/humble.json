@@ -1,0 +1,1 @@
+{"name": "humble", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2011-03-24T11:22:32+00:00", "yanked": false, "dependencies": ["clint (>=0.2.1)", "github2", "requests"]}, "0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-03-23T14:02:25+00:00", "yanked": false, "dependencies": ["clint (>=0.2.0)", "github2"]}}}

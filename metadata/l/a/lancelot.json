@@ -1,0 +1,1 @@
+{"name": "lancelot", "versions": {"1.0-rc2": {"version": "1.0-rc2", "python_constraint": "*", "released_at": "2009-02-20T17:27:06+00:00", "yanked": false, "dependencies": []}, "1.0-rc1": {"version": "1.0-rc1", "python_constraint": "*", "released_at": "2009-02-18T09:35:12+00:00", "yanked": false, "dependencies": []}}}

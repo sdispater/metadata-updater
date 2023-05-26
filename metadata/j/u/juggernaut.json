@@ -1,0 +1,1 @@
+{"name": "juggernaut", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-12-06T02:21:12+00:00", "yanked": false, "dependencies": ["redis"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-12-06T02:16:21+00:00", "yanked": false, "dependencies": ["redis"]}}}

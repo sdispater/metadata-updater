@@ -1,0 +1,1 @@
+{"name": "jasinja", "versions": {"0.8.0": {"version": "0.8.0", "python_constraint": "*", "released_at": "2012-05-12T22:01:37+00:00", "yanked": false, "dependencies": ["Jinja2"]}}}

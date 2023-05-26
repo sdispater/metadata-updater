@@ -1,0 +1,1 @@
+{"name": "ks-pager", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2007-11-08T19:44:16+00:00", "yanked": false, "dependencies": ["setuptools", "ZODB3 ; extra == \"test\"", "zope.component", "zope.interface", "zope.publisher", "zope.schema", "zope.testing ; extra == \"test\""]}}}

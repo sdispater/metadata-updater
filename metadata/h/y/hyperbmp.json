@@ -1,0 +1,1 @@
+{"name": "hyperbmp", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-02-16T18:21:37+00:00", "yanked": false, "dependencies": ["svenweb"]}}}

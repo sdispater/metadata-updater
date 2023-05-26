@@ -1,0 +1,1 @@
+{"name": "httprpclib", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2009-12-24T18:16:33+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-09-28T00:12:00+00:00", "yanked": false, "dependencies": []}}}

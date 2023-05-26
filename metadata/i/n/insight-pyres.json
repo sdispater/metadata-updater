@@ -1,0 +1,1 @@
+{"name": "insight-pyres", "versions": {"1.1.0.1": {"version": "1.1.0.1", "python_constraint": "*", "released_at": "2012-05-08T17:02:52+00:00", "yanked": false, "dependencies": ["itty (>=0.6.2)", "pystache (>=0.1.0)", "redis (>=1.34.1)", "setproctitle (>=1.0)", "simplejson (>=2.0.9)"]}}}

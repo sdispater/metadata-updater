@@ -1,0 +1,1 @@
+{"name": "js-jquery-metadata", "versions": {"2.1": {"version": "2.1", "python_constraint": "*", "released_at": "2011-01-11T09:31:11+00:00", "yanked": false, "dependencies": ["fanstatic", "setuptools"]}}}

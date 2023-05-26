@@ -1,0 +1,1 @@
+{"name": "inquant-contentmirror", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-01-08T15:16:50+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

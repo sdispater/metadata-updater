@@ -1,0 +1,1 @@
+{"name": "jsonish", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-03-11T17:19:01+00:00", "yanked": false, "dependencies": ["simplejson"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-03-11T12:55:25+00:00", "yanked": false, "dependencies": []}}}

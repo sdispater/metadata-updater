@@ -1,0 +1,1 @@
+{"name": "ks-reference", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2008-01-13T09:37:15+00:00", "yanked": false, "dependencies": ["setuptools", "zope.component", "zope.interface"]}}}

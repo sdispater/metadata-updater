@@ -1,0 +1,1 @@
+{"name": "infi-amqp", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2012-08-06T17:12:55+00:00", "yanked": false, "dependencies": ["amqplib (>=1.0.2)"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-07-16T13:00:57+00:00", "yanked": false, "dependencies": ["amqplib (>=1.0.2)"]}}}

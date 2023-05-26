@@ -1,0 +1,1 @@
+{"name": "jsongrep", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-01-28T19:13:43+00:00", "yanked": false, "dependencies": ["bunch (>=1.0.0)", "chardet (>=1.0.1)", "lepl (>=3.3.2)"]}}}

@@ -1,0 +1,1 @@
+{"name": "import-or-pip", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2013-01-14T09:14:56+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-01-14T08:59:55+00:00", "yanked": false, "dependencies": []}}}

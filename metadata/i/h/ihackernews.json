@@ -1,0 +1,1 @@
+{"name": "ihackernews", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-12-08T09:08:14+00:00", "yanked": false, "dependencies": ["requests"]}}}

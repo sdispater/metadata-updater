@@ -1,0 +1,1 @@
+{"name": "inqbus-ocf-generic", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-11-29T22:43:17+00:00", "yanked": false, "dependencies": ["coverage ; extra == \"test\"", "nose ; extra == \"test\"", "setuptools", "sphinxcontrib-requirements ; extra == \"docs\"", "z3c.recipe.sphinxdoc ; extra == \"docs\""]}}}

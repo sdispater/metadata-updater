@@ -1,0 +1,1 @@
+{"name": "inqbus-collection-proxy", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2011-06-09T10:35:43+00:00", "yanked": false, "dependencies": ["archetypes.schemaextender", "setuptools"]}}}

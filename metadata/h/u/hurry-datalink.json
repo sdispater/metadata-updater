@@ -1,0 +1,1 @@
+{"name": "hurry-datalink", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-11-15T20:25:22+00:00", "yanked": false, "dependencies": ["hurry.resource (>=0.10)", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "lava-vcs", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-02-07T19:28:38+00:00", "yanked": false, "dependencies": ["lava-celery (>=0.1.1)", "lava-server (>=0.7)", "versiontools (>=1.8)"]}}}

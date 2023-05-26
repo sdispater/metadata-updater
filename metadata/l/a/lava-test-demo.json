@@ -1,0 +1,1 @@
+{"name": "lava-test-demo", "versions": {"0.1.dev7": {"version": "0.1.dev7", "python_constraint": "*", "released_at": "2012-01-20T17:15:05+00:00", "yanked": false, "dependencies": ["lava-test (>=0.2)", "versiontools (>=1.8)"]}}}

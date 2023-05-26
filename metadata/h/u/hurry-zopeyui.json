@@ -1,0 +1,1 @@
+{"name": "hurry-zopeyui", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-10-11T16:04:43+00:00", "yanked": false, "dependencies": ["hurry.yui", "hurry.zoperesource", "setuptools"]}}}

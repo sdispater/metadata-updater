@@ -1,0 +1,1 @@
+{"name": "localwiki-geocode-pagenames", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-09-18T11:50:32+00:00", "yanked": false, "dependencies": ["geopy", "slumber"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-09-18T06:10:47+00:00", "yanked": false, "dependencies": ["geopy", "slumber"]}}}

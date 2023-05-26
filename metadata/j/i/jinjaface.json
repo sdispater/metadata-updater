@@ -1,0 +1,1 @@
+{"name": "jinjaface", "versions": {"0.0.1dev": {"version": "0.0.1dev", "python_constraint": "*", "released_at": "2013-03-28T01:28:44+00:00", "yanked": false, "dependencies": ["jinja2 (>=2.6)"]}}}

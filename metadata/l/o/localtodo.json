@@ -1,0 +1,1 @@
+{"name": "localtodo", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-07-27T10:02:54+00:00", "yanked": false, "dependencies": ["docopt (==0.4.1)"]}}}

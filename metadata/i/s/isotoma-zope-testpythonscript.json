@@ -1,0 +1,1 @@
+{"name": "isotoma-zope-testpythonscript", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-01-27T23:34:38+00:00", "yanked": false, "dependencies": ["indent_finder", "mock"]}}}

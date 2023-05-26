@@ -1,0 +1,1 @@
+{"name": "js-jquery-fullcalendar", "versions": {"1.5.2": {"version": "1.5.2", "python_constraint": "*", "released_at": "2011-11-14T16:33:27+00:00", "yanked": false, "dependencies": ["fanstatic", "js.jquery", "setuptools"]}}}

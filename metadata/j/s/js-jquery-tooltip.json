@@ -1,0 +1,1 @@
+{"name": "js-jquery-tooltip", "versions": {"1.3": {"version": "1.3", "python_constraint": "*", "released_at": "2011-01-07T11:54:29+00:00", "yanked": false, "dependencies": ["fanstatic", "js.jquery", "pytest (>=2.0) ; extra == \"test\"", "setuptools"]}}}

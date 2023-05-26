@@ -1,0 +1,1 @@
+{"name": "js-foutbgone", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-07-20T15:25:04+00:00", "yanked": false, "dependencies": ["fanstatic", "setuptools"]}}}

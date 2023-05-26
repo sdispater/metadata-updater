@@ -1,0 +1,1 @@
+{"name": "isotoma-django-bootstrap", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2011-07-01T20:31:14+00:00", "yanked": false, "dependencies": ["Django", "Jinja2", "setuptools"]}}}

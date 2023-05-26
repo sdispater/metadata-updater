@@ -1,0 +1,1 @@
+{"name": "loggerglue", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-03-25T09:13:01+00:00", "yanked": false, "dependencies": ["pyparsing", "setuptools"]}, "0.9": {"version": "0.9", "python_constraint": "*", "released_at": "2011-01-28T18:47:26+00:00", "yanked": false, "dependencies": ["pyparsing", "setuptools"]}}}

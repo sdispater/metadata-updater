@@ -1,0 +1,1 @@
+{"name": "longtroll", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-08-01T03:21:01+00:00", "yanked": false, "dependencies": ["argparse"]}}}

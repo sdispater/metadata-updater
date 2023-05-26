@@ -1,0 +1,1 @@
+{"name": "jcl", "versions": {"0.1b1": {"version": "0.1b1", "python_constraint": "*", "released_at": "2008-03-10T19:27:01+00:00", "yanked": false, "dependencies": ["pysqlite (>=2.0)", "pyxmpp (>=1.0)", "SQLObject (>=0.8)"]}}}

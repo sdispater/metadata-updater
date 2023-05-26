@@ -1,0 +1,1 @@
+{"name": "inquant-contentmirror-plone", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2008-04-09T13:49:10+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-04-09T13:09:10+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

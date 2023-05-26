@@ -1,0 +1,1 @@
+{"name": "lsa", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-07-06T07:00:23+00:00", "yanked": false, "dependencies": ["numpy (>=1.0)", "python (>=2.7)", "scipy (>=0.6)"]}}}

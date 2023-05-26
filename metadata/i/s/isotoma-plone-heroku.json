@@ -1,0 +1,1 @@
+{"name": "isotoma-plone-heroku", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2011-09-30T00:33:36+00:00", "yanked": false, "dependencies": ["isotoma.recipe.plonetools", "setuptools"]}}}

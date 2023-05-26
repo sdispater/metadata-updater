@@ -1,0 +1,1 @@
+{"name": "indra-base", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2008-07-21T23:24:39+00:00", "yanked": false, "dependencies": ["indra.util", "setuptools"]}}}

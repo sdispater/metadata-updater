@@ -1,0 +1,1 @@
+{"name": "islay-auth", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-07-22T00:45:10+00:00", "yanked": false, "dependencies": ["distribute", "WebOb", "zope.interface"]}}}

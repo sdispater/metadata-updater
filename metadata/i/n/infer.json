@@ -1,0 +1,1 @@
+{"name": "infer", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-22T06:32:27+00:00", "yanked": false, "dependencies": ["nltk (>=2.0.3)", "PyYAML (>=3.09)"]}}}

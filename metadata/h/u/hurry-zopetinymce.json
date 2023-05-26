@@ -1,0 +1,1 @@
+{"name": "hurry-zopetinymce", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-10-13T12:50:49+00:00", "yanked": false, "dependencies": ["hurry.tinymce", "hurry.zoperesource", "setuptools"]}}}

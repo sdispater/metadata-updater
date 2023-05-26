@@ -1,0 +1,1 @@
+{"name": "mailprocess", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2008-11-12T21:19:39+00:00", "yanked": false, "dependencies": ["mailman"]}}}

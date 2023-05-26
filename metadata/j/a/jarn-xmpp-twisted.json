@@ -1,0 +1,1 @@
+{"name": "jarn-xmpp-twisted", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-11-28T15:23:14+00:00", "yanked": false, "dependencies": ["plone.app.testing ; extra == \"test\"", "setuptools", "Twisted", "wokkel (>0.6.3)"]}}}

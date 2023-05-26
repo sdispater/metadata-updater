@@ -1,0 +1,1 @@
+{"name": "jindo", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2010-11-11T02:20:58+00:00", "yanked": false, "dependencies": ["setuptools", "simplejson"]}}}

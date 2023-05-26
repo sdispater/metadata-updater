@@ -1,0 +1,1 @@
+{"name": "jinja2modern", "versions": {"0.3.0": {"version": "0.3.0", "python_constraint": "*", "released_at": "2013-01-04T21:55:10+00:00", "yanked": false, "dependencies": ["jinja2"]}, "0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2012-09-11T12:47:21+00:00", "yanked": false, "dependencies": ["jinja2"]}}}

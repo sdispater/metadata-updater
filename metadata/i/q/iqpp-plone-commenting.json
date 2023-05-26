@@ -1,0 +1,1 @@
+{"name": "iqpp-plone-commenting", "versions": {"0.5.beta.2": {"version": "0.5.beta.2", "python_constraint": "*", "released_at": "2007-10-23T07:36:53+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.5.beta.1": {"version": "0.5.beta.1", "python_constraint": "*", "released_at": "2007-10-07T16:14:59+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

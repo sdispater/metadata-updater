@@ -1,0 +1,1 @@
+{"name": "inqbus-plone-panorama", "versions": {"0.1b": {"version": "0.1b", "python_constraint": "*", "released_at": "2009-06-17T23:05:31+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

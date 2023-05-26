@@ -1,0 +1,1 @@
+{"name": "huffman-encoder-decoder", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2009-01-26T12:32:01+00:00", "yanked": false, "dependencies": []}, "0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2008-06-27T16:20:44+00:00", "yanked": false, "dependencies": []}}}

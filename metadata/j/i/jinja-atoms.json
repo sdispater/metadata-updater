@@ -1,0 +1,1 @@
+{"name": "jinja-atoms", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-04-09T11:18:38+00:00", "yanked": false, "dependencies": ["jinja2"]}}}

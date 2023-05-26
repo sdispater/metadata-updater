@@ -1,0 +1,1 @@
+{"name": "inqbus-folderlistings", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-05-19T14:30:42+00:00", "yanked": false, "dependencies": ["inqbus.plone.fastmemberproperties ; extra == \"all\"", "inqbus.plone.fastmemberproperties ; extra == \"tests\"", "setuptools"]}}}

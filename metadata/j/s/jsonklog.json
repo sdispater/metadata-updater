@@ -1,0 +1,1 @@
+{"name": "jsonklog", "versions": {"0.15.0": {"version": "0.15.0", "python_constraint": "*", "released_at": "2012-06-26T06:52:19+00:00", "yanked": false, "dependencies": ["anyjson", "pymongo", "requests"]}}}

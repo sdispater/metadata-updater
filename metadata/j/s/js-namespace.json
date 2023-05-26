@@ -1,0 +1,1 @@
+{"name": "js-namespace", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-05-15T08:33:37+00:00", "yanked": false, "dependencies": ["fanstatic", "js.jquery", "setuptools"]}}}

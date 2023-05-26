@@ -1,0 +1,1 @@
+{"name": "js-smoke", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-08T13:39:19+00:00", "yanked": false, "dependencies": ["fanstatic", "setuptools"]}}}

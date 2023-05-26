@@ -1,0 +1,1 @@
+{"name": "iskra-audiofile", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-07-10T11:06:52+00:00", "yanked": false, "dependencies": ["hachoir_metadata", "hachoir_parser", "plone.app.dexterity", "plone.app.multilingual", "plone.multilingualbehavior", "plone.namedfile", "setuptools"]}}}

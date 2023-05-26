@@ -1,0 +1,1 @@
+{"name": "kupu-mashups", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-03-02T19:56:03+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

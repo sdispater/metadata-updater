@@ -1,0 +1,1 @@
+{"name": "isotoma-buildout-logger", "versions": {"0.0.0": {"version": "0.0.0", "python_constraint": "*", "released_at": "2010-07-27T01:15:40+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

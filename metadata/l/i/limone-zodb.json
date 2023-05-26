@@ -1,0 +1,1 @@
+{"name": "limone-zodb", "versions": {"0.1a2": {"version": "0.1a2", "python_constraint": "*", "released_at": "2011-08-09T18:21:23+00:00", "yanked": false, "dependencies": ["limone", "unittest2", "ZODB3"]}, "0.1a1": {"version": "0.1a1", "python_constraint": "*", "released_at": "2011-07-16T20:38:22+00:00", "yanked": false, "dependencies": ["limone", "unittest2", "ZODB3"]}}}

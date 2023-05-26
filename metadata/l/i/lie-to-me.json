@@ -1,0 +1,1 @@
+{"name": "lie-to-me", "versions": {"0.0.1b": {"version": "0.0.1b", "python_constraint": "*", "released_at": "2011-08-03T19:39:06+00:00", "yanked": false, "dependencies": ["pyvows"]}}}

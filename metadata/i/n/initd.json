@@ -1,0 +1,1 @@
+{"name": "initd", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2008-08-18T00:33:15+00:00", "yanked": false, "dependencies": ["daemon (>=1.0.1)"]}}}

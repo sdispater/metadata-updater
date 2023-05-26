@@ -1,0 +1,1 @@
+{"name": "linaro-graphics-dashboard", "versions": {"2012.7": {"version": "2012.7", "python_constraint": "*", "released_at": "2012-07-23T19:12:22+00:00", "yanked": false, "dependencies": ["lava-server (>=0.2)"]}}}

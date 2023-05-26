@@ -1,0 +1,1 @@
+{"name": "knyfe", "versions": {"0.4.2": {"version": "0.4.2", "python_constraint": "*", "released_at": "2012-07-08T16:12:20+00:00", "yanked": false, "dependencies": ["numpy", "simplejson", "tablib"]}}}

@@ -1,0 +1,1 @@
+{"name": "iscorpio-plonepm", "versions": {"2.0beta2-r382": {"version": "2.0beta2-r382", "python_constraint": "*", "released_at": "2010-04-15T16:00:46+00:00", "yanked": false, "dependencies": ["iscorpio.themes.redmaple", "setuptools"]}}}

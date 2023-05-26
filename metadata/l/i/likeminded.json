@@ -1,0 +1,1 @@
+{"name": "likeminded", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2011-04-14T02:23:32+00:00", "yanked": false, "dependencies": ["httplib2 (==0.6.0)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-04-14T00:54:02+00:00", "yanked": false, "dependencies": []}}}

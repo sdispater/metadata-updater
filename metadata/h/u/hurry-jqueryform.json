@@ -1,0 +1,1 @@
+{"name": "hurry-jqueryform", "versions": {"2.47.1": {"version": "2.47.1", "python_constraint": "*", "released_at": "2010-09-06T19:17:24+00:00", "yanked": false, "dependencies": ["hurry.jquery", "hurry.resource (>=0.10)", "hurry.zoperesource ; extra == \"zopesupport\"", "setuptools"]}}}

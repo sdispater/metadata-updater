@@ -1,0 +1,1 @@
+{"name": "js-rickshaw", "versions": {"1.1.2": {"version": "1.1.2", "python_constraint": "*", "released_at": "2012-11-16T23:35:55+00:00", "yanked": false, "dependencies": ["fanstatic", "js.d3"]}}}

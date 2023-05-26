@@ -1,0 +1,1 @@
+{"name": "koansys-recipe-elasticsearch", "versions": {"1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2013-01-17T11:52:05+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout", "zc.recipe.egg"]}}}

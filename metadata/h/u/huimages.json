@@ -1,0 +1,1 @@
+{"name": "huimages", "versions": {"2.2": {"version": "2.2", "python_constraint": "*", "released_at": "2010-04-18T12:42:02+00:00", "yanked": false, "dependencies": ["boto", "couchdb", "huTools"]}, "2.01": {"version": "2.01", "python_constraint": "*", "released_at": "2010-03-23T21:31:17+00:00", "yanked": false, "dependencies": ["boto", "couchdb", "huTools"]}}}

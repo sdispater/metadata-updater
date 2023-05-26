@@ -1,0 +1,1 @@
+{"name": "jinja2-hamlpy", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-08-04T19:08:18+00:00", "yanked": false, "dependencies": ["hamlpy (>=0.80)", "Jinja2 (>=2.6)", "Pygments (>=1.5)"]}}}
