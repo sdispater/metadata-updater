@@ -1,0 +1,1 @@
+{"name": "js-css3mediaqueries", "versions": {"0.9": {"version": "0.9", "python_constraint": "*", "released_at": "2013-07-23T12:02:34+00:00", "yanked": false, "dependencies": ["fanstatic", "setuptools"]}}}

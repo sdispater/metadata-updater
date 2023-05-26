@@ -1,0 +1,1 @@
+{"name": "codedep", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2013-07-18T22:29:02+00:00", "yanked": false, "dependencies": []}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-07-18T00:46:15+00:00", "yanked": false, "dependencies": []}}}

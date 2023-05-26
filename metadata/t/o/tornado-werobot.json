@@ -1,0 +1,1 @@
+{"name": "tornado-werobot", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2013-07-19T13:04:52+00:00", "yanked": false, "dependencies": ["Tornado", "WeRoBot (>=0.3.5)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-04-20T07:12:39+00:00", "yanked": false, "dependencies": ["Tornado", "WeRoBot (>=0.3.5)"]}}}

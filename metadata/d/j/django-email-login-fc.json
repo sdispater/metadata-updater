@@ -1,0 +1,1 @@
+{"name": "django-email-login-fc", "versions": {"0.3.2": {"version": "0.3.2", "python_constraint": "*", "released_at": "2013-04-23T12:23:48+00:00", "yanked": false, "dependencies": []}, "0.3.1": {"version": "0.3.1", "python_constraint": "*", "released_at": "2013-04-19T12:12:12+00:00", "yanked": false, "dependencies": []}}}

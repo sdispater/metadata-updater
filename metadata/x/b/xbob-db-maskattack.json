@@ -1,0 +1,1 @@
+{"name": "xbob-db-maskattack", "versions": {"1.0.0a0": {"version": "1.0.0a0", "python_constraint": "*", "released_at": "2013-07-18T10:46:48+00:00", "yanked": false, "dependencies": ["bob (>=1.1.0)", "setuptools"]}}}

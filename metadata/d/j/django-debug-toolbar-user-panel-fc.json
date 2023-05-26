@@ -1,0 +1,1 @@
+{"name": "django-debug-toolbar-user-panel-fc", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2013-05-08T14:48:21+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-05-08T14:36:06+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "fdleakfinder", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2013-07-23T05:21:19+00:00", "yanked": false, "dependencies": ["pyutil"]}, "0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2013-07-09T21:21:24+00:00", "yanked": false, "dependencies": []}}}

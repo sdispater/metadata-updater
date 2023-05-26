@@ -1,0 +1,1 @@
+{"name": "fuxi", "versions": {"1.0-rc.dev": {"version": "1.0-rc.dev", "python_constraint": "*", "released_at": "2009-09-06T04:13:38+00:00", "yanked": false, "dependencies": ["rdflib (<3a)"]}}}

@@ -1,0 +1,1 @@
+{"name": "xbob-example-lda", "versions": {"1.0.3": {"version": "1.0.3", "python_constraint": "*", "released_at": "2013-07-19T13:49:36+00:00", "yanked": false, "dependencies": ["bob (>=1.1.0)", "setuptools"]}, "1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2013-02-19T16:46:42+00:00", "yanked": false, "dependencies": ["bob (>=1.1.0)", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "django-siteuser", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2013-07-18T09:18:04+00:00", "yanked": false, "dependencies": ["django-celery", "socialoauth"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-06-21T15:15:35+00:00", "yanked": false, "dependencies": ["django-celery", "socialoauth"]}}}
