@@ -1,0 +1,1 @@
+{"name": "python-fusiontables", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-07-18T08:41:56+00:00", "yanked": false, "dependencies": ["httplib2", "oauth2"]}}}

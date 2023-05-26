@@ -1,0 +1,1 @@
+{"name": "pyramid-promosite", "versions": {"0.0": {"version": "0.0", "python_constraint": "*", "released_at": "2012-11-21T08:24:10+00:00", "yanked": false, "dependencies": ["Babel", "lingua", "pyramid", "pyramid_debugtoolbar", "pyramid_jinja2", "pyramid_tm", "PyRSS2Gen", "pytils", "SQLAlchemy", "transaction", "waitress", "zope.sqlalchemy"]}}}

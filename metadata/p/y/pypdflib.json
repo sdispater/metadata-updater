@@ -1,0 +1,1 @@
+{"name": "pypdflib", "versions": {"0.1.a3": {"version": "0.1.a3", "python_constraint": "*", "released_at": "2011-03-05T12:30:00+00:00", "yanked": false, "dependencies": ["PIL", "setuptools"]}, "0.1.a1": {"version": "0.1.a1", "python_constraint": "*", "released_at": "2010-10-09T12:01:31+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

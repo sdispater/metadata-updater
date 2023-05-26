@@ -1,0 +1,1 @@
+{"name": "python-webid", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-04-13T17:08:55+00:00", "yanked": false, "dependencies": ["html5lib", "M2Crypto (>=0.20.2)", "rdfextras", "rdflib (>=3.2.0)", "requests"]}}}

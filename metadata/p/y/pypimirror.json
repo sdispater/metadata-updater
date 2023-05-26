@@ -1,0 +1,1 @@
+{"name": "pypimirror", "versions": {"1.0.16.4": {"version": "1.0.16.4", "python_constraint": "*", "released_at": "2012-06-13T00:12:45+00:00", "yanked": false, "dependencies": ["BeautifulSoup", "interlude ; extra == \"test\"", "setuptools", "zc.buildout ; extra == \"test\"", "zc.lockfile", "zope.testing ; extra == \"test\""]}}}

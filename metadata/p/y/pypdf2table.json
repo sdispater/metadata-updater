@@ -1,0 +1,1 @@
+{"name": "pypdf2table", "versions": {"0.2.2": {"version": "0.2.2", "python_constraint": "*", "released_at": "2013-04-25T21:25:30+00:00", "yanked": false, "dependencies": ["BeautifulSoup", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "pylicense", "versions": {"1": {"version": "1", "python_constraint": "*", "released_at": "2013-02-03T12:54:25+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

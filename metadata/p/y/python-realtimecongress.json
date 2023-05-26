@@ -1,0 +1,1 @@
+{"name": "python-realtimecongress", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-02-05T21:37:01+00:00", "yanked": false, "dependencies": ["requests", "simplejson (>=1.8)"]}}}

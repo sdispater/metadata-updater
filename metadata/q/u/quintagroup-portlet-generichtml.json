@@ -1,0 +1,1 @@
+{"name": "quintagroup-portlet-generichtml", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-05-19T15:24:38+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

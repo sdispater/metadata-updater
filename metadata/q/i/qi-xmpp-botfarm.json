@@ -1,0 +1,1 @@
+{"name": "qi-xmpp-botfarm", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-09-17T09:00:46+00:00", "yanked": false, "dependencies": ["elementtree", "setuptools"]}}}

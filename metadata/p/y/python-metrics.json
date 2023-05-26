@@ -1,0 +1,1 @@
+{"name": "python-metrics", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-01-05T22:05:05+00:00", "yanked": false, "dependencies": ["redis (>=2.4.10)"]}}}

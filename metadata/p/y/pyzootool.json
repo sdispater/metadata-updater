@@ -1,0 +1,1 @@
+{"name": "pyzootool", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-04-16T15:08:18+00:00", "yanked": false, "dependencies": ["httplib2"]}}}

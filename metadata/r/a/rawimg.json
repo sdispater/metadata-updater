@@ -1,0 +1,1 @@
+{"name": "rawimg", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-05-05T15:10:51+00:00", "yanked": false, "dependencies": ["PIL (>=1.1.7)"]}}}

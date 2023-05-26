@@ -1,0 +1,1 @@
+{"name": "pynfdump", "versions": {"0.3dev": {"version": "0.3dev", "python_constraint": "*", "released_at": "2009-03-30T19:54:34+00:00", "yanked": false, "dependencies": ["IPy", "python-dateutil"]}}}

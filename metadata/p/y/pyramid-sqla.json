@@ -1,0 +1,1 @@
+{"name": "pyramid-sqla", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-01-20T07:53:55+00:00", "yanked": false, "dependencies": ["pyramid", "repoze.tm2", "SQLAlchemy", "transaction", "zope.sqlalchemy"]}}}

@@ -1,0 +1,1 @@
+{"name": "python-sshtail", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2011-09-19T18:16:34+00:00", "yanked": false, "dependencies": ["paramiko"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-08-22T12:35:41+00:00", "yanked": false, "dependencies": ["paramiko"]}}}

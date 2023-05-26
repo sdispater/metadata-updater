@@ -1,0 +1,1 @@
+{"name": "python-cassandra", "versions": {"0.6.1": {"version": "0.6.1", "python_constraint": "*", "released_at": "2010-04-29T17:35:59+00:00", "yanked": false, "dependencies": ["Thrift"]}, "0.5.0": {"version": "0.5.0", "python_constraint": "*", "released_at": "2010-04-29T17:31:49+00:00", "yanked": false, "dependencies": ["Thrift"]}}}

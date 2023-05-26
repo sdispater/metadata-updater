@@ -1,0 +1,1 @@
+{"name": "ratatosk-ext-scilife", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-04-17T18:44:26+00:00", "yanked": false, "dependencies": ["cutadapt", "drmaa (>=0.5)", "luigi", "nose", "ratatosk (>=0.1.0)"]}}}

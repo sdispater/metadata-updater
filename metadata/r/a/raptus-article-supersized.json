@@ -1,0 +1,1 @@
+{"name": "raptus-article-supersized", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2012-09-12T14:17:14+00:00", "yanked": false, "dependencies": ["raptus.article.nesting", "raptus.supersized", "setuptools"]}}}

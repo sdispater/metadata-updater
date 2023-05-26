@@ -1,0 +1,1 @@
+{"name": "python-sikuli-client", "versions": {"0.1.9": {"version": "0.1.9", "python_constraint": "*", "released_at": "2013-05-09T15:58:27+00:00", "yanked": false, "dependencies": ["jython-sikuli-server"]}}}

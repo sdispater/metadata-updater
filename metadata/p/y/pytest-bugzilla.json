@@ -1,0 +1,1 @@
+{"name": "pytest-bugzilla", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-05-05T21:47:23+00:00", "yanked": false, "dependencies": ["py (>=1.1.1)", "PyZilla"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-05-05T21:07:55+00:00", "yanked": false, "dependencies": ["py (>=1.1.1)", "PyZilla"]}}}

@@ -1,0 +1,1 @@
+{"name": "raptus-workflownotificationtemplates", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-10-30T16:50:15+00:00", "yanked": false, "dependencies": ["raptus.workflownotification", "setuptools"]}}}

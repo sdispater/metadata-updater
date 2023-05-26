@@ -1,0 +1,1 @@
+{"name": "qi-grsplitter", "versions": {"1.1.1": {"version": "1.1.1", "python_constraint": "*", "released_at": "2008-07-02T09:29:13+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2008-07-02T09:09:47+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

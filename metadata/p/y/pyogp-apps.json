@@ -1,0 +1,1 @@
+{"name": "pyogp-apps", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2010-01-09T08:24:11+00:00", "yanked": false, "dependencies": ["pyogp.lib.client (==0.1dev)", "setuptools"]}}}

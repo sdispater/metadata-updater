@@ -1,0 +1,1 @@
+{"name": "quantumcore-exceptions", "versions": {"0.1.1dev": {"version": "0.1.1dev", "python_constraint": "*", "released_at": "2010-04-06T15:58:32+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2010-04-06T15:49:49+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

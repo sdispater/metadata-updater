@@ -1,0 +1,1 @@
+{"name": "python-utilikilt", "versions": {"0.3b5": {"version": "0.3b5", "python_constraint": "*", "released_at": "2012-11-14T01:04:26+00:00", "yanked": false, "dependencies": ["chardet (>=2.0)"]}, "0.2b4": {"version": "0.2b4", "python_constraint": "*", "released_at": "2012-11-02T21:39:09+00:00", "yanked": false, "dependencies": []}}}

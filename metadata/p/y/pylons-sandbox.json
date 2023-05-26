@@ -1,0 +1,1 @@
+{"name": "pylons-sandbox", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2007-09-30T15:36:28+00:00", "yanked": false, "dependencies": ["zc.buildout (>=1.0.0b30)", "zc.recipe.egg"]}}}

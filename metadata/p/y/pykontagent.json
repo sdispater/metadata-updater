@@ -1,0 +1,1 @@
+{"name": "pykontagent", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2009-12-29T23:33:57+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-10-15T09:46:36+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

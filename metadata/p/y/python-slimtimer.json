@@ -1,0 +1,1 @@
+{"name": "python-slimtimer", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2010-04-29T06:56:11+00:00", "yanked": false, "dependencies": ["elementtree (>=1.2.6-20050316)"]}}}

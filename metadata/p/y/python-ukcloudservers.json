@@ -1,0 +1,1 @@
+{"name": "python-ukcloudservers", "versions": {"1.2": {"version": "1.2", "python_constraint": "*", "released_at": "2011-11-17T16:09:28+00:00", "yanked": false, "dependencies": ["argparse", "httplib2", "prettytable"]}}}

@@ -1,0 +1,1 @@
+{"name": "qi-xmpp-client", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-09-17T08:55:12+00:00", "yanked": false, "dependencies": ["setuptools", "twisted"]}}}

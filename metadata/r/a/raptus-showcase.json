@@ -1,0 +1,1 @@
+{"name": "raptus-showcase", "versions": {"2.0b2": {"version": "2.0b2", "python_constraint": "*", "released_at": "2011-03-07T16:49:01+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.5a1": {"version": "0.5a1", "python_constraint": "*", "released_at": "2010-07-28T16:55:08+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

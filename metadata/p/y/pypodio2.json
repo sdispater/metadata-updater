@@ -1,0 +1,1 @@
+{"name": "pypodio2", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-01-30T16:32:45+00:00", "yanked": false, "dependencies": ["httplib2"]}}}

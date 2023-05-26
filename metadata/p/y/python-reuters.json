@@ -1,0 +1,1 @@
+{"name": "python-reuters", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-02-27T15:42:01+00:00", "yanked": false, "dependencies": ["Jinja2"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-27T15:37:02+00:00", "yanked": false, "dependencies": ["Jinja2"]}}}

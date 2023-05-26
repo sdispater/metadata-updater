@@ -1,0 +1,1 @@
+{"name": "raptus-torii-ipython", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2010-10-27T20:27:07+00:00", "yanked": false, "dependencies": ["ipython", "setuptools", "Twisted (>=8.0.1)"]}}}

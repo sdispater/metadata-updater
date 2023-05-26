@@ -1,0 +1,1 @@
+{"name": "raptus-filesystemindex", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2010-10-21T16:36:01+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

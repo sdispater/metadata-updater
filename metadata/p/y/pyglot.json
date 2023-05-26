@@ -1,0 +1,1 @@
+{"name": "pyglot", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-07-17T19:16:13+00:00", "yanked": false, "dependencies": ["simplejson (>=1.8)"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-05-09T05:49:09+00:00", "yanked": false, "dependencies": ["simplejson (>=1.8)"]}}}

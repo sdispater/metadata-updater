@@ -1,0 +1,1 @@
+{"name": "rebecca-sqla", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-14T14:00:31+00:00", "yanked": false, "dependencies": ["coverage ; extra == \"testing\"", "pyramid", "pyramid ; extra == \"testing\"", "pytest ; extra == \"testing\"", "pytest-cov ; extra == \"testing\"", "sqlalchemy", "sqlalchemy ; extra == \"testing\""]}}}

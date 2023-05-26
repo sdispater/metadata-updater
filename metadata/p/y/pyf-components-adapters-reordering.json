@@ -1,0 +1,1 @@
+{"name": "pyf-components-adapters-reordering", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-03-21T14:01:50+00:00", "yanked": false, "dependencies": ["pyf.componentized (>=2.0)", "pyf.dataflow (>=2.0.1dev)", "pyf.transport (>=2.0.1dev)"]}}}

@@ -1,0 +1,1 @@
+{"name": "pyverify", "versions": {"0.8.1": {"version": "0.8.1", "python_constraint": ">= 2.7", "released_at": "2011-02-05T18:40:59+00:00", "yanked": false, "dependencies": ["distutils2"]}, "0.8": {"version": "0.8", "python_constraint": ">= 2.7", "released_at": "2011-01-31T05:48:45+00:00", "yanked": false, "dependencies": ["distutils2"]}}}

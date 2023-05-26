@@ -1,0 +1,1 @@
+{"name": "quintagroup-ploneformgen-readonlystringfield", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-03-24T15:53:28+00:00", "yanked": false, "dependencies": ["Products.PloneFormGen", "setuptools"]}}}

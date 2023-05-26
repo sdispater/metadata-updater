@@ -1,0 +1,1 @@
+{"name": "quick-framework", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-11-12T05:33:24+00:00", "yanked": false, "dependencies": ["Flask (>=0.8)", "quick_orm (>=0.2.2)", "toolkit_library (>=0.3.1)"]}}}

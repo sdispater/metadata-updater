@@ -1,0 +1,1 @@
+{"name": "pymisc", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-11-18T07:14:57+00:00", "yanked": false, "dependencies": ["config"]}}}

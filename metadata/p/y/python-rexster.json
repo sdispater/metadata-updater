@@ -1,0 +1,1 @@
+{"name": "python-rexster", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-07-13T00:06:35+00:00", "yanked": false, "dependencies": ["requests", "simplejson"]}}}

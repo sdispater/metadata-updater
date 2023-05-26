@@ -1,0 +1,1 @@
+{"name": "pypgen", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2013-01-29T20:49:16+00:00", "yanked": false, "dependencies": ["numpy (>=1.6.1)", "pysam (>=0.7.2)"]}, "0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2013-01-29T02:07:45+00:00", "yanked": false, "dependencies": ["numpy (>=1.6.1)", "pysam (>=0.7.2)"]}}}

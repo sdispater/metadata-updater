@@ -1,0 +1,1 @@
+{"name": "python-dbusx", "versions": {"0.9": {"version": "0.9", "python_constraint": "*", "released_at": "2013-02-23T22:53:49+00:00", "yanked": false, "dependencies": ["setuptools", "six"]}}}

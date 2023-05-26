@@ -1,0 +1,1 @@
+{"name": "pyramid-asbool", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2013-04-18T03:24:41+00:00", "yanked": false, "dependencies": ["pyramid"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-04-18T03:18:25+00:00", "yanked": false, "dependencies": ["pyramid"]}}}

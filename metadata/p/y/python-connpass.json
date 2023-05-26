@@ -1,0 +1,1 @@
+{"name": "python-connpass", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-19T17:41:23+00:00", "yanked": false, "dependencies": ["mock ; extra == \"testing\"", "pytest ; extra == \"testing\"", "pytest-cov ; extra == \"testing\"", "requests", "six", "testfixtures ; extra == \"testing\""]}}}

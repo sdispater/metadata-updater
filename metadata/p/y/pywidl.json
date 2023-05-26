@@ -1,0 +1,1 @@
+{"name": "pywidl", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-03-31T16:58:08+00:00", "yanked": false, "dependencies": ["mako (>=0.5)", "ply (>=3.4)"]}}}

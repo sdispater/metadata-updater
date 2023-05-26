@@ -1,0 +1,1 @@
+{"name": "pyramid-flatpages", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-06-26T05:28:38+00:00", "yanked": false, "dependencies": ["markdown", "pyramid", "repoze.tm2 (>=1.0b1)", "WebError"]}}}

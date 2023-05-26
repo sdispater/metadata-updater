@@ -1,0 +1,1 @@
+{"name": "qubic-sphinx-graphvizinclude", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-02-28T17:14:49+00:00", "yanked": false, "dependencies": ["sphinx"]}}}

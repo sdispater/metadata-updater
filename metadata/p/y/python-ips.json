@@ -1,0 +1,1 @@
+{"name": "python-ips", "versions": {"2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2013-02-17T17:40:43+00:00", "yanked": false, "dependencies": ["docopt"]}, "1.7": {"version": "1.7", "python_constraint": "*", "released_at": "2012-11-17T22:59:31+00:00", "yanked": false, "dependencies": ["docopt"]}}}

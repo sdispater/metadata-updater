@@ -1,0 +1,1 @@
+{"name": "raisin-recipe-load", "versions": {"1.1.2": {"version": "1.1.2", "python_constraint": "*", "released_at": "2012-08-23T09:36:35+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

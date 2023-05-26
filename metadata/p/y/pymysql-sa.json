@@ -1,0 +1,1 @@
+{"name": "pymysql-sa", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-12-01T20:37:46+00:00", "yanked": false, "dependencies": ["pymysql (>=0.3)", "SQLAlchemy (>=0.6.4)"]}}}

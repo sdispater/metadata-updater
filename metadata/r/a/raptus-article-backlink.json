@@ -1,0 +1,1 @@
+{"name": "raptus-article-backlink", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2011-06-03T09:51:22+00:00", "yanked": false, "dependencies": ["raptus.article.core", "raptus.backlink", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "pyramid-openid", "versions": {"0.3.4": {"version": "0.3.4", "python_constraint": "*", "released_at": "2011-01-13T09:44:42+00:00", "yanked": false, "dependencies": ["pyramid", "python-openid"]}}}

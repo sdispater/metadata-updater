@@ -1,0 +1,1 @@
+{"name": "pyroxy", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-10-23T20:58:39+00:00", "yanked": false, "dependencies": ["bottle", "lxml"]}}}

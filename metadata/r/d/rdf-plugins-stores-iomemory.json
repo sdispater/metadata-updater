@@ -1,0 +1,1 @@
+{"name": "rdf-plugins-stores-iomemory", "versions": {"0.9a1": {"version": "0.9a1", "python_constraint": "*", "released_at": "2008-04-06T22:55:44+00:00", "yanked": false, "dependencies": ["rdf (>=0.9a4)"]}}}

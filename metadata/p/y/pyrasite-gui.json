@@ -1,0 +1,1 @@
+{"name": "pyrasite-gui", "versions": {"2.0beta7": {"version": "2.0beta7", "python_constraint": "*", "released_at": "2012-03-20T22:41:06+00:00", "yanked": false, "dependencies": ["meliae", "psutil", "pycallgraph", "pyrasite"]}}}

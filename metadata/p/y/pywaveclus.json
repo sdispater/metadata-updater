@@ -1,0 +1,1 @@
+{"name": "pywaveclus", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2012-04-10T23:34:30+00:00", "yanked": false, "dependencies": ["nose (>=0.11)", "numpy (>=1.5.1)", "pywavelets (>=0.2.0)", "scikits.audiolab (>=0.11.0)", "scikits.learn (>=0.8.1)", "scipy (>=0.8.0)", "tables (>=2.1.2)"]}}}

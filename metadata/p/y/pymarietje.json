@@ -1,0 +1,1 @@
+{"name": "pymarietje", "versions": {"0.1.0a2": {"version": "0.1.0a2", "python_constraint": "*", "released_at": "2011-05-11T22:52:44+00:00", "yanked": false, "dependencies": ["docutils (>=0.3)", "mutagen (>=1.20)", "pyyaml (>=3.00)"]}}}
