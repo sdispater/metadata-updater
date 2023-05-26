@@ -1,0 +1,1 @@
+{"name": "security-rbac", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-11-07T12:57:30+00:00", "yanked": false, "dependencies": ["security (>=1.0)"]}}}

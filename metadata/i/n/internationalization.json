@@ -1,0 +1,1 @@
+{"name": "internationalization", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-11-07T12:57:10+00:00", "yanked": false, "dependencies": ["ally-api (>=1.0)", "ally-plugin (>=1.0)", "support-cdm (>=1.0)", "support-sqlalchemy (>=1.0)"]}}}

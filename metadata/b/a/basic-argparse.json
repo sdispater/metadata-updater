@@ -1,0 +1,1 @@
+{"name": "basic-argparse", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2013-11-21T14:52:56+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-11-21T04:07:01+00:00", "yanked": false, "dependencies": []}}}

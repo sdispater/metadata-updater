@@ -1,0 +1,1 @@
+{"name": "tomcom-browsers-tcconfig", "versions": {"4.3.0.0": {"version": "4.3.0.0", "python_constraint": "*", "released_at": "2013-11-09T09:01:21+00:00", "yanked": false, "dependencies": ["collective.testcaselayer ; extra == \"test\"", "setuptools"]}}}

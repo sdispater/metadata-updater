@@ -1,0 +1,1 @@
+{"name": "hockeystreams", "versions": {"0.2.4": {"version": "0.2.4", "python_constraint": "*", "released_at": "2013-11-08T04:18:43+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

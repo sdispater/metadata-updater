@@ -1,0 +1,1 @@
+{"name": "myprefetch", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-11-10T07:18:21+00:00", "yanked": false, "dependencies": ["MySQL-python (<=1.2.3)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-11-10T03:08:44+00:00", "yanked": false, "dependencies": ["MySQL-python"]}}}

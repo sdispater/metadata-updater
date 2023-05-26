@@ -1,0 +1,1 @@
+{"name": "stillson", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-11-07T16:36:04+00:00", "yanked": false, "dependencies": ["mako (>=0.8.0)"]}}}

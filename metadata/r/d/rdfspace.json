@@ -1,0 +1,1 @@
+{"name": "rdfspace", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-08-15T15:41:56+00:00", "yanked": false, "dependencies": ["cython", "scipy", "sparsesvd"]}}}

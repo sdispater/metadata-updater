@@ -1,0 +1,1 @@
+{"name": "gitcoach", "versions": {"0.2.2": {"version": "0.2.2", "python_constraint": "*", "released_at": "2013-11-10T04:12:11+00:00", "yanked": false, "dependencies": ["git2json"]}}}
