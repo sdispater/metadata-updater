@@ -1,0 +1,1 @@
+{"name": "collective-geo-exif", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-08-30T14:14:33+00:00", "yanked": false, "dependencies": ["collective.geo.contentlocations", "collective.geo.settings", "setuptools"]}}}

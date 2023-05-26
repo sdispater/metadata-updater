@@ -1,0 +1,1 @@
+{"name": "python-salesforce", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2013-08-29T19:37:48+00:00", "yanked": false, "dependencies": ["bottle", "CherryPy", "pyOpenSSL", "PyYAML", "requests-oauthlib"]}}}

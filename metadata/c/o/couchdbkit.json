@@ -1,0 +1,1 @@
+{"name": "couchdbkit", "versions": {"0.6.5": {"version": "0.6.5", "python_constraint": "*", "released_at": "2013-08-30T20:35:20+00:00", "yanked": false, "dependencies": ["restkit (>=4.2.2)"]}, "0.6.4": {"version": "0.6.4", "python_constraint": "*", "released_at": "2013-02-09T20:53:53+00:00", "yanked": false, "dependencies": ["restkit (>=4.2.1)"]}}}

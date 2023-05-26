@@ -1,0 +1,1 @@
+{"name": "tw2-protovis-core", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2013-08-26T16:03:05+00:00", "yanked": false, "dependencies": ["mako", "tw2.core (>=2.0.6)"]}}}

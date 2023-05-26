@@ -1,0 +1,1 @@
+{"name": "django-bootstrap-staticfiles", "versions": {"3.0.0.1": {"version": "3.0.0.1", "python_constraint": "*", "released_at": "2013-08-28T21:43:42+00:00", "yanked": false, "dependencies": []}, "3.0.0": {"version": "3.0.0", "python_constraint": "*", "released_at": "2013-08-28T21:39:33+00:00", "yanked": false, "dependencies": []}}}

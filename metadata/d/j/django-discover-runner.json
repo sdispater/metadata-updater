@@ -1,0 +1,1 @@
+{"name": "django-discover-runner", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-09-11T15:36:05+00:00", "yanked": false, "dependencies": []}, "0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2013-04-12T16:51:00+00:00", "yanked": false, "dependencies": []}}}

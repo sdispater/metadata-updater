@@ -1,0 +1,1 @@
+{"name": "pyresizeimage", "versions": {"0.9.6": {"version": "0.9.6", "python_constraint": "*", "released_at": "2013-08-27T11:12:33+00:00", "yanked": false, "dependencies": ["PIL"]}, "0.9.5": {"version": "0.9.5", "python_constraint": "*", "released_at": "2013-04-14T17:52:48+00:00", "yanked": false, "dependencies": ["PIL"]}}}

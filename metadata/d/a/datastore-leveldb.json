@@ -1,0 +1,1 @@
+{"name": "datastore-leveldb", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-08-26T05:01:42+00:00", "yanked": false, "dependencies": ["datastore (>=0.3.3)", "leveldb (>=0.19)"]}}}

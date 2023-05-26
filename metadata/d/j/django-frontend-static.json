@@ -1,0 +1,1 @@
+{"name": "django-frontend-static", "versions": {"1.2.0": {"version": "1.2.0", "python_constraint": "*", "released_at": "2013-08-29T17:40:38+00:00", "yanked": false, "dependencies": []}, "1.1.2": {"version": "1.1.2", "python_constraint": "*", "released_at": "2013-08-29T16:59:19+00:00", "yanked": false, "dependencies": []}}}

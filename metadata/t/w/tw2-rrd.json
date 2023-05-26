@@ -1,0 +1,1 @@
+{"name": "tw2-rrd", "versions": {"2.1.0": {"version": "2.1.0", "python_constraint": "*", "released_at": "2013-08-26T17:32:43+00:00", "yanked": false, "dependencies": ["pyrrd (==0.0.7)", "tw2.jit", "tw2.jqplugins.flot", "tw2.jqplugins.jqplot", "tw2.protovis.conventional", "tw2.protovis.custom", "tw2.protovis.hierarchies"]}}}

@@ -1,0 +1,1 @@
+{"name": "nobel", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-08-30T14:20:21+00:00", "yanked": false, "dependencies": ["requests (>=0.13.3)"]}}}

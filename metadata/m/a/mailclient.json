@@ -1,0 +1,1 @@
+{"name": "mailclient", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2013-08-26T17:35:39+00:00", "yanked": false, "dependencies": ["python-magic"]}, "0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-08-08T04:42:09+00:00", "yanked": false, "dependencies": []}}}

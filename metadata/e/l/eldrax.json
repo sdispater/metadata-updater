@@ -1,0 +1,1 @@
+{"name": "eldrax", "versions": {"0.1a2": {"version": "0.1a2", "python_constraint": "*", "released_at": "2013-08-29T16:22:26+00:00", "yanked": false, "dependencies": ["requests (==1.2.3)"]}, "0.1a1": {"version": "0.1a1", "python_constraint": "*", "released_at": "2013-03-18T05:48:43+00:00", "yanked": false, "dependencies": ["requests (==1.1.0)"]}}}

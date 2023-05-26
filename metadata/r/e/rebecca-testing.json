@@ -1,0 +1,1 @@
+{"name": "rebecca-testing", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-08-27T15:30:59+00:00", "yanked": false, "dependencies": ["pyramid", "pytest"]}}}

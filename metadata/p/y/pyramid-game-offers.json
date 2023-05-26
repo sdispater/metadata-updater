@@ -1,0 +1,1 @@
+{"name": "pyramid-game-offers", "versions": {"0.2.13": {"version": "0.2.13", "python_constraint": "*", "released_at": "2013-08-26T21:57:11+00:00", "yanked": false, "dependencies": ["pyramid"]}, "0.1.9": {"version": "0.1.9", "python_constraint": "*", "released_at": "2013-08-21T18:44:30+00:00", "yanked": false, "dependencies": ["pyramid"]}}}

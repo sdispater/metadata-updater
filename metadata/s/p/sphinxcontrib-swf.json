@@ -1,0 +1,1 @@
+{"name": "sphinxcontrib-swf", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2013-08-25T04:35:42+00:00", "yanked": false, "dependencies": ["Sphinx (>=0.6)"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-08-24T10:29:16+00:00", "yanked": false, "dependencies": ["Sphinx (>=0.6)"]}}}
