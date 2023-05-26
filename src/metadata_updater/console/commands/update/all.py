@@ -10,6 +10,7 @@ class UpdateAllCommand(Command):
     options = [
         option("ignore-serials", flag=True),
         option("limit", flag=False, value_required=True),
+        option("concurrency", flag=False, value_required=True, default=10),
     ]
 
     def handle(self) -> int:
@@ -21,6 +22,10 @@ class UpdateAllCommand(Command):
             limit = int(self.option("limit"))
 
         with Updater(Path.cwd(), io=self._io) as updater:
-            updater.full_update(ignore_serials=ignore_serials, limit=limit)
+            updater.full_update(
+                ignore_serials=ignore_serials,
+                limit=limit,
+                concurrency=int(self.option("concurrency")),
+            )
 
         return 0

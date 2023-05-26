@@ -38,7 +38,7 @@ jobs:
             ${{ runner.os }}-package-cache-
 
       - run: poetry install
-      - run: poetry run updater update all --limit ${{ inputs.limit || '1000' }} -vv
+      - run: poetry run updater update all --limit ${{ inputs.limit || '1000' }} )) --concurrency 20 -vv
 
       - uses: EndBug/add-and-commit@v9
         with:

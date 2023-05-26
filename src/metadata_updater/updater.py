@@ -1,18 +1,22 @@
 from __future__ import annotations
 
 import json
+import logging
 import operator
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import asdict
 from html.parser import HTMLParser
 from typing import TYPE_CHECKING
 
 import pendulum
 from cleo.io.null_io import NullIO
+from cleo.ui.progress_bar import ProgressBar
 from packaging.utils import canonicalize_name
 from poetry.factory import Factory
 from poetry.repositories.exceptions import PackageNotFound
 from poetry.repositories.pypi_repository import PyPiRepository
 from poetry.repositories.repository_pool import RepositoryPool
+from tqdm import tqdm
 
 from metadata_updater.changelog import Changelog
 from metadata_updater.entities.package_info import PackageInfo
@@ -77,8 +81,13 @@ class Updater:
         return self._serials
 
     def full_update(
-        self, ignore_serials: bool = False, limit: int | None = None
+        self,
+        ignore_serials: bool = False,
+        limit: int | None = None,
+        concurrency: int = 10,
     ) -> None:
+        logging.disable(logging.WARNING)
+
         self._io.write_line(f"Executing full update")
 
         if ignore_serials or not self.serials:
@@ -101,25 +110,26 @@ class Updater:
 
         self._io.write_line(f"Updating {total} packages")
 
-        for i, package in enumerate(updated_packages):
-            self._io.write_line(f"• {i + 1:{padding}}/{total} - <info>{package}</>")
-            self.update(package, "*")
-            self._io.write_line("")
+        with ThreadPoolExecutor(max_workers=concurrency) as executor:
+            iterator = executor.map(lambda p: self.update(p, "*"), updated_packages)
+
+            for _ in tqdm(iterator, total=total):
+                continue
 
         return 0
 
     def update(self, package_name: str, constraint: str) -> int:
         package_name = canonicalize_name(package_name)
-        self._io.write_line(
-            f"Updating metadata for package <info>{package_name}</> for versions matching constraint <comment>{constraint}</>"
-        )
+        # self._io.write_line(
+        #    f"Updating metadata for package <info>{package_name}</> for versions matching constraint <comment>{constraint}</>"
+        # )
 
         try:
             packages = self._pool.find_packages(
                 Factory.create_dependency(package_name, constraint)
             )
         except PackageNotFound:
-            self._io.write_error_line("  <error>✕</> No packages found")
+            # self._io.write_error_line("  <error>✕</> No packages found")
             return
 
         packages.sort(key=lambda p: p.version, reverse=True)
@@ -185,7 +195,7 @@ class Updater:
         metadata_path.write_text(json.dumps(asdict(package_info), cls=Encoder))
         self.serials[package_name] = serial
 
-        self._io.write_line("  <fg=green>✓</> Metadata updated")
+        # self._io.write_line("  <fg=green>✓</> Metadata updated")
 
     def __enter__(self) -> Self:
         return self
