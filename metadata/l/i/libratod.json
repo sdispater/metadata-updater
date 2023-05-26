@@ -1,0 +1,1 @@
+{"name": "libratod", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2013-10-02T02:24:51+00:00", "yanked": false, "dependencies": ["librato-metrics", "psutil"]}, "0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-10-02T02:18:29+00:00", "yanked": false, "dependencies": ["librato-metrics", "psutil"]}}}

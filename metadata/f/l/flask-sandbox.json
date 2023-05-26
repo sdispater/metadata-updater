@@ -1,0 +1,1 @@
+{"name": "flask-sandbox", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-09-30T18:41:52+00:00", "yanked": false, "dependencies": ["Flask", "Flask-Login"]}}}

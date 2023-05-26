@@ -1,0 +1,1 @@
+{"name": "amalwebcrawler", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-10-01T22:13:51+00:00", "yanked": false, "dependencies": ["BeautifulSoup"]}}}

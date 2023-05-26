@@ -1,0 +1,1 @@
+{"name": "d2lvalence-util", "versions": {"0.1.16": {"version": "0.1.16", "python_constraint": "*", "released_at": "2013-10-01T20:08:44+00:00", "yanked": false, "dependencies": ["d2lvalence (>=1.0.0)", "requests (>=1.2.0)"]}}}

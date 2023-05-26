@@ -1,0 +1,1 @@
+{"name": "ham", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-09-29T18:10:40+00:00", "yanked": false, "dependencies": ["nltk"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-09-02T17:56:50+00:00", "yanked": false, "dependencies": ["nltk"]}}}

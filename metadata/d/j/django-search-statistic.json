@@ -1,0 +1,1 @@
+{"name": "django-search-statistic", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2013-10-01T12:31:41+00:00", "yanked": false, "dependencies": ["django (>=1.4.5)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-09-30T06:52:11+00:00", "yanked": false, "dependencies": ["django (>=1.4.5)"]}}}

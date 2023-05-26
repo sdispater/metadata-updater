@@ -1,0 +1,1 @@
+{"name": "pirsclock-basic", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-09-30T21:59:15+00:00", "yanked": false, "dependencies": ["pygame"]}}}

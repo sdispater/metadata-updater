@@ -1,0 +1,1 @@
+{"name": "python-vdx", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-10-01T12:37:06+00:00", "yanked": false, "dependencies": ["beautifulsoup4", "lxml"]}}}
