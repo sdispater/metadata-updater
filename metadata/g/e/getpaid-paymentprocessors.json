@@ -1,0 +1,1 @@
+{"name": "getpaid-paymentprocessors", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-06-29T15:22:44+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "gapi-python", "versions": {"0.0.5": {"version": "0.0.5", "python_constraint": "*", "released_at": "2013-05-27T15:56:14+00:00", "yanked": false, "dependencies": ["requests (>=1.0.4)"]}, "0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2013-04-24T17:27:36+00:00", "yanked": false, "dependencies": ["requests (>=1.0.4)"]}}}

@@ -1,0 +1,1 @@
+{"name": "gocept-recipe-env", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2008-07-22T10:53:23+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout", "zc.buildout ; extra == \"tests\"", "zope.testing ; extra == \"tests\""]}}}

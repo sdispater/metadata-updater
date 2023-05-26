@@ -1,0 +1,1 @@
+{"name": "gevent-selfpipe", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2012-01-09T11:34:29+00:00", "yanked": false, "dependencies": ["gevent (>=0.13.6)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-01-06T23:51:01+00:00", "yanked": false, "dependencies": ["gevent (>=0.13.6)"]}}}

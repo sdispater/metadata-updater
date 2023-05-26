@@ -1,0 +1,1 @@
+{"name": "horae-autocomplete", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2012-01-16T12:04:27+00:00", "yanked": false, "dependencies": ["fanstatic", "js.jquery", "js.jqueryui", "setuptools", "zope.fanstatic"]}}}

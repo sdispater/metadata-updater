@@ -1,0 +1,1 @@
+{"name": "horae-resources", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2012-01-16T12:02:25+00:00", "yanked": false, "dependencies": ["grok", "horae.auth", "horae.core", "horae.groupselect", "horae.layout", "horae.properties", "horae.ticketing", "horae.timeaware", "hurry.query", "setuptools", "z3c.relationfield"]}}}

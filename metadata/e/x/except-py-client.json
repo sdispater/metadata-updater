@@ -1,0 +1,1 @@
+{"name": "except-py-client", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2009-12-22T22:36:24+00:00", "yanked": false, "dependencies": ["simplejson"]}}}

@@ -1,0 +1,1 @@
+{"name": "haufe-ztop", "versions": {"0.2.2": {"version": "0.2.2", "python_constraint": "*", "released_at": "2009-08-11T14:39:45+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2009-05-12T11:47:22+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

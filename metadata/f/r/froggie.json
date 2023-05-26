@@ -1,0 +1,1 @@
+{"name": "froggie", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-03-12T19:27:00+00:00", "yanked": false, "dependencies": ["requests"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-07T16:16:55+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "eventlet-inotifyx", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-11-07T16:47:59+00:00", "yanked": false, "dependencies": ["eventlet", "inotifyx"]}}}

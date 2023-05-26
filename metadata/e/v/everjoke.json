@@ -1,0 +1,1 @@
+{"name": "everjoke", "versions": {"0.2.2": {"version": "0.2.2", "python_constraint": "*", "released_at": "2011-03-16T20:21:25+00:00", "yanked": false, "dependencies": ["argparse", "sqlalchemy"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-03-07T19:49:06+00:00", "yanked": false, "dependencies": ["argparse", "sqlalchemy"]}}}

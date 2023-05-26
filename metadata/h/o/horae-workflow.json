@@ -1,0 +1,1 @@
+{"name": "horae-workflow", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2012-01-16T12:01:40+00:00", "yanked": false, "dependencies": ["grok", "horae.auth", "horae.autocomplete", "horae.cache", "horae.core", "horae.layout", "horae.properties", "horae.search", "horae.ticketing", "hurry.workflow", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "herald", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2010-07-16T04:56:17+00:00", "yanked": false, "dependencies": ["notifo (>=0.2.1)", "transmissionrpc (>=0.5.0)", "uTorrent.Py (>=0.1.1)"]}}}

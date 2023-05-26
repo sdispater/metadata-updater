@@ -1,0 +1,1 @@
+{"name": "githubhooks", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-09-14T18:57:57+00:00", "yanked": false, "dependencies": ["PyGithub"]}}}

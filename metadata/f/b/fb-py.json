@@ -1,0 +1,1 @@
+{"name": "fb-py", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-05-28T11:17:56+00:00", "yanked": false, "dependencies": ["urllib3"]}}}

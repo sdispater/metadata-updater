@@ -1,0 +1,1 @@
+{"name": "horae-usersandgroups", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2012-01-16T12:05:15+00:00", "yanked": false, "dependencies": ["grok", "horae.auth", "horae.core", "horae.layout", "horae.search", "setuptools", "z3c.relationfield"]}}}

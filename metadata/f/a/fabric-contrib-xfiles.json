@@ -1,0 +1,1 @@
+{"name": "fabric-contrib-xfiles", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2010-04-28T18:51:58+00:00", "yanked": false, "dependencies": ["Fabric (>=0.9)"]}}}

@@ -1,0 +1,1 @@
+{"name": "git-dlist", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-06-15T12:05:00+00:00", "yanked": false, "dependencies": ["colorama"]}}}

@@ -1,0 +1,1 @@
+{"name": "html2list", "versions": {"0.1.6": {"version": "0.1.6", "python_constraint": "*", "released_at": "2012-03-13T22:03:26+00:00", "yanked": false, "dependencies": ["html5lib", "lxml"]}, "0.1.5": {"version": "0.1.5", "python_constraint": "*", "released_at": "2012-03-13T14:57:37+00:00", "yanked": false, "dependencies": []}}}

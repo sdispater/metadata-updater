@@ -1,0 +1,1 @@
+{"name": "heddex-tranquility", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2009-10-10T17:45:13+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2009-06-06T23:46:35+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

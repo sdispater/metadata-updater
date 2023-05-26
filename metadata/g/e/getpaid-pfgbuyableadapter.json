@@ -1,0 +1,1 @@
+{"name": "getpaid-pfgbuyableadapter", "versions": {"1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2012-08-21T01:49:50+00:00", "yanked": false, "dependencies": ["mysql-python", "Products.PloneFormGen", "Products.PloneGetPaid", "setuptools", "zope.testing ; extra == \"tests\""]}}}

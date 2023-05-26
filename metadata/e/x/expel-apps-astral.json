@@ -1,0 +1,1 @@
+{"name": "expel-apps-astral", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-12-11T17:06:23+00:00", "yanked": false, "dependencies": ["astral", "expel.lib (>=0.2)", "expel.message"]}}}

@@ -1,0 +1,1 @@
+{"name": "grammy", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-07-06T07:07:43+00:00", "yanked": false, "dependencies": ["biopython (>=1.0)", "numpy (>=1.2.1)", "python (>=2.5.1)", "scipy (>=0.6.0)"]}}}

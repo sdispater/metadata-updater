@@ -1,0 +1,1 @@
+{"name": "getmysqlconnpara", "versions": {"2.0.0": {"version": "2.0.0", "python_constraint": "*", "released_at": "2013-04-23T14:00:54+00:00", "yanked": false, "dependencies": []}, "1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2013-04-23T12:29:24+00:00", "yanked": false, "dependencies": []}}}

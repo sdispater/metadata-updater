@@ -1,0 +1,1 @@
+{"name": "horae-sphinx-grok", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2012-01-16T12:05:06+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "getpaid-ogone", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2009-03-13T18:11:33+00:00", "yanked": false, "dependencies": ["getpaid.core", "setuptools", "zope.component", "zope.interface"]}}}

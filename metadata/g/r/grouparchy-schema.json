@@ -1,0 +1,1 @@
+{"name": "grouparchy-schema", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-04-09T09:41:46+00:00", "yanked": false, "dependencies": ["setuptools", "zope.app.form", "zope.dottedname", "zope.publisher", "zope.schema"]}}}

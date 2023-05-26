@@ -1,0 +1,1 @@
+{"name": "hisp", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2010-12-12T21:55:55+00:00", "yanked": false, "dependencies": ["ply (==3.3)"]}}}

@@ -1,0 +1,1 @@
+{"name": "gbif", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-07-10T23:53:02+00:00", "yanked": false, "dependencies": ["restkit"]}}}

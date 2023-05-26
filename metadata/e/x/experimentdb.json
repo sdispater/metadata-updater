@@ -1,0 +1,1 @@
+{"name": "experimentdb", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-01-15T02:57:56+00:00", "yanked": false, "dependencies": ["biopython", "django", "django-ajax-selects", "pil", "south"]}}}

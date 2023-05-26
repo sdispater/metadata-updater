@@ -1,0 +1,1 @@
+{"name": "eyes", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2010-11-20T21:22:06+00:00", "yanked": false, "dependencies": ["Django", "django-extensions", "django-piston", "elementtree", "httplib2", "logilab-astng", "logilab-common", "Pygments", "PyRRD", "python-dateutil", "simplejson", "South", "unittest-xml-reporting", "unittest2"]}}}

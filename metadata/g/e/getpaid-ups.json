@@ -1,0 +1,1 @@
+{"name": "getpaid-ups", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2009-01-28T20:05:53+00:00", "yanked": false, "dependencies": ["elementtree", "getpaid.core", "ore.viewlet", "Products.PloneGetPaid", "setuptools", "zope.formlib", "zope.schema"]}}}

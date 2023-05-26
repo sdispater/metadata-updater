@@ -1,0 +1,1 @@
+{"name": "horae-ticketing", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2012-01-16T12:02:33+00:00", "yanked": false, "dependencies": ["grok", "horae.auth", "horae.cache", "horae.core", "horae.layout", "horae.lifecycle", "horae.properties", "horae.search", "horae.timeaware", "hurry.query", "setuptools", "z3c.relationfield"]}}}

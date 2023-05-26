@@ -1,0 +1,1 @@
+{"name": "ezplone", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2009-04-06T18:30:19+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "horae-core", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2012-01-16T12:02:52+00:00", "yanked": false, "dependencies": ["grok", "horae.cache", "setuptools", "z3c.taskqueue", "zope.app.locales"]}}}

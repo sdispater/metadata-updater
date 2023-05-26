@@ -1,0 +1,1 @@
+{"name": "geocamutil", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-03-30T01:47:00+00:00", "yanked": false, "dependencies": ["decorator", "Django", "django-digest", "iso8601", "mocker", "PIL", "python-digest", "pytz", "rdflib (==2.4.2)"]}}}

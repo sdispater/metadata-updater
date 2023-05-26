@@ -1,0 +1,1 @@
+{"name": "functional", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2006-01-28T20:00:31+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2006-01-19T15:53:26+00:00", "yanked": false, "dependencies": []}}}

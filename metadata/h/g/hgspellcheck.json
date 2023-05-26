@@ -1,0 +1,1 @@
+{"name": "hgspellcheck", "versions": {"1.0rc2": {"version": "1.0rc2", "python_constraint": "*", "released_at": "2010-03-22T04:42:06+00:00", "yanked": false, "dependencies": ["pyenchant (>=1.5.3)"]}, "1.0rc1": {"version": "1.0rc1", "python_constraint": "*", "released_at": "2010-03-22T01:38:46+00:00", "yanked": false, "dependencies": ["pyenchant (>=1.5.3)"]}}}

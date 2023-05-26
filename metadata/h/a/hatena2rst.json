@@ -1,0 +1,1 @@
+{"name": "hatena2rst", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-06-02T06:20:22+00:00", "yanked": false, "dependencies": ["coverage (>=3.5) ; extra == \"test\"", "distribute", "lxml (>=2.3)", "mock (>=0.8.0) ; extra == \"test\"", "pytest (>=2.2) ; extra == \"test\""]}}}

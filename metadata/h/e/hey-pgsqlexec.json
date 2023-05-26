@@ -1,0 +1,1 @@
+{"name": "hey-pgsqlexec", "versions": {"1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2013-03-10T02:33:33+00:00", "yanked": false, "dependencies": ["psycopg2"]}}}

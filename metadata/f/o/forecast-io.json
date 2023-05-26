@@ -1,0 +1,1 @@
+{"name": "forecast-io", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-04-19T11:47:06+00:00", "yanked": false, "dependencies": ["requests (>=1.2.0)"]}}}

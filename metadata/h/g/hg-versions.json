@@ -1,0 +1,1 @@
+{"name": "hg-versions", "versions": {"0.4.1": {"version": "0.4.1", "python_constraint": "*", "released_at": "2012-02-08T23:46:11+00:00", "yanked": false, "dependencies": []}, "0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2010-12-30T09:18:56+00:00", "yanked": false, "dependencies": []}}}

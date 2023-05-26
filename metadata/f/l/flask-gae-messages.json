@@ -1,0 +1,1 @@
+{"name": "flask-gae-messages", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2013-03-14T18:20:09+00:00", "yanked": false, "dependencies": ["blinker", "flask"]}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2013-01-15T01:51:03+00:00", "yanked": false, "dependencies": ["blinker", "flask"]}}}

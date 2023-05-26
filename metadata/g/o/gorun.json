@@ -1,0 +1,1 @@
+{"name": "gorun", "versions": {"1.7": {"version": "1.7", "python_constraint": "*", "released_at": "2012-10-19T15:40:31+00:00", "yanked": false, "dependencies": ["pyinotify (==0.9.3)"]}}}

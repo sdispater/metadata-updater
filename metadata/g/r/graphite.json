@@ -1,0 +1,1 @@
+{"name": "graphite", "versions": {"0.71": {"version": "0.71", "python_constraint": "*", "released_at": "2009-01-28T09:21:20+00:00", "yanked": false, "dependencies": ["numpy (>=1.0.5)", "piddle (>=1.0.15)"]}, "0.70": {"version": "0.70", "python_constraint": "*", "released_at": "2008-02-03T13:39:03+00:00", "yanked": false, "dependencies": ["numpy (>=1.0.1)"]}}}

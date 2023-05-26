@@ -1,0 +1,1 @@
+{"name": "gametex-django-print", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-03-08T05:35:27+00:00", "yanked": false, "dependencies": ["Django"]}}}

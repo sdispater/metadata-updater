@@ -1,0 +1,1 @@
+{"name": "google-drive-cli", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-07-02T22:41:57+00:00", "yanked": false, "dependencies": ["argparse", "google-api-python-client"]}}}

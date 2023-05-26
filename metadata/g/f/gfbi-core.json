@@ -1,0 +1,1 @@
+{"name": "gfbi-core", "versions": {"0.2": {"version": "0.2", "python_constraint": ">=2.5", "released_at": "2011-02-28T23:22:36+00:00", "yanked": false, "dependencies": ["GitPython (>0.3.0)"]}, "0.1": {"version": "0.1", "python_constraint": ">=2.5", "released_at": "2011-02-28T23:20:42+00:00", "yanked": false, "dependencies": ["GitPython (>0.3.0)"]}}}

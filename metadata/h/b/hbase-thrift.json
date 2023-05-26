@@ -1,0 +1,1 @@
+{"name": "hbase-thrift", "versions": {"0.20.4": {"version": "0.20.4", "python_constraint": "*", "released_at": "2010-05-18T05:53:38+00:00", "yanked": false, "dependencies": ["Thrift"]}}}

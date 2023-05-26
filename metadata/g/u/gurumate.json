@@ -1,0 +1,1 @@
+{"name": "gurumate", "versions": {"2.8.6": {"version": "2.8.6", "python_constraint": "*", "released_at": "2012-11-26T15:29:50+00:00", "yanked": false, "dependencies": ["MYSQL-python", "psutil (>=0.3.0)"]}}}

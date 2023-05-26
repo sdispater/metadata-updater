@@ -1,0 +1,1 @@
+{"name": "hookbox-dax", "versions": {"0.3.4a1": {"version": "0.3.4a1", "python_constraint": "*", "released_at": "2012-07-04T10:57:05+00:00", "yanked": false, "dependencies": ["csp_eventlet (>=0.5.1)", "event (==0.4.2)", "eventlet (>=0.9.10)", "paste", "pygments", "restkit (==4.1.3)", "rtjp_eventlet (>=0.3.2)"]}}}

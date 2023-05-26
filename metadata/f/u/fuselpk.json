@@ -1,0 +1,1 @@
+{"name": "fuselpk", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-09-02T18:29:14+00:00", "yanked": false, "dependencies": ["fuse-python (>=0.2)"]}}}

@@ -1,0 +1,1 @@
+{"name": "getpaid-flatrateshipping", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-08-29T21:40:55+00:00", "yanked": false, "dependencies": ["getpaid.core", "setuptools"]}}}

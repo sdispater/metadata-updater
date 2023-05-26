@@ -1,0 +1,1 @@
+{"name": "hmac", "versions": {"20101005": {"version": "20101005", "python_constraint": "*", "released_at": "2010-10-05T22:08:07+00:00", "yanked": false, "dependencies": ["hashlib", "setuptools"]}}}

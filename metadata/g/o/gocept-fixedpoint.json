@@ -1,0 +1,1 @@
+{"name": "gocept-fixedpoint", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-05-26T16:21:32+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2007-11-27T15:53:50+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

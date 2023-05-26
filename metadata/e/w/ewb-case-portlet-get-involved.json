@@ -1,0 +1,1 @@
+{"name": "ewb-case-portlet-get-involved", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-01-27T05:24:05+00:00", "yanked": false, "dependencies": ["Plone (>=4.0)", "setuptools", "zope.i18nmessageid"]}}}

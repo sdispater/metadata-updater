@@ -1,0 +1,1 @@
+{"name": "getpaid-wizard", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2010-04-08T00:07:58+00:00", "yanked": false, "dependencies": ["getpaid.core", "setuptools"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2008-08-29T23:08:10+00:00", "yanked": false, "dependencies": ["getpaid.core", "setuptools"]}}}

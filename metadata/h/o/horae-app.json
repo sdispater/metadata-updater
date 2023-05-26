@@ -1,0 +1,1 @@
+{"name": "horae-app", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2012-01-16T12:00:51+00:00", "yanked": false, "dependencies": ["grok", "grokcore.startup", "grokui.admin", "horae.auth", "horae.core", "horae.properties", "horae.search", "horae.ticketing", "setuptools", "zope.i18n[compile]"]}}}

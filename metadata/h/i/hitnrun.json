@@ -1,0 +1,1 @@
+{"name": "hitnrun", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-02-18T00:49:59+00:00", "yanked": false, "dependencies": ["logbook", "watchdog"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-13T18:05:07+00:00", "yanked": false, "dependencies": ["logbook", "watchdog"]}}}

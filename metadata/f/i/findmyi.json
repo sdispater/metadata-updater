@@ -1,0 +1,1 @@
+{"name": "findmyi", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-03-21T17:16:03+00:00", "yanked": false, "dependencies": ["requests (==1.1.0)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-14T17:24:40+00:00", "yanked": false, "dependencies": ["requests (==0.14.1)"]}}}

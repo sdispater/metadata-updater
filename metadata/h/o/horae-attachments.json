@@ -1,0 +1,1 @@
+{"name": "horae-attachments", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2012-01-16T12:01:48+00:00", "yanked": false, "dependencies": ["grok", "horae.core", "horae.layout", "horae.properties", "horae.ticketing", "setuptools", "z3c.relationfield"]}}}

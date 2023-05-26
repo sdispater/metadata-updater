@@ -1,0 +1,1 @@
+{"name": "hidx", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2012-10-09T13:18:42+00:00", "yanked": false, "dependencies": ["dbf (>=0.94)", "GeoAlchemy", "matplotlib", "MySQLDb", "numpy", "pandas (>=0.8)", "psycopg2", "SQLAlchemy"]}}}

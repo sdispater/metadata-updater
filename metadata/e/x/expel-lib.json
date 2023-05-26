@@ -1,0 +1,1 @@
+{"name": "expel-lib", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-12-07T22:37:49+00:00", "yanked": false, "dependencies": ["configobj", "expel.message", "twisted"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-12-01T22:35:30+00:00", "yanked": false, "dependencies": ["configobj", "expel.message", "twisted"]}}}

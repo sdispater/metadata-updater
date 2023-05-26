@@ -1,0 +1,1 @@
+{"name": "fixturefactory", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-10-25T06:13:34+00:00", "yanked": false, "dependencies": ["django"]}}}

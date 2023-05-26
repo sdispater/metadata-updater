@@ -1,0 +1,1 @@
+{"name": "heka-raven", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2013-03-12T14:51:18+00:00", "yanked": false, "dependencies": ["heka-py (>=0.10)", "raven (==3.1.16)"]}}}

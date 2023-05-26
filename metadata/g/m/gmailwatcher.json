@@ -1,0 +1,1 @@
+{"name": "gmailwatcher", "versions": {"11.10.19": {"version": "11.10.19", "python_constraint": "*", "released_at": "2011-10-30T19:16:41+00:00", "yanked": false, "dependencies": []}, "11.10.18": {"version": "11.10.18", "python_constraint": "*", "released_at": "2011-10-30T18:07:08+00:00", "yanked": false, "dependencies": []}}}

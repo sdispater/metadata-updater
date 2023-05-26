@@ -1,0 +1,1 @@
+{"name": "html5witch", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2011-01-12T19:41:53+00:00", "yanked": false, "dependencies": ["xmlwitch (>=0.2)"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-01-03T00:52:57+00:00", "yanked": false, "dependencies": ["xmlwitch (>=0.2)"]}}}

@@ -1,0 +1,1 @@
+{"name": "fnordstalk", "versions": {"0.0.5": {"version": "0.0.5", "python_constraint": "*", "released_at": "2012-03-11T05:48:17+00:00", "yanked": false, "dependencies": ["beanstalkc", "pyfnordmetric"]}, "0.0.4": {"version": "0.0.4", "python_constraint": "*", "released_at": "2012-03-11T05:44:35+00:00", "yanked": false, "dependencies": ["beanstalkc", "pyfnordmetric"]}}}

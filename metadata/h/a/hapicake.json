@@ -1,0 +1,1 @@
+{"name": "hapicake", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-05-18T06:09:57+00:00", "yanked": false, "dependencies": ["cython (>=0,<1)", "gevent (<2)", "giftwrap (>=1,<2)", "requests (>=0,<1)", "sanetime (>=4,<5)", "utilspy (>=0,<1)"]}}}

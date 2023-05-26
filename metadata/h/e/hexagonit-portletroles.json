@@ -1,0 +1,1 @@
+{"name": "hexagonit-portletroles", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-04-19T09:21:56+00:00", "yanked": false, "dependencies": ["hexagonit.testing", "plone.app.portlets", "plone.browserlayer", "setuptools", "z3c.autoinclude"]}}}

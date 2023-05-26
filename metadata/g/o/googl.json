@@ -1,0 +1,1 @@
+{"name": "googl", "versions": {"0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2011-02-27T03:57:53+00:00", "yanked": false, "dependencies": ["google-api-python-client", "ludibrio", "pinocchio", "restfulie", "should-dsl", "specloud"]}}}

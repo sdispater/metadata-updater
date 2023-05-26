@@ -1,0 +1,1 @@
+{"name": "gitrecipe", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-02-20T08:55:55+00:00", "yanked": false, "dependencies": ["setuptools", "zc.recipe.egg"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2010-04-01T21:54:27+00:00", "yanked": false, "dependencies": ["setuptools", "zc.recipe.egg"]}}}

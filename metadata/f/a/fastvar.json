@@ -1,0 +1,1 @@
+{"name": "fastvar", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-12-31T04:13:13+00:00", "yanked": false, "dependencies": ["LargeRegression (>1.0)"]}}}

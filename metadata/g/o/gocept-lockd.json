@@ -1,0 +1,1 @@
+{"name": "gocept-lockd", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-12-18T12:05:12+00:00", "yanked": false, "dependencies": ["setuptools", "zc.lockfile"]}}}

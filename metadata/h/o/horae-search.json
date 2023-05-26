@@ -1,0 +1,1 @@
+{"name": "horae-search", "versions": {"1.0a1": {"version": "1.0a1", "python_constraint": "*", "released_at": "2012-01-16T12:04:08+00:00", "yanked": false, "dependencies": ["grok", "horae.auth", "horae.autocomplete", "horae.cache", "horae.core", "horae.layout", "horae.lifecycle", "horae.properties", "horae.ticketing", "hurry.query", "setuptools", "zc.catalog"]}}}

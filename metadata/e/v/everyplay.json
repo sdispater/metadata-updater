@@ -1,0 +1,1 @@
+{"name": "everyplay", "versions": {"0.3.6": {"version": "0.3.6", "python_constraint": "*", "released_at": "2013-01-07T13:13:10+00:00", "yanked": false, "dependencies": ["fudge (==1.0.3)", "requests (>=1.0.0)", "simplejson (>=2.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "fma", "versions": {"0.0.15": {"version": "0.0.15", "python_constraint": "*", "released_at": "2011-12-08T12:14:56+00:00", "yanked": false, "dependencies": ["pymongo (>=0.10.1)"]}}}

@@ -1,0 +1,1 @@
+{"name": "foaflib", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-06-14T14:03:03+00:00", "yanked": false, "dependencies": ["rdflib"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-06-08T15:43:39+00:00", "yanked": false, "dependencies": ["rdflib"]}}}

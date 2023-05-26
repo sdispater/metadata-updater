@@ -1,0 +1,1 @@
+{"name": "getme", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-03-29T00:53:07+00:00", "yanked": false, "dependencies": ["beautifulsoup4 (>=4.1.3)"]}}}
