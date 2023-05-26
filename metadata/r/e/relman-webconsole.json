@@ -1,0 +1,1 @@
+{"name": "relman-webconsole", "versions": {"0.8": {"version": "0.8", "python_constraint": "*", "released_at": "2007-03-27T19:56:01+00:00", "yanked": false, "dependencies": ["Pylons (>=0.9.4)", "releasemanager (>=1.01)", "ToscaWidgets"]}}}

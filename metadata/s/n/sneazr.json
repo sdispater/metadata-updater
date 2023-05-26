@@ -1,0 +1,1 @@
+{"name": "sneazr", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-02-08T02:32:01+00:00", "yanked": false, "dependencies": ["nose", "py-Growl"]}}}

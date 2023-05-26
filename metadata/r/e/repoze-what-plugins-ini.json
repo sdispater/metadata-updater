@@ -1,0 +1,1 @@
+{"name": "repoze-what-plugins-ini", "versions": {"0.2.2": {"version": "0.2.2", "python_constraint": "*", "released_at": "2008-12-11T14:07:10+00:00", "yanked": false, "dependencies": ["pyparsing", "repoze.what"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-12-09T18:31:47+00:00", "yanked": false, "dependencies": ["pyparsing", "repoze.what"]}}}

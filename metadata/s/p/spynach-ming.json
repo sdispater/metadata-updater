@@ -1,0 +1,1 @@
+{"name": "spynach-ming", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-02-16T15:30:39+00:00", "yanked": false, "dependencies": ["ming", "paste", "spynach"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-08T22:25:41+00:00", "yanked": false, "dependencies": ["ming", "paste", "spynach"]}}}

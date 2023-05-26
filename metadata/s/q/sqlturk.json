@@ -1,0 +1,1 @@
+{"name": "sqlturk", "versions": {"0.9.1": {"version": "0.9.1", "python_constraint": "*", "released_at": "2009-10-14T13:01:00+00:00", "yanked": false, "dependencies": ["SQLAlchemy"]}, "0.9": {"version": "0.9", "python_constraint": "*", "released_at": "2009-10-14T11:54:37+00:00", "yanked": false, "dependencies": ["SQLAlchemy"]}}}

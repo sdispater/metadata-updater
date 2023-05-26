@@ -1,0 +1,1 @@
+{"name": "sphinx-plonetheme", "versions": {"2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2013-02-07T12:11:24+00:00", "yanked": false, "dependencies": ["setuptools", "sphinxjp.themecore"]}}}

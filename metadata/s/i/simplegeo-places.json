@@ -1,0 +1,1 @@
+{"name": "simplegeo-places", "versions": {"2.4.153": {"version": "2.4.153", "python_constraint": "*", "released_at": "2011-12-13T18:13:47+00:00", "yanked": false, "dependencies": ["pyutil[jsonutil] (>=1.8.1)", "simplegeo-shared (>=2.3.60)"]}}}

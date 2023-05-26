@@ -1,0 +1,1 @@
+{"name": "repoze-who-plugins-digestauth", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-01-30T01:58:20+00:00", "yanked": false, "dependencies": ["repoze.who", "unittest2"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-11-18T10:25:10+00:00", "yanked": false, "dependencies": ["repoze.who", "unittest2"]}}}

@@ -1,0 +1,1 @@
+{"name": "redsolutioncms-django-model-url", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2010-10-21T21:48:12+00:00", "yanked": false, "dependencies": ["django-url-methods (==0.1.0)"]}}}

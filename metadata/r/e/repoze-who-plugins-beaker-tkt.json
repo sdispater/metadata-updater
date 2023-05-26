@@ -1,0 +1,1 @@
+{"name": "repoze-who-plugins-beaker-tkt", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-04-19T17:48:38+00:00", "yanked": false, "dependencies": ["Beaker", "PasteScript", "repoze.who"]}}}

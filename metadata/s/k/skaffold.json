@@ -1,0 +1,1 @@
+{"name": "skaffold", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-06T08:03:26+00:00", "yanked": false, "dependencies": ["Flask (>=0.9)", "Flask-WTF (>=0.8)", "Jinja2 (>=2.6)", "SQLAlchemy (>=0.7.9)"]}}}

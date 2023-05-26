@@ -1,0 +1,1 @@
+{"name": "routr-schema", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-10-12T09:25:32+00:00", "yanked": false, "dependencies": ["routr (>=0.6)", "schemify (>=0.1)"]}}}

@@ -1,0 +1,1 @@
+{"name": "sphinxcontrib-mercurial", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-10-27T09:44:18+00:00", "yanked": false, "dependencies": ["mercurial (>=1.8)", "Sphinx (>=0.6)"]}}}

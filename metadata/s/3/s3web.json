@@ -1,0 +1,1 @@
+{"name": "s3web", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2013-04-18T10:27:22+00:00", "yanked": false, "dependencies": ["boto", "progressbar", "setuptools"]}}}

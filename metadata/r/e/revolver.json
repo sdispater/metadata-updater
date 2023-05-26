@@ -1,0 +1,1 @@
+{"name": "revolver", "versions": {"0.0.5": {"version": "0.0.5", "python_constraint": "*", "released_at": "2012-11-10T18:16:52+00:00", "yanked": false, "dependencies": ["cuisine", "fabric"]}, "0.0.4": {"version": "0.0.4", "python_constraint": "*", "released_at": "2012-03-16T00:46:23+00:00", "yanked": false, "dependencies": []}}}

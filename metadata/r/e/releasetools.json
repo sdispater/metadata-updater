@@ -1,0 +1,1 @@
+{"name": "releasetools", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-05-17T05:17:37+00:00", "yanked": false, "dependencies": ["basketweaver", "certifi", "oauth2", "virtualenv", "yolk"]}}}

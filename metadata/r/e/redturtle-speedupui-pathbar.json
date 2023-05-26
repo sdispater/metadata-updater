@@ -1,0 +1,1 @@
+{"name": "redturtle-speedupui-pathbar", "versions": {"0.2.0alpha": {"version": "0.2.0alpha", "python_constraint": "*", "released_at": "2009-09-12T15:34:13+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1.0dev": {"version": "0.1.0dev", "python_constraint": "*", "released_at": "2009-08-21T12:11:13+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

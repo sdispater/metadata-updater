@@ -1,0 +1,1 @@
+{"name": "smithery-recipe-smiths", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2011-02-25T14:38:24+00:00", "yanked": false, "dependencies": ["Chameleon", "Cheetah", "setuptools", "zc.buildout", "zc.buildout ; extra == \"tests\"", "zope.testing ; extra == \"tests\""]}}}

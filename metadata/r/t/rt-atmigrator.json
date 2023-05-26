@@ -1,0 +1,1 @@
+{"name": "rt-atmigrator", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-03-12T14:32:16+00:00", "yanked": false, "dependencies": ["plone.app.testing ; extra == \"test\"", "Products.contentmigration", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "simplegeo-shared", "versions": {"2.5.127": {"version": "2.5.127", "python_constraint": "*", "released_at": "2011-12-13T18:42:55+00:00", "yanked": false, "dependencies": ["httplib2 (>=0.6.0)", "ipaddr (>=2.0.0)", "oauth2 (>=1.5)", "pyutil[jsonutil] (>=1.8.1)"]}}}

@@ -1,0 +1,1 @@
+{"name": "slowlog", "versions": {"0.9": {"version": "0.9", "python_constraint": "*", "released_at": "2012-09-22T18:00:23+00:00", "yanked": false, "dependencies": ["perfmetrics", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "sitegen", "versions": {"0.9.2": {"version": "0.9.2", "python_constraint": "*", "released_at": "2010-12-14T21:09:29+00:00", "yanked": false, "dependencies": ["jinja2", "quantumcore.resources"]}, "0.9": {"version": "0.9", "python_constraint": "*", "released_at": "2010-11-26T15:37:17+00:00", "yanked": false, "dependencies": ["jinja2", "quantumcore.resources"]}}}

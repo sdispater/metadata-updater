@@ -1,0 +1,1 @@
+{"name": "revers-py", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-06-09T14:41:23+00:00", "yanked": false, "dependencies": ["storm"]}}}

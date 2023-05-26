@@ -1,0 +1,1 @@
+{"name": "snapbill", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2013-01-22T10:54:35+00:00", "yanked": false, "dependencies": ["requests (>=0.14.0)", "simplejson (>=2.0.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "repoze-bfg-formish", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2010-05-17T19:26:10+00:00", "yanked": false, "dependencies": ["formish", "repoze.bfg", "setuptools", "uuid"]}}}

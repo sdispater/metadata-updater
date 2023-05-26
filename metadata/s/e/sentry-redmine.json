@@ -1,0 +1,1 @@
+{"name": "sentry-redmine", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-02-15T16:32:19+00:00", "yanked": false, "dependencies": ["nose ; extra == \"test\"", "requests (>=0.2.0)", "sentry (>=4.9.8)", "simplejson"]}}}

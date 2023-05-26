@@ -1,0 +1,1 @@
+{"name": "sqla-declarative", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-01-10T07:47:40+00:00", "yanked": false, "dependencies": ["sqlalchemy (>=0.7)", "tw2.sqla"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-01-08T00:32:09+00:00", "yanked": false, "dependencies": ["sqlalchemy (>=0.7)"]}}}

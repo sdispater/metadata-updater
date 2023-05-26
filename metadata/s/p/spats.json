@@ -1,0 +1,1 @@
+{"name": "spats", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-12-10T19:29:09+00:00", "yanked": false, "dependencies": ["setuptools", "SimpleTAL"]}}}

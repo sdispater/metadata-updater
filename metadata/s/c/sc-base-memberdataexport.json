@@ -1,0 +1,1 @@
+{"name": "sc-base-memberdataexport", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2009-03-30T06:09:52+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

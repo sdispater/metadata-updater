@@ -1,0 +1,1 @@
+{"name": "sleipnir-marshals-tsplib", "versions": {"0.1rc1": {"version": "0.1rc1", "python_constraint": "*", "released_at": "2011-04-05T18:33:55+00:00", "yanked": false, "dependencies": ["sleipnir.components (>=0.1rc3)", "sleipnir.core (>=0.1rc2)", "sleipnir.heuristics (>=0.1rc2)"]}}}

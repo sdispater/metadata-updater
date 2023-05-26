@@ -1,0 +1,1 @@
+{"name": "redish", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2010-04-29T17:12:33+00:00", "yanked": false, "dependencies": ["anyjson", "redis"]}}}

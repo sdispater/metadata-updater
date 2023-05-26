@@ -1,0 +1,1 @@
+{"name": "sleipnir-solvers-aco-tsp", "versions": {"0.1rc1": {"version": "0.1rc1", "python_constraint": "*", "released_at": "2011-04-08T21:31:28+00:00", "yanked": false, "dependencies": ["sleipnir.components (>=0.1rc3)", "sleipnir.core (>=0.1rc2)", "sleipnir.heuristics (>=0.1rc2)", "sleipnir.problems.tsp (>=0.1rc1)"]}}}

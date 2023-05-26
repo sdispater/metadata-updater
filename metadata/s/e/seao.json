@@ -1,0 +1,1 @@
+{"name": "seao", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-11-14T18:36:25+00:00", "yanked": false, "dependencies": ["beautifulsoup4", "pycrypto", "requests"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-14T15:57:17+00:00", "yanked": false, "dependencies": ["beautifulsoup4", "requests"]}}}

@@ -1,0 +1,1 @@
+{"name": "rpatterson-stripdupes", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-05-28T02:08:14+00:00", "yanked": false, "dependencies": ["rpatterson.listfile", "setuptools", "zope.testing ; extra == \"test\""]}}}

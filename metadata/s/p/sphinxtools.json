@@ -1,0 +1,1 @@
+{"name": "sphinxtools", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-01-21T18:15:59+00:00", "yanked": false, "dependencies": ["paver (>=1.0)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-01-20T14:43:40+00:00", "yanked": false, "dependencies": ["paver (>=1.0)"]}}}

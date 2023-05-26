@@ -1,0 +1,1 @@
+{"name": "sphinxcontrib-bitbucket", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-04-24T18:20:15+00:00", "yanked": false, "dependencies": ["docutils (>=0.6)", "Sphinx (>=0.6)"]}}}

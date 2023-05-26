@@ -1,0 +1,1 @@
+{"name": "sphinxcontrib-jinjadomain", "versions": {"0.5.1": {"version": "0.5.1", "python_constraint": "*", "released_at": "2012-07-17T22:45:07+00:00", "yanked": false, "dependencies": ["Sphinx (>=1.0)"]}}}

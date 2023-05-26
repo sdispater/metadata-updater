@@ -1,0 +1,1 @@
+{"name": "rst2rst", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-06-14T09:13:14+00:00", "yanked": false, "dependencies": ["docutils"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-06-13T23:22:51+00:00", "yanked": false, "dependencies": ["docutils"]}}}

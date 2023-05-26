@@ -1,0 +1,1 @@
+{"name": "shifter", "versions": {"2.75": {"version": "2.75", "python_constraint": "*", "released_at": "2013-02-23T21:26:17+00:00", "yanked": false, "dependencies": []}, "2.40": {"version": "2.40", "python_constraint": "*", "released_at": "2012-07-28T19:42:45+00:00", "yanked": false, "dependencies": []}}}

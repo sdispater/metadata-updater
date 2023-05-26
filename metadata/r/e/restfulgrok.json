@@ -1,0 +1,1 @@
+{"name": "restfulgrok", "versions": {"1.0.2": {"version": "1.0.2", "python_constraint": "*", "released_at": "2012-05-25T12:03:40+00:00", "yanked": false, "dependencies": ["distribute", "Jinja2", "negotiator", "PyYAML"]}}}

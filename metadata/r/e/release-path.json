@@ -1,0 +1,1 @@
+{"name": "release-path", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-02-17T17:54:20+00:00", "yanked": false, "dependencies": ["argparse", "GitPython (==0.1.6)", "simpleversions (==0.1.2)"]}}}

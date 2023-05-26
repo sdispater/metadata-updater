@@ -1,0 +1,1 @@
+{"name": "replybot", "versions": {"5.0.0": {"version": "5.0.0", "python_constraint": "*", "released_at": "2008-09-11T03:26:37+00:00", "yanked": false, "dependencies": ["coverage ; extra == \"nose\"", "nose ; extra == \"nose\"", "storm"]}}}

@@ -1,0 +1,1 @@
+{"name": "sphinxcontrib-rubydomain", "versions": {"0.1dev-20100804": {"version": "0.1dev-20100804", "python_constraint": "*", "released_at": "2010-08-03T21:00:50+00:00", "yanked": false, "dependencies": ["Sphinx (>=1.0)"]}}}

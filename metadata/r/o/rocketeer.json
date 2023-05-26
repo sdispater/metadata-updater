@@ -1,0 +1,1 @@
+{"name": "rocketeer", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-11-17T10:17:49+00:00", "yanked": false, "dependencies": ["pystache"]}}}

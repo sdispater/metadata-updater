@@ -1,0 +1,1 @@
+{"name": "requiresexample", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2009-09-18T22:15:21+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-09-18T22:13:20+00:00", "yanked": false, "dependencies": []}}}

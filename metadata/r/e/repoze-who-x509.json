@@ -1,0 +1,1 @@
+{"name": "repoze-who-x509", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2012-03-22T23:02:21+00:00", "yanked": false, "dependencies": ["python-dateutil (<2.0)", "repoze.who (>=1.0.14,<=1.99)"]}}}

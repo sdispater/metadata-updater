@@ -1,0 +1,1 @@
+{"name": "smartencoding", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2013-04-04T20:07:42+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

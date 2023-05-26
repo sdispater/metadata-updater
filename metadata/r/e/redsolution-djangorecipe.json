@@ -1,0 +1,1 @@
+{"name": "redsolution-djangorecipe", "versions": {"1.1.2": {"version": "1.1.2", "python_constraint": "*", "released_at": "2012-02-14T19:27:09+00:00", "yanked": false, "dependencies": ["zc.buildout", "zc.recipe.egg"]}}}

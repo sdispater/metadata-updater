@@ -1,0 +1,1 @@
+{"name": "rer-downloadurl", "versions": {"2.0.0": {"version": "2.0.0", "python_constraint": "*", "released_at": "2013-02-27T14:32:08+00:00", "yanked": false, "dependencies": ["Products.CMFPlone (>4.0b1)", "setuptools"]}}}

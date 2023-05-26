@@ -1,0 +1,1 @@
+{"name": "scb", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2012-01-04T21:30:13+00:00", "yanked": false, "dependencies": ["setuptools", "xlrd"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-01-04T21:18:51+00:00", "yanked": false, "dependencies": ["setuptools", "xlrd"]}}}

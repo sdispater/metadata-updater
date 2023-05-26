@@ -1,0 +1,1 @@
+{"name": "silk-config", "versions": {"0.3.5": {"version": "0.3.5", "python_constraint": "*", "released_at": "2011-11-04T16:45:40+00:00", "yanked": false, "dependencies": ["PyYAML"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-01-24T08:48:33+00:00", "yanked": false, "dependencies": ["PyYAML"]}}}

@@ -1,0 +1,1 @@
+{"name": "sopex", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-13T16:00:15+00:00", "yanked": false, "dependencies": ["argparse", "jpype (==0.5.4.2)", "pyparsing (==1.5)", "simplejson"]}}}

@@ -1,0 +1,1 @@
+{"name": "resmonitor", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2010-02-18T19:36:14+00:00", "yanked": false, "dependencies": ["retro (>=0.9.5)"]}}}

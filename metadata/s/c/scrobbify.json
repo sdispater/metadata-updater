@@ -1,0 +1,1 @@
+{"name": "scrobbify", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-09-02T12:29:52+00:00", "yanked": false, "dependencies": ["pylibpcap (>=0.6.2)", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "sphinxcontrib-proceduralimage", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-09-23T01:35:03+00:00", "yanked": false, "dependencies": ["Sphinx (>=1.0)"]}}}

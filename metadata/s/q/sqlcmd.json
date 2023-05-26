@@ -1,0 +1,1 @@
+{"name": "sqlcmd", "versions": {"0.7.1": {"version": "0.7.1", "python_constraint": "*", "released_at": "2011-03-15T04:12:03+00:00", "yanked": false, "dependencies": ["enum (>=0.4.3)", "grizzled-python (>=1.0)"]}}}

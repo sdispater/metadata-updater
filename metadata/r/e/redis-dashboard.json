@@ -1,0 +1,1 @@
+{"name": "redis-dashboard", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2012-05-10T09:46:20+00:00", "yanked": false, "dependencies": ["redis"]}, "0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-05-01T16:16:25+00:00", "yanked": false, "dependencies": ["redis"]}}}

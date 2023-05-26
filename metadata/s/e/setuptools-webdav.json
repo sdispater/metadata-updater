@@ -1,0 +1,1 @@
+{"name": "setuptools-webdav", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-03-24T18:08:34+00:00", "yanked": false, "dependencies": ["Python_WebDAV_Library (>=0.3.0)"]}}}

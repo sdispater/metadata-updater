@@ -1,0 +1,1 @@
+{"name": "slc-clicksearch", "versions": {"1.4.4": {"version": "1.4.4", "python_constraint": "*", "released_at": "2010-10-04T16:33:34+00:00", "yanked": false, "dependencies": ["setuptools", "zope.testing ; extra == \"tests\""]}}}

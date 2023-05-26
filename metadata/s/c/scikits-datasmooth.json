@@ -1,0 +1,1 @@
+{"name": "scikits-datasmooth", "versions": {"0.61": {"version": "0.61", "python_constraint": "*", "released_at": "2011-04-14T15:53:29+00:00", "yanked": false, "dependencies": []}, "0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2010-07-16T19:11:45+00:00", "yanked": false, "dependencies": ["numpy"]}}}

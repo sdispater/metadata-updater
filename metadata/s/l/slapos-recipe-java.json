@@ -1,0 +1,1 @@
+{"name": "slapos-recipe-java", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2011-05-20T11:58:16+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-05-19T18:59:09+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout"]}}}

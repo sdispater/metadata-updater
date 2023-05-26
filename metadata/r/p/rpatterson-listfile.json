@@ -1,0 +1,1 @@
+{"name": "rpatterson-listfile", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-05-28T02:03:47+00:00", "yanked": false, "dependencies": ["setuptools", "zope.testing ; extra == \"test\""]}}}

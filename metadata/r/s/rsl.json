@@ -1,0 +1,1 @@
+{"name": "rsl", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2008-12-09T13:01:07+00:00", "yanked": false, "dependencies": ["setuptools", "zope.interface"]}, "0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2008-12-02T15:19:59+00:00", "yanked": false, "dependencies": ["setuptools", "zope.interface"]}}}

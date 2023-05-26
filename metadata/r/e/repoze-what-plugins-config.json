@@ -1,0 +1,1 @@
+{"name": "repoze-what-plugins-config", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2009-11-13T17:01:04+00:00", "yanked": false, "dependencies": ["repoze.what"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-03-08T13:02:37+00:00", "yanked": false, "dependencies": ["repoze.what"]}}}

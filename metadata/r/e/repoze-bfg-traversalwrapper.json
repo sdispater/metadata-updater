@@ -1,0 +1,1 @@
+{"name": "repoze-bfg-traversalwrapper", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2009-08-22T02:29:10+00:00", "yanked": false, "dependencies": ["repoze.bfg", "zope.interface", "zope.proxy", "zope.testing"]}}}

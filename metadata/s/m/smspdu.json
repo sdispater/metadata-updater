@@ -1,0 +1,1 @@
+{"name": "smspdu", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-06-27T04:56:44+00:00", "yanked": false, "dependencies": []}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-07-23T19:05:18+00:00", "yanked": false, "dependencies": []}}}

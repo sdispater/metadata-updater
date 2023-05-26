@@ -1,0 +1,1 @@
+{"name": "sphinxcontrib-whoosh", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-08-23T21:16:50+00:00", "yanked": false, "dependencies": ["Sphinx (>=0.6)", "Whoosh (>=0.3.0b5)"]}}}

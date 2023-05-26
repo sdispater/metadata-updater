@@ -1,0 +1,1 @@
+{"name": "scgiwsgi", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-03-17T08:39:34+00:00", "yanked": false, "dependencies": ["scgi (>=1.14)"]}}}
