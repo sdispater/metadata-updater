@@ -1,0 +1,1 @@
+{"name": "stompservice", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2008-10-09T07:35:18+00:00", "yanked": false, "dependencies": ["stomper"]}}}

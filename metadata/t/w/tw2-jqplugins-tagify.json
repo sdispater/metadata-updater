@@ -1,0 +1,1 @@
+{"name": "tw2-jqplugins-tagify", "versions": {"2.0b1dev-20110719": {"version": "2.0b1dev-20110719", "python_constraint": "*", "released_at": "2011-07-19T20:42:46+00:00", "yanked": false, "dependencies": ["mako", "tw2.core", "tw2.forms", "tw2.jqplugins.ui"]}}}

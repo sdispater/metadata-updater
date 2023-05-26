@@ -1,0 +1,1 @@
+{"name": "transmogrify-xmlsource", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-02-24T15:42:03+00:00", "yanked": false, "dependencies": ["collective.transmogrifier", "lxml", "setuptools"]}}}

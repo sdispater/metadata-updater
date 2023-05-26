@@ -1,0 +1,1 @@
+{"name": "tinypie", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-03-03T07:17:00+00:00", "yanked": false, "dependencies": ["Jinja2 ; extra == \"test\"", "setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-01-21T12:29:29+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

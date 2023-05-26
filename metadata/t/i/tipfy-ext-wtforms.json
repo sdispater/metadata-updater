@@ -1,0 +1,1 @@
+{"name": "tipfy-ext-wtforms", "versions": {"0.6": {"version": "0.6", "python_constraint": "*", "released_at": "2010-07-13T13:06:38+00:00", "yanked": false, "dependencies": ["wtforms"]}, "0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2010-06-22T15:02:18+00:00", "yanked": false, "dependencies": ["wtforms"]}}}

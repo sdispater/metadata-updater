@@ -1,0 +1,1 @@
+{"name": "valentine-imagescales", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2010-01-18T16:24:25+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-01-18T15:13:14+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

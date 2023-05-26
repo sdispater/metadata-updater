@@ -1,0 +1,1 @@
+{"name": "tgext-coffeescript", "versions": {"0.3.1": {"version": "0.3.1", "python_constraint": "*", "released_at": "2012-03-29T18:01:34+00:00", "yanked": false, "dependencies": ["TurboGears2 (>=2.0b7)"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-02-23T08:07:42+00:00", "yanked": false, "dependencies": ["TurboGears2 (>=2.0b7)"]}}}

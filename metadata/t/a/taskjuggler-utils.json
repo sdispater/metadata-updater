@@ -1,0 +1,1 @@
+{"name": "taskjuggler-utils", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-01-19T19:47:49+00:00", "yanked": false, "dependencies": ["pyx (>=0.10)"]}}}

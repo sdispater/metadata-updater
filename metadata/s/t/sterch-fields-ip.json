@@ -1,0 +1,1 @@
+{"name": "sterch-fields-ip", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-11-25T11:58:31+00:00", "yanked": false, "dependencies": ["setuptools", "zope.interface", "zope.schema", "zope.testing ; extra == \"test\""]}}}

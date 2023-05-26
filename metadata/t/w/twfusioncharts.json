@@ -1,0 +1,1 @@
+{"name": "twfusioncharts", "versions": {"0.3dev": {"version": "0.3dev", "python_constraint": "*", "released_at": "2008-12-06T04:20:25+00:00", "yanked": false, "dependencies": ["Mako", "ToscaWidgets"]}}}

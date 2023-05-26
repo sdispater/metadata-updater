@@ -1,0 +1,1 @@
+{"name": "tastypie-user-session", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-05-22T16:57:19+00:00", "yanked": false, "dependencies": ["django", "django_tastypie"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-05-12T22:51:41+00:00", "yanked": false, "dependencies": ["django", "django_tastypie"]}}}

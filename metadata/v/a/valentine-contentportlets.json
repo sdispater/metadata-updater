@@ -1,0 +1,1 @@
+{"name": "valentine-contentportlets", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-03-21T21:51:01+00:00", "yanked": false, "dependencies": ["setuptools", "zope.testing ; extra == \"tests\""]}}}

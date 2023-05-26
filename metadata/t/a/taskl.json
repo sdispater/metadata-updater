@@ -1,0 +1,1 @@
+{"name": "taskl", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-01-08T17:51:30+00:00", "yanked": false, "dependencies": ["consoleargs", "PyYaml", "requests"]}}}

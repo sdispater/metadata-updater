@@ -1,0 +1,1 @@
+{"name": "unweb-recipe-ploneftp", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-11-22T14:21:42+00:00", "yanked": false, "dependencies": ["pyftpdlib", "setuptools", "zc.buildout", "zc.buildout ; extra == \"tests\"", "zc.recipe.egg", "zope.testing ; extra == \"tests\""]}}}

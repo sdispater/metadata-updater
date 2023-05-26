@@ -1,0 +1,1 @@
+{"name": "tw-tinymce", "versions": {"0.8": {"version": "0.8", "python_constraint": "*", "released_at": "2008-06-02T15:37:23+00:00", "yanked": false, "dependencies": ["Genshi", "tw.forms (>=0.8)"]}}}

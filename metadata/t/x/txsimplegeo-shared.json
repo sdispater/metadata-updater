@@ -1,0 +1,1 @@
+{"name": "txsimplegeo-shared", "versions": {"0.9.83": {"version": "0.9.83", "python_constraint": "*", "released_at": "2011-12-13T18:17:51+00:00", "yanked": false, "dependencies": ["pyutil (>=1.7.9)"]}}}

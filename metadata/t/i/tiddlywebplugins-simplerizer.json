@@ -1,0 +1,1 @@
+{"name": "tiddlywebplugins-simplerizer", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-03-22T15:00:59+00:00", "yanked": false, "dependencies": ["setuptools", "tiddlyweb"]}}}

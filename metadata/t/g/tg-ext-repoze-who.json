@@ -1,0 +1,1 @@
+{"name": "tg-ext-repoze-who", "versions": {"0.1-r26": {"version": "0.1-r26", "python_constraint": "*", "released_at": "2008-06-04T15:12:04+00:00", "yanked": false, "dependencies": ["repoze.who (>=1.0.1)"]}, "0.1-r11": {"version": "0.1-r11", "python_constraint": "*", "released_at": "2008-06-01T22:19:48+00:00", "yanked": false, "dependencies": ["repoze.who"]}}}

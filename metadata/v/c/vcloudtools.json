@@ -1,0 +1,1 @@
+{"name": "vcloudtools", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-12-05T19:05:47+00:00", "yanked": false, "dependencies": ["argh (==0.17.2)", "lxml (==3.0.1)", "requests (==0.14.2)", "simplejson (==2.6.2)"]}}}

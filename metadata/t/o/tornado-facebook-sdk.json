@@ -1,0 +1,1 @@
+{"name": "tornado-facebook-sdk", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-10-19T20:21:49+00:00", "yanked": false, "dependencies": ["tornado (>=2.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "turtle", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2009-06-11T22:48:52+00:00", "yanked": false, "dependencies": ["PyYAML (>=3.0.8)", "Twisted (>=8.0.1)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2009-06-11T22:32:32+00:00", "yanked": false, "dependencies": ["PyYAML (>=3.08)"]}}}

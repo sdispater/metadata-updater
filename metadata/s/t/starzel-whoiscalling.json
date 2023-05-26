@@ -1,0 +1,1 @@
+{"name": "starzel-whoiscalling", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2013-04-26T14:55:35+00:00", "yanked": false, "dependencies": ["jabberbot", "xmpppy"]}}}

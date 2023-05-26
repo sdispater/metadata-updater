@@ -1,0 +1,1 @@
+{"name": "tw2-jwysiwyg", "versions": {"2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2013-01-27T04:46:55+00:00", "yanked": false, "dependencies": ["tw2.core", "tw2.jquery (>=2.0b2)"]}}}

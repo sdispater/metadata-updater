@@ -1,0 +1,1 @@
+{"name": "theslasher", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-01-11T23:59:29+00:00", "yanked": false, "dependencies": ["Paste", "PasteScript", "WebOb"]}}}

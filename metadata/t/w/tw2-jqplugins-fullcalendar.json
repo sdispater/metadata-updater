@@ -1,0 +1,1 @@
+{"name": "tw2-jqplugins-fullcalendar", "versions": {"2.0.1": {"version": "2.0.1", "python_constraint": "*", "released_at": "2012-07-27T16:56:22+00:00", "yanked": false, "dependencies": ["Genshi (>=0.3.5) ; extra == \"genshi\"", "Mako (>=0.1.1) ; extra == \"mako\"", "tw2.core (>=2.0b2)", "tw2.jqplugins.ui", "tw2.jquery"]}}}

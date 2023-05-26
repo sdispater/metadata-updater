@@ -1,0 +1,1 @@
+{"name": "tvtags", "versions": {"0.7.0": {"version": "0.7.0", "python_constraint": "*", "released_at": "2011-01-02T23:41:12+00:00", "yanked": false, "dependencies": ["progressbar (>=2.2)"]}}}

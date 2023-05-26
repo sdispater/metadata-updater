@@ -1,0 +1,1 @@
+{"name": "topp-recipes-securemaildrop", "versions": {"0.1.4": {"version": "0.1.4", "python_constraint": "*", "released_at": "2009-02-11T04:07:41+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout", "zc.buildout ; extra == \"tests\"", "zc.recipe.egg", "zope.testing ; extra == \"tests\""]}}}

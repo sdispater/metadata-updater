@@ -1,0 +1,1 @@
+{"name": "themetweaker-themeswitcher", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-09-27T20:55:02+00:00", "yanked": false, "dependencies": ["setuptools", "zope.app.testing ; extra == \"test\"", "zope.testing ; extra == \"test\"", "zope.traversing ; extra == \"test\""]}}}

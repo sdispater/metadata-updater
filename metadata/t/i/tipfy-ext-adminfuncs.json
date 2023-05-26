@@ -1,0 +1,1 @@
+{"name": "tipfy-ext-adminfuncs", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-07-18T14:02:51+00:00", "yanked": false, "dependencies": ["adminfuncs", "tipfy", "tipfy.ext.jinja2"]}}}

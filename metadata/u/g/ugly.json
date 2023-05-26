@@ -1,0 +1,1 @@
+{"name": "ugly", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2013-05-18T20:14:43+00:00", "yanked": false, "dependencies": ["feedparser", "html2text"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-05-18T20:06:50+00:00", "yanked": false, "dependencies": ["feedparser", "html2text"]}}}

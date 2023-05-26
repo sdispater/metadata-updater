@@ -1,0 +1,1 @@
+{"name": "testfarm", "versions": {"2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2013-05-07T05:02:00+00:00", "yanked": false, "dependencies": ["argparse", "decorator", "webob", "wsgi_intercept", "wsgiref"]}}}

@@ -1,0 +1,1 @@
+{"name": "strippers-wikipedia", "versions": {"0.3a": {"version": "0.3a", "python_constraint": "*", "released_at": "2011-01-21T20:22:59+00:00", "yanked": false, "dependencies": ["BeautifulSoup", "jcconv", "setuptools"]}}}

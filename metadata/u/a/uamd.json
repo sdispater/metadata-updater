@@ -1,0 +1,1 @@
+{"name": "uamd", "versions": {"0.1rc4": {"version": "0.1rc4", "python_constraint": "*", "released_at": "2011-11-22T10:19:50+00:00", "yanked": false, "dependencies": ["BeautifulSoup", "IPy", "setuptools"]}, "0.1rc3": {"version": "0.1rc3", "python_constraint": "*", "released_at": "2011-06-11T06:39:22+00:00", "yanked": false, "dependencies": ["BeautifulSoup", "IPy", "setuptools"]}}}

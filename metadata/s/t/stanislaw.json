@@ -1,0 +1,1 @@
+{"name": "stanislaw", "versions": {"0.1.2": {"version": "0.1.2", "python_constraint": "*", "released_at": "2012-03-22T06:14:26+00:00", "yanked": false, "dependencies": ["lxml (>=2.3)", "pyquery (>=1.1.1)"]}, "0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-03-13T23:12:54+00:00", "yanked": false, "dependencies": ["lxml (>=2.3)", "pyquery (>=1.1.1)"]}}}

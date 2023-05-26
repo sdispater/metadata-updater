@@ -1,0 +1,1 @@
+{"name": "txamqp-helpers", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2011-02-22T01:55:59+00:00", "yanked": false, "dependencies": ["Twisted (>=10.0)", "txAMQP (>=0.4)"]}}}

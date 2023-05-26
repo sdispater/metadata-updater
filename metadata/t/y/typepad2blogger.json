@@ -1,0 +1,1 @@
+{"name": "typepad2blogger", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2008-05-19T01:24:46+00:00", "yanked": false, "dependencies": ["gdata.py (>=1.0.12.1)"]}}}

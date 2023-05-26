@@ -1,0 +1,1 @@
+{"name": "tw2-ckeditor", "versions": {"2.0.1": {"version": "2.0.1", "python_constraint": "*", "released_at": "2013-02-12T03:19:15+00:00", "yanked": false, "dependencies": ["tw2.core"]}, "2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2013-01-28T03:25:41+00:00", "yanked": false, "dependencies": ["tw2.core"]}}}

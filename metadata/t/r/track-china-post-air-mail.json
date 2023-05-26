@@ -1,0 +1,1 @@
+{"name": "track-china-post-air-mail", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-04-11T17:54:41+00:00", "yanked": false, "dependencies": ["antigate", "grab", "setuptools"]}}}

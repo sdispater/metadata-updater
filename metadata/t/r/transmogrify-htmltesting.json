@@ -1,0 +1,1 @@
+{"name": "transmogrify-htmltesting", "versions": {"0.2dev": {"version": "0.2dev", "python_constraint": "*", "released_at": "2010-03-26T12:53:52+00:00", "yanked": false, "dependencies": ["BeautifulSoup", "collective.transmogrifier", "lxml", "setuptools", "z3c.autoinclude"]}}}

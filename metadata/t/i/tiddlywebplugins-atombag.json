@@ -1,0 +1,1 @@
+{"name": "tiddlywebplugins-atombag", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-07-10T20:23:16+00:00", "yanked": false, "dependencies": ["setuptools", "tiddlyweb", "tiddlywebplugins.remotebag"]}}}

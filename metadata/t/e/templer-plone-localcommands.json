@@ -1,0 +1,1 @@
+{"name": "templer-plone-localcommands", "versions": {"1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2012-05-21T01:36:38+00:00", "yanked": false, "dependencies": ["setuptools", "templer.localcommands", "templer.plone"]}}}

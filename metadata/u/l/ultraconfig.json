@@ -1,0 +1,1 @@
+{"name": "ultraconfig", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-05-10T22:45:55+00:00", "yanked": false, "dependencies": ["PyYAML", "setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-05-10T19:11:49+00:00", "yanked": false, "dependencies": ["PyYAML", "setuptools"]}}}

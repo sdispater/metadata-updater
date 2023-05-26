@@ -1,0 +1,1 @@
+{"name": "stackmob-cli", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-03-26T21:01:14+00:00", "yanked": false, "dependencies": ["oauth", "requests"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-03-21T02:40:03+00:00", "yanked": false, "dependencies": ["oauth", "requests"]}}}

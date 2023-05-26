@@ -1,0 +1,1 @@
+{"name": "supervisor-stdout", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-06-07T10:46:02+00:00", "yanked": false, "dependencies": []}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-06-07T10:03:57+00:00", "yanked": false, "dependencies": []}}}

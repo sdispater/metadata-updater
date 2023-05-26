@@ -1,0 +1,1 @@
+{"name": "uwsgi-manager", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-11-16T01:50:13+00:00", "yanked": false, "dependencies": []}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-08-17T14:50:15+00:00", "yanked": false, "dependencies": []}}}

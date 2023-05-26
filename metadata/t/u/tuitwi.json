@@ -1,0 +1,1 @@
+{"name": "tuitwi", "versions": {"0.4dev": {"version": "0.4dev", "python_constraint": "*", "released_at": "2010-07-01T03:15:59+00:00", "yanked": false, "dependencies": ["pyyaml", "simplejson", "tweepy"]}, "0.3dev": {"version": "0.3dev", "python_constraint": "*", "released_at": "2010-06-30T11:48:42+00:00", "yanked": false, "dependencies": ["pyyaml", "tweepy"]}}}

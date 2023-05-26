@@ -1,0 +1,1 @@
+{"name": "sw-grokcore-jsonp", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-04-12T06:40:09+00:00", "yanked": false, "dependencies": ["grokcore.json", "grokcore.json[test] ; extra == \"test\""]}}}

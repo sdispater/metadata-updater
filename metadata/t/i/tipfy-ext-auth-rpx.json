@@ -1,0 +1,1 @@
+{"name": "tipfy-ext-auth-rpx", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-08-16T02:04:26+00:00", "yanked": false, "dependencies": ["tipfy.ext.auth"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-07-29T10:03:09+00:00", "yanked": false, "dependencies": ["tipfy.ext.auth"]}}}

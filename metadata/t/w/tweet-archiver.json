@@ -1,0 +1,1 @@
+{"name": "tweet-archiver", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-08-30T09:45:58+00:00", "yanked": false, "dependencies": ["tweepy"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-08-22T09:34:00+00:00", "yanked": false, "dependencies": ["tweepy"]}}}

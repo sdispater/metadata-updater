@@ -1,0 +1,1 @@
+{"name": "textconverter", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-07-18T16:28:25+00:00", "yanked": false, "dependencies": ["chardet"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-07-18T15:46:48+00:00", "yanked": false, "dependencies": []}}}

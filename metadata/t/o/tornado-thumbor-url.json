@@ -1,0 +1,1 @@
+{"name": "tornado-thumbor-url", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-11-06T13:26:20+00:00", "yanked": false, "dependencies": ["libthumbor", "tornado"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-09-25T18:42:47+00:00", "yanked": false, "dependencies": ["libthumbor", "tornado"]}}}

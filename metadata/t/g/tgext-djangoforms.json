@@ -1,0 +1,1 @@
+{"name": "tgext-djangoforms", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-11-24T14:15:48+00:00", "yanked": false, "dependencies": ["django", "genshi", "TurboGears2 (>=2.1)"]}}}

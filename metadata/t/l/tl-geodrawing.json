@@ -1,0 +1,1 @@
+{"name": "tl-geodrawing", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-04-13T17:27:06+00:00", "yanked": false, "dependencies": ["setuptools", "tl.testing[cairo] ; extra == \"test\"", "zope.testing ; extra == \"test\""]}}}

@@ -1,0 +1,1 @@
+{"name": "tw2-qrcode", "versions": {"2.0.2": {"version": "2.0.2", "python_constraint": "*", "released_at": "2012-02-21T20:33:20+00:00", "yanked": false, "dependencies": ["Mako (>=0.1.1) ; extra == \"mako\"", "tw2.core (>=2.0b2)", "tw2.jquery"]}}}

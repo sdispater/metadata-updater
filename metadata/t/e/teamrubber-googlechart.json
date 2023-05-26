@@ -1,0 +1,1 @@
+{"name": "teamrubber-googlechart", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-04-29T16:56:15+00:00", "yanked": false, "dependencies": ["pygooglechart", "setuptools"]}}}

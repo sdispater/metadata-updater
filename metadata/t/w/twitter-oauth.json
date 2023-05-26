@@ -1,0 +1,1 @@
+{"name": "twitter-oauth", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2010-10-24T11:09:53+00:00", "yanked": false, "dependencies": ["oauth2"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2010-09-11T01:06:07+00:00", "yanked": false, "dependencies": ["oauth2"]}}}

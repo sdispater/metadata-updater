@@ -1,0 +1,1 @@
+{"name": "stock-tweets", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-10-22T08:49:56+00:00", "yanked": false, "dependencies": ["Django (>=1.1.1)", "psycopg2 (==2.4.5)", "requests (==0.14.1)", "simplejson (==2.6.2)", "twython (==2.4.0)", "wsgiref (==0.1.2)"]}}}

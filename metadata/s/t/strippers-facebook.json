@@ -1,0 +1,1 @@
+{"name": "strippers-facebook", "versions": {"0.9b": {"version": "0.9b", "python_constraint": "*", "released_at": "2012-10-05T06:18:33+00:00", "yanked": false, "dependencies": ["MultipartPostHandler", "setuptools"]}}}

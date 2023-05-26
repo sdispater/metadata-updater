@@ -1,0 +1,1 @@
+{"name": "tranchitella-recipe-nose", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-04-21T18:11:11+00:00", "yanked": false, "dependencies": ["setuptools", "zc.buildout", "zc.recipe.egg"]}}}

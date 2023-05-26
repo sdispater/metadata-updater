@@ -1,0 +1,1 @@
+{"name": "streaming-httplib2", "versions": {"0.7.6": {"version": "0.7.6", "python_constraint": "*", "released_at": "2012-11-20T10:46:02+00:00", "yanked": false, "dependencies": []}, "0.7.5": {"version": "0.7.5", "python_constraint": "*", "released_at": "2012-03-26T16:05:07+00:00", "yanked": false, "dependencies": []}}}

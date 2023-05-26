@@ -1,0 +1,1 @@
+{"name": "transmogrify-htmlcontentextractor", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-04-18T14:56:51+00:00", "yanked": false, "dependencies": ["BeautifulSoup", "collective.transmogrifier", "lxml", "setuptools"]}}}

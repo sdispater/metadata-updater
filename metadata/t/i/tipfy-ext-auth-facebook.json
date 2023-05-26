@@ -1,0 +1,1 @@
+{"name": "tipfy-ext-auth-facebook", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-07-10T05:35:44+00:00", "yanked": false, "dependencies": ["tipfy.ext.auth"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-07-09T21:06:05+00:00", "yanked": false, "dependencies": ["tipfy.ext.auth"]}}}

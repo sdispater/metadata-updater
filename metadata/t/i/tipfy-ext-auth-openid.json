@@ -1,0 +1,1 @@
+{"name": "tipfy-ext-auth-openid", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-07-09T11:40:19+00:00", "yanked": false, "dependencies": ["tipfy.ext.auth"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-06-07T13:49:20+00:00", "yanked": false, "dependencies": ["tipfy.ext.auth"]}}}

@@ -1,0 +1,1 @@
+{"name": "tw2-recaptcha", "versions": {"0.8": {"version": "0.8", "python_constraint": "*", "released_at": "2013-02-05T01:26:11+00:00", "yanked": false, "dependencies": ["recaptcha-client", "tw2.core"]}}}

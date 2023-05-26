@@ -1,0 +1,1 @@
+{"name": "tgext-minify", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-06-01T23:19:51+00:00", "yanked": false, "dependencies": ["slimit", "TurboGears2 (>=2.0b7)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-06-01T02:02:32+00:00", "yanked": false, "dependencies": ["TurboGears2 (>=2.0b7)"]}}}

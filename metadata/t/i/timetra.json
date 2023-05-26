@@ -1,0 +1,1 @@
+{"name": "timetra", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-01-16T14:07:09+00:00", "yanked": false, "dependencies": ["argh (>=0.22)", "flask (>=0.9)", "hamster_sqlite (>=0.2)", "python (>=2.6)", "urwid (>=1.0)", "wtforms (>=1.0)"]}}}

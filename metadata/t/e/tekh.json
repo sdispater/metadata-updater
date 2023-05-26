@@ -1,0 +1,1 @@
+{"name": "tekh", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-06-06T18:25:49+00:00", "yanked": false, "dependencies": ["PasteScript (>=1.3)", "pyramid"]}}}
