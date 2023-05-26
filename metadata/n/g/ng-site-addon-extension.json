@@ -1,0 +1,1 @@
+{"name": "ng-site-addon-extension", "versions": {"1.1.4": {"version": "1.1.4", "python_constraint": "*", "released_at": "2009-02-13T10:02:14+00:00", "yanked": false, "dependencies": ["ng.app.quota (>=1.0.9)", "ng.ftp", "ng.fuzzytraverser (>=1.0.1)", "ng.kit", "ng.site.addon.extension (>=1.1.4)", "ng.xmlrpcscan", "pd.refchecker", "setuptools"]}}}

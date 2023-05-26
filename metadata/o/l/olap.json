@@ -1,0 +1,1 @@
+{"name": "olap", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2012-11-16T12:33:47+00:00", "yanked": false, "dependencies": ["zope.interface", "zope.schema"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-05-29T14:55:04+00:00", "yanked": false, "dependencies": ["zope.interface", "zope.schema"]}}}

@@ -1,0 +1,1 @@
+{"name": "maluuba-napi", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-11-14T13:23:41+00:00", "yanked": false, "dependencies": ["requests (>=0.14.1)"]}}}

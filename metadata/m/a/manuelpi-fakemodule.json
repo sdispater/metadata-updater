@@ -1,0 +1,1 @@
+{"name": "manuelpi-fakemodule", "versions": {"0.1b1": {"version": "0.1b1", "python_constraint": "*", "released_at": "2009-12-16T02:10:17+00:00", "yanked": false, "dependencies": ["manuel", "setuptools"]}, "0.1a": {"version": "0.1a", "python_constraint": "*", "released_at": "2009-12-10T13:12:08+00:00", "yanked": false, "dependencies": ["manuel", "setuptools"]}}}

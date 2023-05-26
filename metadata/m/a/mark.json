@@ -1,0 +1,1 @@
+{"name": "mark", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-01-18T05:03:07+00:00", "yanked": false, "dependencies": ["argparse", "rdflib"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-01-18T04:18:40+00:00", "yanked": false, "dependencies": ["argparse", "rdflib"]}}}

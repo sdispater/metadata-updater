@@ -1,0 +1,1 @@
+{"name": "medialog-kuliadentheme", "versions": {"1.1dev": {"version": "1.1dev", "python_constraint": "*", "released_at": "2010-04-21T16:11:01+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0dev": {"version": "1.0dev", "python_constraint": "*", "released_at": "2010-04-21T15:52:26+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

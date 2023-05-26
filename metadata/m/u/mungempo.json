@@ -1,0 +1,1 @@
+{"name": "mungempo", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-01-05T13:04:03+00:00", "yanked": false, "dependencies": ["numpy", "PIL (>=1.1.6)"]}}}

@@ -1,0 +1,1 @@
+{"name": "mogilefs-storage", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-08-06T11:21:39+00:00", "yanked": false, "dependencies": ["django (>=1.0)"]}}}

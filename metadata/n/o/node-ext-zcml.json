@@ -1,0 +1,1 @@
+{"name": "node-ext-zcml", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-22T16:31:17+00:00", "yanked": false, "dependencies": ["interlude ; extra == \"test\"", "node.ext.directory", "node.ext.xml", "setuptools", "zope.configuration ; extra == \"test\""]}}}

@@ -1,0 +1,1 @@
+{"name": "niteoweb-transmogrifier-simpleusage", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2010-07-26T00:38:54+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-07-26T00:19:58+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

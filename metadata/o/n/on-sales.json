@@ -1,0 +1,1 @@
+{"name": "on-sales", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2009-06-23T20:15:52+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

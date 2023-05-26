@@ -1,0 +1,1 @@
+{"name": "mobi-interfaces", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-09-13T16:01:34+00:00", "yanked": false, "dependencies": ["zope.interface", "zope.schema"]}}}

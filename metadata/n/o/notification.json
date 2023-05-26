@@ -1,0 +1,1 @@
+{"name": "notification", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2010-03-11T17:21:53+00:00", "yanked": false, "dependencies": []}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-03-11T13:21:21+00:00", "yanked": false, "dependencies": []}}}

@@ -1,0 +1,1 @@
+{"name": "myorg-mypackage", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-04-01T22:26:11+00:00", "yanked": false, "dependencies": ["MySQL-Python", "setuptools", "sqlalchemy (>=0.3,<0.4dev)"]}}}

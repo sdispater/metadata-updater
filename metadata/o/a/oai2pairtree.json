@@ -1,0 +1,1 @@
+{"name": "oai2pairtree", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-08-05T03:46:08+00:00", "yanked": false, "dependencies": ["lxml", "ptree"]}}}

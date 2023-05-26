@@ -1,0 +1,1 @@
+{"name": "mezzanine-polls", "versions": {"0.3.2": {"version": "0.3.2", "python_constraint": "*", "released_at": "2013-03-29T03:00:07+00:00", "yanked": false, "dependencies": ["mezzanine", "setuptools"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2013-03-29T02:41:57+00:00", "yanked": false, "dependencies": ["mezzanine", "setuptools"]}}}

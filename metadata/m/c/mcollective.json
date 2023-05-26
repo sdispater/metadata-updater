@@ -1,0 +1,1 @@
+{"name": "mcollective", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2011-09-07T16:06:02+00:00", "yanked": false, "dependencies": ["M2Crypto", "pyyaml", "stompy"]}, "0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2011-09-06T18:18:14+00:00", "yanked": false, "dependencies": ["M2Crypto", "pyyaml", "stompy"]}}}

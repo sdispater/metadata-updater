@@ -1,0 +1,1 @@
+{"name": "mezzaninehtmlslides", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-01-15T04:34:19+00:00", "yanked": false, "dependencies": ["Mezzanine"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-01-15T01:13:35+00:00", "yanked": false, "dependencies": ["Mezzanine"]}}}

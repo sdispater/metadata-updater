@@ -1,0 +1,1 @@
+{"name": "nd-hopfield", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2008-04-02T08:26:59+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

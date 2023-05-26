@@ -1,0 +1,1 @@
+{"name": "openidprovider-middleware", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-10-26T21:38:43+00:00", "yanked": false, "dependencies": ["Beaker (>=0.7.3)", "Paste (>=1.4)", "python-openid (>=2.1.0)"]}}}

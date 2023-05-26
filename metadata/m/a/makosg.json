@@ -1,0 +1,1 @@
+{"name": "makosg", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2012-11-11T21:17:54+00:00", "yanked": false, "dependencies": ["mako", "sendgrid-python"]}, "0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-11-10T20:21:57+00:00", "yanked": false, "dependencies": ["mako", "sendgrid-python"]}}}

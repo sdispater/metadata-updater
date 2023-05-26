@@ -1,0 +1,1 @@
+{"name": "notch-agent", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2011-11-25T08:18:20+00:00", "yanked": false, "dependencies": ["eventlet (>=0.9.6)", "ipaddr (>=2.0.0)", "jsonrpclib", "mox ; extra == \"test\"", "paramiko (>=1.7.6)", "pexpect", "PyYAML (>=3.0)", "setuptools", "tornado (==1.2.1)"]}}}

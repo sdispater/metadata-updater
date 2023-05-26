@@ -1,0 +1,1 @@
+{"name": "ng-app-skinswitch", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2010-12-09T09:59:23+00:00", "yanked": false, "dependencies": ["ng.lib", "setuptools", "zope.annotation", "zope.app.container", "zope.app.zapi", "zope.component", "zope.interface", "zope.location", "zope.publisher", "zope.schema"]}}}

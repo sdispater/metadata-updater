@@ -1,0 +1,1 @@
+{"name": "moz-addon-packager", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2013-01-18T19:42:30+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-11-26T19:15:49+00:00", "yanked": false, "dependencies": []}}}

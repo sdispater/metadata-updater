@@ -1,0 +1,1 @@
+{"name": "mwlib-cdb", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-10-08T14:17:17+00:00", "yanked": false, "dependencies": ["mwlib (>=0.12.13)"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2012-09-24T14:58:49+00:00", "yanked": false, "dependencies": ["mwlib (>=0.14.0)"]}}}

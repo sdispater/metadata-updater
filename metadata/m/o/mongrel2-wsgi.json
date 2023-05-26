@@ -1,0 +1,1 @@
+{"name": "mongrel2-wsgi", "versions": {"0.3dev": {"version": "0.3dev", "python_constraint": "*", "released_at": "2010-12-01T05:41:13+00:00", "yanked": false, "dependencies": ["eventlet", "PasteDeploy", "PasteScript", "pyzmq"]}}}

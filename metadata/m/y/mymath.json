@@ -1,0 +1,1 @@
+{"name": "mymath", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2011-07-24T15:12:27+00:00", "yanked": false, "dependencies": []}, "1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2011-07-23T19:33:56+00:00", "yanked": false, "dependencies": []}}}

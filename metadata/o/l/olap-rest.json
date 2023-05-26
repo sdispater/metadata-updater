@@ -1,0 +1,1 @@
+{"name": "olap-rest", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-12-11T21:47:27+00:00", "yanked": false, "dependencies": ["cornice", "olap (>=0.3)", "pyramid", "xmla (>=0.6)", "zope.component"]}}}

@@ -1,0 +1,1 @@
+{"name": "ng-skin-crosswiki", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2009-02-13T11:44:08+00:00", "yanked": false, "dependencies": ["ng.adapter (>=0.2.0)", "ng.content.annotation (>=0.1.0)", "ng.content.article (>=1.0.9)", "ng.site.addon.profile (>=1.1.1)", "ng.site.crosswiki (>=0.0.3)", "ng.skin.base (>=0.2.0)", "setuptools"]}}}

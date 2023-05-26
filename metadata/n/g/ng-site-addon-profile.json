@@ -1,0 +1,1 @@
+{"name": "ng-site-addon-profile", "versions": {"1.1.1": {"version": "1.1.1", "python_constraint": "*", "released_at": "2009-02-12T13:21:54+00:00", "yanked": false, "dependencies": ["ng.app.objectqueue (>=0.0.7)", "ng.app.openid (>=0.0.2)", "ng.content.article (>=1.0.9)", "ng.content.profile (>=0.0.4)", "ng.site.content (>=1.1.4)", "setuptools", "zc.catalog"]}}}

@@ -1,0 +1,1 @@
+{"name": "ng-app-link", "versions": {"1.0.0": {"version": "1.0.0", "python_constraint": "*", "released_at": "2008-08-30T22:14:03+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "oauth2-provider", "versions": {"0.0": {"version": "0.0", "python_constraint": "*", "released_at": "2012-09-07T05:31:46+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

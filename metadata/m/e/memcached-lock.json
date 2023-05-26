@@ -1,0 +1,1 @@
+{"name": "memcached-lock", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2010-03-30T10:52:27+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2008-12-27T07:33:45+00:00", "yanked": false, "dependencies": []}}}

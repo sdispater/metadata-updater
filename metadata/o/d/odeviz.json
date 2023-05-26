@@ -1,0 +1,1 @@
+{"name": "odeviz", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-05-02T20:22:32+00:00", "yanked": false, "dependencies": ["PyODE", "PyVTK"]}}}

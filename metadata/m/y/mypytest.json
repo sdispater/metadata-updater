@@ -1,0 +1,1 @@
+{"name": "mypytest", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-01-06T07:12:24+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "mongate", "versions": {"2.1.6": {"version": "2.1.6", "python_constraint": "*", "released_at": "2011-01-08T05:35:30+00:00", "yanked": false, "dependencies": ["httplib2", "pymongo", "simplejson"]}}}

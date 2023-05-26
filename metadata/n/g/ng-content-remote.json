@@ -1,0 +1,1 @@
+{"name": "ng-content-remote", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2008-01-13T08:31:33+00:00", "yanked": false, "dependencies": ["ng.app.remotefs", "ng.content.article", "setuptools", "zope.component", "zope.interface"]}}}

@@ -1,0 +1,1 @@
+{"name": "opencore-listen", "versions": {"0.8.0": {"version": "0.8.0", "python_constraint": "*", "released_at": "2011-05-16T17:13:05+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

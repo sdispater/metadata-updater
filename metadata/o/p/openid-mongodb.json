@@ -1,0 +1,1 @@
+{"name": "openid-mongodb", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-03-16T21:20:00+00:00", "yanked": false, "dependencies": ["pymongo (>=1.9)", "python-openid (>=2.2.4)"]}}}

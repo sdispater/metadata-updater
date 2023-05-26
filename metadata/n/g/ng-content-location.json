@@ -1,0 +1,1 @@
+{"name": "ng-content-location", "versions": {"1.0.3": {"version": "1.0.3", "python_constraint": "*", "released_at": "2009-04-07T23:32:47+00:00", "yanked": false, "dependencies": ["setuptools", "zope.annotation", "zope.app.container", "zope.interface", "zope.location", "zope.schema", "zope.security"]}}}

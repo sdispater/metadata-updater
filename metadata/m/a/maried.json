@@ -1,0 +1,1 @@
+{"name": "maried", "versions": {"0.1.0a2": {"version": "0.1.0a2", "python_constraint": "*", "released_at": "2011-05-11T23:04:56+00:00", "yanked": false, "dependencies": ["docutils (>=0.3)", "joyce (>=0.1.0a2)", "mirte (>=0.1.0a2)", "sarah (>=0.1.0a2)"]}}}

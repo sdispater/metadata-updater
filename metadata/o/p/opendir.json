@@ -1,0 +1,1 @@
+{"name": "opendir", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2008-06-28T17:36:04+00:00", "yanked": false, "dependencies": ["pyrex"]}}}

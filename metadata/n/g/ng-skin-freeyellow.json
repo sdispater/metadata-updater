@@ -1,0 +1,1 @@
+{"name": "ng-skin-freeyellow", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2009-04-07T23:32:07+00:00", "yanked": false, "dependencies": ["ng.content.article", "ng.lib", "ng.skin.base (>=0.2.1)", "zope.app.container", "zope.app.rotterdam", "zope.app.zapi", "zope.interface", "zope.viewlet"]}}}

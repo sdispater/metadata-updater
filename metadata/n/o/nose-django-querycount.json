@@ -1,0 +1,1 @@
+{"name": "nose-django-querycount", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2013-03-13T13:16:35+00:00", "yanked": false, "dependencies": ["django", "nose"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2011-03-15T04:53:38+00:00", "yanked": false, "dependencies": ["django", "nose"]}}}

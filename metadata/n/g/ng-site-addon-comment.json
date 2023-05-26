@@ -1,0 +1,1 @@
+{"name": "ng-site-addon-comment", "versions": {"1.1.2": {"version": "1.1.2", "python_constraint": "*", "released_at": "2009-02-12T13:20:18+00:00", "yanked": false, "dependencies": ["ng.app.converter (>=1.0.7)", "ng.content.comment", "ng.content.profile (>=0.0.4)", "ng.site.content (>=1.1.4)", "setuptools"]}}}

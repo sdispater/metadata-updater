@@ -1,0 +1,1 @@
+{"name": "my-project", "versions": {"0.2dev": {"version": "0.2dev", "python_constraint": "*", "released_at": "2013-05-08T17:47:05+00:00", "yanked": false, "dependencies": ["caipyrinha"]}, "0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2013-05-08T17:46:16+00:00", "yanked": false, "dependencies": ["caipyrinha"]}}}

@@ -1,0 +1,1 @@
+{"name": "ng-site-addon-community", "versions": {"1.1.2": {"version": "1.1.2", "python_constraint": "*", "released_at": "2009-02-13T08:49:53+00:00", "yanked": false, "dependencies": ["ng.app.objectqueue (>=0.0.7)", "ng.content.article (>=1.0.9)", "ng.content.comment (>=0.0.1)", "ng.content.profile (>=0.0.4)", "ng.lib (>=0.0.7)", "ng.site.content (>=1.1.4)", "setuptools"]}}}

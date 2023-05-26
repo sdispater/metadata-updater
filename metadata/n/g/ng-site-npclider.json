@@ -1,0 +1,1 @@
+{"name": "ng-site-npclider", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2009-02-12T13:26:58+00:00", "yanked": false, "dependencies": ["ng.content.annotation", "ng.site.addon.profile (>=1.1.1)", "ng.site.addon.rubricator (>=1.1.2)", "ng.site.addon.tag (>=1.1.1)", "ng.site.content (>=1.1.4)", "ng.skin.npclider (>=0.0.3)", "setuptools"]}}}

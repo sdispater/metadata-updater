@@ -1,0 +1,1 @@
+{"name": "nose-timing", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-03-08T21:58:41+00:00", "yanked": false, "dependencies": ["nose"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-03-08T21:57:52+00:00", "yanked": false, "dependencies": ["nose"]}}}

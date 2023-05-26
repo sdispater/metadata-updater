@@ -1,0 +1,1 @@
+{"name": "mltool", "versions": {"0.6": {"version": "0.6", "python_constraint": "*", "released_at": "2012-04-09T23:12:22+00:00", "yanked": false, "dependencies": ["numpy (>=1.6.1)"]}}}

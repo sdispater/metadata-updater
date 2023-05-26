@@ -1,0 +1,1 @@
+{"name": "msp2plone", "versions": {"0.9b": {"version": "0.9b", "python_constraint": "*", "released_at": "2010-02-03T11:16:45+00:00", "yanked": false, "dependencies": ["lxml", "setuptools", "wsapi4plone.client"]}}}

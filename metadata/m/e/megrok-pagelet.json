@@ -1,0 +1,1 @@
+{"name": "megrok-pagelet", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-03-24T09:38:49+00:00", "yanked": false, "dependencies": ["grok", "grokcore.component", "martian", "setuptools", "z3c.template"]}}}

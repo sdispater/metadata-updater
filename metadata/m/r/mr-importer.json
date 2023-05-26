@@ -1,0 +1,1 @@
+{"name": "mr-importer", "versions": {"1.0a5": {"version": "1.0a5", "python_constraint": "*", "released_at": "2011-02-06T05:21:19+00:00", "yanked": false, "dependencies": ["BeautifulSoup", "lxml", "Plone ; extra == \"tests\"", "xlrd", "zc.buildout", "zope.testing ; extra == \"tests\""]}}}

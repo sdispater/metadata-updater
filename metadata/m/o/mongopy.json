@@ -1,0 +1,1 @@
+{"name": "mongopy", "versions": {"0.01": {"version": "0.01", "python_constraint": "*", "released_at": "2012-09-11T18:34:10+00:00", "yanked": false, "dependencies": ["nose"]}}}

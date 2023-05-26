@@ -1,0 +1,1 @@
+{"name": "metals", "versions": {"0.1.1dev": {"version": "0.1.1dev", "python_constraint": "*", "released_at": "2010-11-05T00:21:48+00:00", "yanked": false, "dependencies": ["imdbpy", "sqlalchemy", "termcolor"]}}}

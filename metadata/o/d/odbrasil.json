@@ -1,0 +1,1 @@
+{"name": "odbrasil", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-06-30T23:54:04+00:00", "yanked": false, "dependencies": ["pandas (>=0.8.0)", "requests (>=0.13.0)"]}}}

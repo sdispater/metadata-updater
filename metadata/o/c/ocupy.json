@@ -1,0 +1,1 @@
+{"name": "ocupy", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-05-25T17:51:01+00:00", "yanked": false, "dependencies": ["matplotlib ; extra == \"doc\"", "numpy", "PIL", "scipy", "sphinx ; extra == \"doc\""]}}}

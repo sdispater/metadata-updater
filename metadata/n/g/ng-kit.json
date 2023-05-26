@@ -1,0 +1,1 @@
+{"name": "ng-kit", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2008-07-05T12:20:08+00:00", "yanked": false, "dependencies": ["setuptools", "zope.component", "zope.interface"]}}}

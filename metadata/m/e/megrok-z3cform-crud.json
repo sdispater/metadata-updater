@@ -1,0 +1,1 @@
+{"name": "megrok-z3cform-crud", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-07-09T02:38:30+00:00", "yanked": false, "dependencies": ["grokcore.component", "grokcore.view", "megrok.z3cform.base", "setuptools", "z3c.batching", "z3c.form (>=2.1)"]}}}

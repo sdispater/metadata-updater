@@ -1,0 +1,1 @@
+{"name": "multirepo", "versions": {"1.0rc2": {"version": "1.0rc2", "python_constraint": "*", "released_at": "2010-12-29T19:23:19+00:00", "yanked": false, "dependencies": []}, "1.0rc1": {"version": "1.0rc1", "python_constraint": "*", "released_at": "2010-12-19T20:30:29+00:00", "yanked": false, "dependencies": []}}}

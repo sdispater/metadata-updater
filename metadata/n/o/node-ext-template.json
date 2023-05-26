@@ -1,0 +1,1 @@
+{"name": "node-ext-template", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-22T16:46:33+00:00", "yanked": false, "dependencies": ["Chameleon", "interlude ; extra == \"test\"", "jinja2", "node", "node.ext.directory", "plumber", "setuptools", "zope.configuration ; extra == \"test\"", "zope.documenttemplate", "zope.interface"]}}}

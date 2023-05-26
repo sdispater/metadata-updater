@@ -1,0 +1,1 @@
+{"name": "ng-app-mailform", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2009-08-16T15:03:09+00:00", "yanked": false, "dependencies": ["ng.app.mailfeed (>=0.0.2)", "ng.base.form (>=0.0.3)", "setuptools", "zope.annotation", "zope.app.container", "zope.app.zapi", "zope.component", "zope.interface", "zope.schema"]}}}

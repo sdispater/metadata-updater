@@ -1,0 +1,1 @@
+{"name": "metonym", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-02-07T20:12:38+00:00", "yanked": false, "dependencies": ["networkx (>=1.5)", "nltk (>=2.0.1rc1)"]}}}

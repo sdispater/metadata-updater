@@ -1,0 +1,1 @@
+{"name": "oc-js", "versions": {"0.8": {"version": "0.8", "python_constraint": "*", "released_at": "2010-11-28T14:11:43+00:00", "yanked": false, "dependencies": ["topp.utils (>=0.2.8.9)"]}, "0.7": {"version": "0.7", "python_constraint": "*", "released_at": "2009-11-05T18:14:09+00:00", "yanked": false, "dependencies": ["topp.utils (>=0.2.8.9)"]}}}

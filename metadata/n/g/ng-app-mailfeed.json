@@ -1,0 +1,1 @@
+{"name": "ng-app-mailfeed", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2009-08-16T15:35:22+00:00", "yanked": false, "dependencies": ["ng.app.converter (>=1.0.8)", "ng.lib", "setuptools"]}}}

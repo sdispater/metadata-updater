@@ -1,0 +1,1 @@
+{"name": "mongomem", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-01-14T01:32:48+00:00", "yanked": false, "dependencies": ["argparse (==1.2.1)", "pymongo"]}}}

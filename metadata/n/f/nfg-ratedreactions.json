@@ -1,0 +1,1 @@
+{"name": "nfg-ratedreactions", "versions": {"1.0dev": {"version": "1.0dev", "python_constraint": "*", "released_at": "2009-10-02T14:43:12+00:00", "yanked": false, "dependencies": ["collective.lead (==1.0)", "five.intid (==0.4.2)", "pysqlite (==2.5.5)", "setuptools"]}}}

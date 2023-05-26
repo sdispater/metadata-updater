@@ -1,0 +1,1 @@
+{"name": "mikado-oss-doctest-additions", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2012-08-15T12:45:12+00:00", "yanked": false, "dependencies": ["unittest-xml-reporting"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2012-08-15T11:34:26+00:00", "yanked": false, "dependencies": ["unittest-xml-reporting"]}}}

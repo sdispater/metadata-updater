@@ -1,0 +1,1 @@
+{"name": "ng-index-area", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2009-04-07T23:33:03+00:00", "yanked": false, "dependencies": ["setuptools", "zope.app.catalog", "zope.app.container", "zope.app.intid", "zope.component", "zope.index", "zope.interface", "zope.location", "zope.schema"]}}}

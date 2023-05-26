@@ -1,0 +1,1 @@
+{"name": "megrok-trails", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2008-07-17T00:47:31+00:00", "yanked": false, "dependencies": ["grok", "setuptools"]}}}

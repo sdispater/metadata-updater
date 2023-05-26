@@ -1,0 +1,1 @@
+{"name": "mk-recipe-modwsgi", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-05-02T21:58:52+00:00", "yanked": false, "dependencies": ["setuptools", "zc.recipe.egg"]}}}

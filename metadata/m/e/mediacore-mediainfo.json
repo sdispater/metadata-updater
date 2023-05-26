@@ -1,0 +1,1 @@
+{"name": "mediacore-mediainfo", "versions": {"0.9.3": {"version": "0.9.3", "python_constraint": "*", "released_at": "2013-05-15T10:01:59+00:00", "yanked": false, "dependencies": ["Mediacore", "setuptools"]}}}

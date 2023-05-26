@@ -1,0 +1,1 @@
+{"name": "mlmmj-archiver", "versions": {"0.1bdev": {"version": "0.1bdev", "python_constraint": "*", "released_at": "2013-01-22T12:37:51+00:00", "yanked": false, "dependencies": ["PyYAML"]}, "0.1dev": {"version": "0.1dev", "python_constraint": "*", "released_at": "2012-03-06T21:05:07+00:00", "yanked": false, "dependencies": ["PyYAML"]}}}

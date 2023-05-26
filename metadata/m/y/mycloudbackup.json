@@ -1,0 +1,1 @@
+{"name": "mycloudbackup", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-03-18T14:49:34+00:00", "yanked": false, "dependencies": ["dropbox", "evernote", "facebook-sdk", "gitpython", "oauth2", "pyyaml", "requests"]}}}

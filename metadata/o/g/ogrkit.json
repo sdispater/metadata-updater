@@ -1,0 +1,1 @@
+{"name": "ogrkit", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2011-07-30T00:07:59+00:00", "yanked": false, "dependencies": ["GDAL (==1.6.0)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-07-28T16:12:10+00:00", "yanked": false, "dependencies": ["GDAL (==1.6.0)"]}}}

@@ -1,0 +1,1 @@
+{"name": "multi-registry", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2011-09-15T17:27:06+00:00", "yanked": false, "dependencies": ["import-utils"]}}}
