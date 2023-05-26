@@ -1,0 +1,1 @@
+{"name": "django-iso3166", "versions": {"10.1.1": {"version": "10.1.1", "python_constraint": "*", "released_at": "2010-01-26T13:09:22+00:00", "yanked": false, "dependencies": ["setuptools"]}, "10.1": {"version": "10.1", "python_constraint": "*", "released_at": "2010-01-26T11:55:33+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

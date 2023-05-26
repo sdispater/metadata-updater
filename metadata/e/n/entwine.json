@@ -1,0 +1,1 @@
+{"name": "entwine", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2008-03-13T20:14:33+00:00", "yanked": false, "dependencies": ["ConfigObj", "rdflib", "setuptools"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2008-03-13T17:56:01+00:00", "yanked": false, "dependencies": ["ConfigObj", "setuptools"]}}}

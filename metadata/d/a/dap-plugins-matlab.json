@@ -1,0 +1,1 @@
+{"name": "dap-plugins-matlab", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2006-11-06T16:28:33+00:00", "yanked": false, "dependencies": ["arrayterator (>=0.2.4)", "dap[server] (>=2.2.4)"]}}}

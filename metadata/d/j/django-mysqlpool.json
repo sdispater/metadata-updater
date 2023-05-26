@@ -1,0 +1,1 @@
+{"name": "django-mysqlpool", "versions": {"0.1-9": {"version": "0.1-9", "python_constraint": "*", "released_at": "2013-06-24T18:21:08+00:00", "yanked": false, "dependencies": []}, "0.1-8": {"version": "0.1-8", "python_constraint": "*", "released_at": "2013-03-27T15:26:56+00:00", "yanked": false, "dependencies": []}}}

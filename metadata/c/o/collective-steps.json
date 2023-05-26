@@ -1,0 +1,1 @@
+{"name": "collective-steps", "versions": {"0.3": {"version": "0.3", "python_constraint": "*", "released_at": "2010-04-21T22:36:23+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-10-06T10:05:32+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

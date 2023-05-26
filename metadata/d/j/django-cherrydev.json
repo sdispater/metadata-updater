@@ -1,0 +1,1 @@
+{"name": "django-cherrydev", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-10-20T07:03:26+00:00", "yanked": false, "dependencies": ["CherryPy (>=3.1)"]}}}

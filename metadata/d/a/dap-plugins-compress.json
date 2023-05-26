@@ -1,0 +1,1 @@
+{"name": "dap-plugins-compress", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2008-05-14T16:56:51+00:00", "yanked": false, "dependencies": ["dap[server] (>=2.2.6)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-05-06T18:37:51+00:00", "yanked": false, "dependencies": ["dap[server] (>=2.2.6)"]}}}
