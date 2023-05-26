@@ -1,0 +1,1 @@
+{"name": "pydomain", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2013-01-07T07:57:05+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-01-06T09:11:20+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

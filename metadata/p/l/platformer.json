@@ -1,0 +1,1 @@
+{"name": "platformer", "versions": {"1.0-dev2": {"version": "1.0-dev2", "python_constraint": "*", "released_at": "2012-05-22T14:27:34+00:00", "yanked": false, "dependencies": ["py"]}, "1.0-dev": {"version": "1.0-dev", "python_constraint": "*", "released_at": "2012-05-21T15:12:12+00:00", "yanked": false, "dependencies": ["py"]}}}

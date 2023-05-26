@@ -1,0 +1,1 @@
+{"name": "py2facer", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2011-03-20T04:01:55+00:00", "yanked": false, "dependencies": ["flickrapi", "PIL", "sqlalchemy"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2011-03-17T06:32:17+00:00", "yanked": false, "dependencies": ["flickrapi", "PIL", "sqlalchemy"]}}}

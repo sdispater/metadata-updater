@@ -1,0 +1,1 @@
+{"name": "p01-securitypolicy", "versions": {"0.5.0": {"version": "0.5.0", "python_constraint": "*", "released_at": "2012-11-18T22:50:53+00:00", "yanked": false, "dependencies": ["setuptools", "zope.component", "zope.interface", "zope.securitypolicy", "zope.testing ; extra == \"test\""]}}}

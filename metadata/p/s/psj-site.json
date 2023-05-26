@@ -1,0 +1,1 @@
+{"name": "psj-site", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-12-09T08:41:30+00:00", "yanked": false, "dependencies": ["elementtree", "lxml", "Products.ATVocabularyManager", "Products.FacultyStaffDirectory", "Products.LinguaPlone", "Products.membrane", "psj.content", "psj.policy", "setuptools", "ulif.plone.testsetup"]}}}

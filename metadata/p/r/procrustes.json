@@ -1,0 +1,1 @@
+{"name": "procrustes", "versions": {"0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2011-10-17T18:07:39+00:00", "yanked": false, "dependencies": ["ordereddict"]}, "0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2011-09-06T14:35:58+00:00", "yanked": false, "dependencies": ["ordereddict"]}}}

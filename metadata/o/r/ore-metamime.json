@@ -1,0 +1,1 @@
+{"name": "ore-metamime", "versions": {"0.1.4": {"version": "0.1.4", "python_constraint": "*", "released_at": "2009-06-23T13:00:04+00:00", "yanked": false, "dependencies": ["hachoir-core", "hachoir-metadata", "hachoir-parser", "setuptools", "zope.component", "zope.filerepresentation"]}}}

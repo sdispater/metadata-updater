@@ -1,0 +1,1 @@
+{"name": "panya-calendar", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2011-03-28T11:05:34+00:00", "yanked": false, "dependencies": ["panya"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2010-08-03T12:04:35+00:00", "yanked": false, "dependencies": ["panya"]}}}

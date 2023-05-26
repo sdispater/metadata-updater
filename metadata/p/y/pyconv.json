@@ -1,0 +1,1 @@
+{"name": "pyconv", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-11-21T12:39:14+00:00", "yanked": false, "dependencies": ["chardet"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-06T17:51:56+00:00", "yanked": false, "dependencies": ["chardet"]}}}

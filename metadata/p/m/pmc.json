@@ -1,0 +1,1 @@
+{"name": "pmc", "versions": {"0.2.0": {"version": "0.2.0", "python_constraint": "*", "released_at": "2010-09-24T18:10:35+00:00", "yanked": false, "dependencies": []}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2010-07-16T13:27:52+00:00", "yanked": false, "dependencies": []}}}

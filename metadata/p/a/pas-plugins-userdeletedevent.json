@@ -1,0 +1,1 @@
+{"name": "pas-plugins-userdeletedevent", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2010-11-12T13:59:09+00:00", "yanked": false, "dependencies": ["Products.PlonePAS", "Products.PluggableAuthService", "setuptools", "zope.testing ; extra == \"tests\""]}}}

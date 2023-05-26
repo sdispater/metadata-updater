@@ -1,0 +1,1 @@
+{"name": "pascut", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2009-06-29T12:22:21+00:00", "yanked": false, "dependencies": ["plugpy (>=0.2.1)", "werkzeug (>=0.5)"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-06-29T08:55:24+00:00", "yanked": false, "dependencies": ["plugpy (>=0.2.1)", "werkzeug (>=0.5)"]}}}

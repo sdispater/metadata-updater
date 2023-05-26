@@ -1,0 +1,1 @@
+{"name": "prdg-zope-permissions", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2009-04-27T18:52:39+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

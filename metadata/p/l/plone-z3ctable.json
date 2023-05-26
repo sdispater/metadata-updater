@@ -1,0 +1,1 @@
+{"name": "plone-z3ctable", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-03-26T11:19:20+00:00", "yanked": false, "dependencies": ["setuptools", "z3c.table"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-06-24T22:55:41+00:00", "yanked": false, "dependencies": ["setuptools", "z3c.table"]}}}

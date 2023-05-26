@@ -1,0 +1,1 @@
+{"name": "pydiscovery", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-02-20T17:17:57+00:00", "yanked": false, "dependencies": ["gevent (==1.0rc2)"]}}}

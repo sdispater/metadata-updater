@@ -1,0 +1,1 @@
+{"name": "ploneorg-kudobounty", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-05-14T02:32:12+00:00", "yanked": false, "dependencies": ["collective.portlet.collectionmultiview", "plone.i18n", "Products.ContentWellPortlets", "Products.PloneFormGen", "setuptools", "zope.testing ; extra == \"tests\""]}}}

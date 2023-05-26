@@ -1,0 +1,1 @@
+{"name": "podcast", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2012-07-14T10:01:46+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-07-14T10:00:16+00:00", "yanked": false, "dependencies": []}}}

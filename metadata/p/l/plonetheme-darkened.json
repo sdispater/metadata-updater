@@ -1,0 +1,1 @@
+{"name": "plonetheme-darkened", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2011-06-18T12:19:46+00:00", "yanked": false, "dependencies": ["plone.app.theming", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "py3support", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-01-05T19:28:41+00:00", "yanked": false, "dependencies": ["docopt", "requests"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-01-05T19:11:22+00:00", "yanked": false, "dependencies": []}}}

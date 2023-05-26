@@ -1,0 +1,1 @@
+{"name": "ponzi-evolution", "versions": {"0.8998": {"version": "0.8998", "python_constraint": "*", "released_at": "2010-12-05T21:52:08+00:00", "yanked": false, "dependencies": ["repoze.evolution", "SQLAlchemy"]}, "0.0": {"version": "0.0", "python_constraint": "*", "released_at": "2010-12-03T05:38:22+00:00", "yanked": false, "dependencies": ["repoze.evolution", "SQLAlchemy"]}}}

@@ -1,0 +1,1 @@
+{"name": "pas-plugins-external-auth", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-07-19T08:54:11+00:00", "yanked": false, "dependencies": ["pas.cmfextensions.update_steps", "Products.PluggableAuthService", "setuptools"]}}}

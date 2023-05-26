@@ -1,0 +1,1 @@
+{"name": "pycontrol", "versions": {"2.1": {"version": "2.1", "python_constraint": "*", "released_at": "2012-10-26T21:47:33+00:00", "yanked": false, "dependencies": ["distribute", "suds (>=0.3.9)"]}}}

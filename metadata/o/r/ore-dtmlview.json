@@ -1,0 +1,1 @@
+{"name": "ore-dtmlview", "versions": {"0.6.1": {"version": "0.6.1", "python_constraint": "*", "released_at": "2008-10-31T17:57:58+00:00", "yanked": false, "dependencies": ["zope.component", "zope.documenttemplate"]}, "0.6.0": {"version": "0.6.0", "python_constraint": "*", "released_at": "2008-10-31T15:39:56+00:00", "yanked": false, "dependencies": []}}}

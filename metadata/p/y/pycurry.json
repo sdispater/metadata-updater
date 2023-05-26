@@ -1,0 +1,1 @@
+{"name": "pycurry", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2009-10-25T12:52:44+00:00", "yanked": false, "dependencies": ["decorator (>=3)"]}}}

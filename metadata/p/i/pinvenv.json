@@ -1,0 +1,1 @@
+{"name": "pinvenv", "versions": {"0.1rc1": {"version": "0.1rc1", "python_constraint": "*", "released_at": "2011-04-15T17:55:31+00:00", "yanked": false, "dependencies": ["capn", "virtualenv"]}}}

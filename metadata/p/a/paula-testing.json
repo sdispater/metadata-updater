@@ -1,0 +1,1 @@
+{"name": "paula-testing", "versions": {"0.81": {"version": "0.81", "python_constraint": "*", "released_at": "2008-08-27T08:17:16+00:00", "yanked": false, "dependencies": ["setuptools", "zope.app.testing", "zope.component", "zope.testing"]}}}

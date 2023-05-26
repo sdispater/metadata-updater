@@ -1,0 +1,1 @@
+{"name": "py-elevator", "versions": {"0.5c": {"version": "0.5c", "python_constraint": "*", "released_at": "2013-03-28T09:46:45+00:00", "yanked": false, "dependencies": ["lz4", "msgpack-python", "pyzmq (==13.0.2)"]}}}

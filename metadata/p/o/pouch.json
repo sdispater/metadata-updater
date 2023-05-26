@@ -1,0 +1,1 @@
+{"name": "pouch", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2008-09-19T18:28:44+00:00", "yanked": false, "dependencies": ["simplejson"]}, "0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2008-09-19T18:27:20+00:00", "yanked": false, "dependencies": ["iso8601", "simplejson"]}}}

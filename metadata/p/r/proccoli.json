@@ -1,0 +1,1 @@
+{"name": "proccoli", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2013-02-02T02:09:32+00:00", "yanked": false, "dependencies": ["mock (>=1.0)"]}, "0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-01-10T04:21:07+00:00", "yanked": false, "dependencies": []}}}

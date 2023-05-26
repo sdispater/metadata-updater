@@ -1,0 +1,1 @@
+{"name": "plone-postpublicationhook", "versions": {"1.1": {"version": "1.1", "python_constraint": "*", "released_at": "2010-06-08T21:09:50+00:00", "yanked": false, "dependencies": ["setuptools", "zope.event", "zope.interface", "zope.security", "ZPublisherEventsBackport ; extra == \"Zope2.10\""]}}}

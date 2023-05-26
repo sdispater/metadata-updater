@@ -1,0 +1,1 @@
+{"name": "panya-competition", "versions": {"0.0.4": {"version": "0.0.4", "python_constraint": "*", "released_at": "2010-08-04T09:50:20+00:00", "yanked": false, "dependencies": ["panya"]}, "0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2010-08-03T12:15:16+00:00", "yanked": false, "dependencies": ["panya"]}}}

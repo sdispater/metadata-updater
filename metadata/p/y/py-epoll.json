@@ -1,0 +1,1 @@
+{"name": "py-epoll", "versions": {"1.2.1": {"version": "1.2.1", "python_constraint": "*", "released_at": "2008-04-09T06:59:51+00:00", "yanked": false, "dependencies": []}, "1.2": {"version": "1.2", "python_constraint": "*", "released_at": "2008-03-29T09:36:36+00:00", "yanked": false, "dependencies": []}}}

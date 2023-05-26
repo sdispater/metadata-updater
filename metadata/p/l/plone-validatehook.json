@@ -1,0 +1,1 @@
+{"name": "plone-validatehook", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2008-10-15T08:15:12+00:00", "yanked": false, "dependencies": ["setuptools", "zope.component", "zope.event", "zope.interface"]}}}

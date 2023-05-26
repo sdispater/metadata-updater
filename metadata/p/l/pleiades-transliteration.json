@@ -1,0 +1,1 @@
+{"name": "pleiades-transliteration", "versions": {"0.5": {"version": "0.5", "python_constraint": "*", "released_at": "2011-03-07T23:21:44+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2010-07-08T12:52:38+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

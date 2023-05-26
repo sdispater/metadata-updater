@@ -1,0 +1,1 @@
+{"name": "pydataportability-xrd", "versions": {"0.4": {"version": "0.4", "python_constraint": "*", "released_at": "2009-10-12T12:04:49+00:00", "yanked": false, "dependencies": ["elementtree", "pydataportability.model.resource", "setuptools", "zope.interface"]}}}

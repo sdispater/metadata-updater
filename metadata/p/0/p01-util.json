@@ -1,0 +1,1 @@
+{"name": "p01-util", "versions": {"0.5.0": {"version": "0.5.0", "python_constraint": "*", "released_at": "2012-11-16T14:21:58+00:00", "yanked": false, "dependencies": ["setuptools", "zope.component", "zope.testing ; extra == \"test\""]}}}

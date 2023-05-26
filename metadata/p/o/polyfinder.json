@@ -1,0 +1,1 @@
+{"name": "polyfinder", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-09-17T04:26:40+00:00", "yanked": false, "dependencies": ["python-omgeo (==1.4.4)"]}}}

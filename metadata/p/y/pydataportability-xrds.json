@@ -1,0 +1,1 @@
+{"name": "pydataportability-xrds", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2009-09-08T16:35:06+00:00", "yanked": false, "dependencies": ["elementtree", "setuptools"]}}}

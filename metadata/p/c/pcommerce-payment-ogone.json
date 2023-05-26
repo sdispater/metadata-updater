@@ -1,0 +1,1 @@
+{"name": "pcommerce-payment-ogone", "versions": {"1.0a2": {"version": "1.0a2", "python_constraint": "*", "released_at": "2012-06-13T10:25:39+00:00", "yanked": false, "dependencies": ["pcommerce.core (>0.4)", "plone.app.registry", "setuptools"]}}}

@@ -1,0 +1,1 @@
+{"name": "p01-vocabulary-legacy", "versions": {"0.5.0": {"version": "0.5.0", "python_constraint": "*", "released_at": "2012-11-17T05:09:10+00:00", "yanked": false, "dependencies": ["setuptools", "zope.component", "zope.i18nmessageid", "zope.schema", "zope.testing ; extra == \"test\""]}}}

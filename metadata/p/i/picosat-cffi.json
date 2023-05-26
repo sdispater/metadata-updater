@@ -1,0 +1,1 @@
+{"name": "picosat-cffi", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2013-05-10T02:53:46+00:00", "yanked": false, "dependencies": ["cffi (>=0.6)"]}}}

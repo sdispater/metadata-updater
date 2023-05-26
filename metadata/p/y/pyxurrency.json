@@ -1,0 +1,1 @@
+{"name": "pyxurrency", "versions": {"0.0.1": {"version": "0.0.1", "python_constraint": "*", "released_at": "2011-03-01T05:07:05+00:00", "yanked": false, "dependencies": ["minimock ; extra == \"test\"", "Nose ; extra == \"test\"", "pep8 ; extra == \"test\""]}}}

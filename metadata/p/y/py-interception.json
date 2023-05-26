@@ -1,0 +1,1 @@
+{"name": "py-interception", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-10-09T20:37:20+00:00", "yanked": false, "dependencies": ["py_di (>=1.0)", "py_sdag2 (>=1.0)"]}}}

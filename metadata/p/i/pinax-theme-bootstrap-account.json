@@ -1,0 +1,1 @@
+{"name": "pinax-theme-bootstrap-account", "versions": {"1.0b2": {"version": "1.0b2", "python_constraint": "*", "released_at": "2012-07-25T00:59:23+00:00", "yanked": false, "dependencies": ["django-appconf (==0.5)"]}, "1.0b1": {"version": "1.0b1", "python_constraint": "*", "released_at": "2012-07-23T10:00:25+00:00", "yanked": false, "dependencies": ["django-appconf (==0.5)"]}}}

@@ -1,0 +1,1 @@
+{"name": "pybbm-extensions", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-01-11T18:28:15+00:00", "yanked": false, "dependencies": ["django", "pybbm"]}}}

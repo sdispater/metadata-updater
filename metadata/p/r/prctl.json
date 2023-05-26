@@ -1,0 +1,1 @@
+{"name": "prctl", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2010-06-15T20:01:50+00:00", "yanked": false, "dependencies": []}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-06-15T19:10:55+00:00", "yanked": false, "dependencies": []}}}

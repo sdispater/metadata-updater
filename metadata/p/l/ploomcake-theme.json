@@ -1,0 +1,1 @@
+{"name": "ploomcake-theme", "versions": {"1.8": {"version": "1.8", "python_constraint": "*", "released_at": "2012-10-03T14:20:00+00:00", "yanked": false, "dependencies": ["redomino.breadcrumbsbrain", "redomino.css3theme (>=1.3)", "setuptools"]}}}

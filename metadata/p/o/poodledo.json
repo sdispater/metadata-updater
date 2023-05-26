@@ -1,0 +1,1 @@
+{"name": "poodledo", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-11-05T06:11:50+00:00", "yanked": false, "dependencies": ["parsedatetime", "python-dateutil"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-11-05T05:24:16+00:00", "yanked": false, "dependencies": ["parsedatetime", "python-dateutil"]}}}

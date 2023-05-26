@@ -1,0 +1,1 @@
+{"name": "plone-principalsource", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2013-06-04T22:45:55+00:00", "yanked": false, "dependencies": ["Products.CMFCore", "Products.PluggableAuthService", "setuptools", "z3c.formwidget.query", "zope.component", "zope.interface", "zope.schema"]}}}

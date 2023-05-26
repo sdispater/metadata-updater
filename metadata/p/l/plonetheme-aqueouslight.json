@@ -1,0 +1,1 @@
+{"name": "plonetheme-aqueouslight", "versions": {"1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2012-04-11T09:34:02+00:00", "yanked": false, "dependencies": ["plone.app.theming", "setuptools"]}}}

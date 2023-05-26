@@ -1,0 +1,1 @@
+{"name": "plone-mail", "versions": {"0.1.1": {"version": "0.1.1", "python_constraint": "*", "released_at": "2012-01-24T17:00:21+00:00", "yanked": false, "dependencies": ["setuptools"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2009-07-12T01:01:37+00:00", "yanked": false, "dependencies": ["setuptools"]}}}

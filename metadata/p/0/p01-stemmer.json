@@ -1,0 +1,1 @@
+{"name": "p01-stemmer", "versions": {"0.5.0": {"version": "0.5.0", "python_constraint": "*", "released_at": "2012-11-22T14:54:02+00:00", "yanked": false, "dependencies": ["guess-language", "setuptools", "zope.interface", "zope.testing ; extra == \"test\""]}}}

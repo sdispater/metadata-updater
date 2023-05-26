@@ -1,0 +1,1 @@
+{"name": "pygallerid", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-02-01T14:51:13+00:00", "yanked": false, "dependencies": ["PIL", "pyramid", "pyramid_beaker", "pyramid_debugtoolbar", "pyramid_tm", "pyramid_zodbconn", "python-dateutil (==1.5)", "repoze.evolution", "transaction", "ZODB3"]}}}

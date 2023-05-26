@@ -1,0 +1,1 @@
+{"name": "potato", "versions": {"0.0.2": {"version": "0.0.2", "python_constraint": "*", "released_at": "2011-04-24T02:41:56+00:00", "yanked": false, "dependencies": ["zope.interface"]}}}

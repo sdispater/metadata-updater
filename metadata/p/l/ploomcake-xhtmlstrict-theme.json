@@ -1,0 +1,1 @@
+{"name": "ploomcake-xhtmlstrict-theme", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2012-10-03T15:42:26+00:00", "yanked": false, "dependencies": ["ploomcake.theme", "setuptools"]}}}

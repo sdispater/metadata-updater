@@ -1,0 +1,1 @@
+{"name": "p01-vocabulary-cache", "versions": {"0.5.0": {"version": "0.5.0", "python_constraint": "*", "released_at": "2012-11-17T05:08:29+00:00", "yanked": false, "dependencies": ["setuptools", "zope.component", "zope.i18n", "zope.publisher ; extra == \"test\"", "zope.schema", "zope.security", "zope.testing ; extra == \"test\""]}}}

@@ -1,0 +1,1 @@
+{"name": "plone-introspector", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2008-10-24T16:06:13+00:00", "yanked": false, "dependencies": ["setuptools", "zope.introspector", "zope.introspectorui"]}}}

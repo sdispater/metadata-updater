@@ -1,0 +1,1 @@
+{"name": "ore-xd", "versions": {"0.5.1": {"version": "0.5.1", "python_constraint": "*", "released_at": "2008-12-11T19:15:20+00:00", "yanked": false, "dependencies": ["python_dateutil", "setuptools"]}, "0.5.0": {"version": "0.5.0", "python_constraint": "*", "released_at": "2008-01-22T22:23:57+00:00", "yanked": false, "dependencies": ["dateutil", "setuptools"]}}}

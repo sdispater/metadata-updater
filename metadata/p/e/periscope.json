@@ -1,0 +1,1 @@
+{"name": "periscope", "versions": {"0.2.4": {"version": "0.2.4", "python_constraint": "*", "released_at": "2011-07-07T23:01:47+00:00", "yanked": false, "dependencies": ["BeautifulSoup (>=3.2.0)"]}, "0.2.1": {"version": "0.2.1", "python_constraint": "*", "released_at": "2011-05-22T20:20:19+00:00", "yanked": false, "dependencies": ["BeautifulSoup (>=3.2.0)"]}}}

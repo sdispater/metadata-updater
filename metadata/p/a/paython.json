@@ -1,0 +1,1 @@
+{"name": "paython", "versions": {"0.0.3": {"version": "0.0.3", "python_constraint": "*", "released_at": "2012-09-24T09:25:09+00:00", "yanked": false, "dependencies": ["samurai (==0.6)", "stripe (==1.7.4)", "suds (==0.4)"]}}}

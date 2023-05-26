@@ -1,0 +1,1 @@
+{"name": "ptahcrowd", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2012-11-08T19:33:38+00:00", "yanked": false, "dependencies": ["ptah (>=0.8.0)", "requests (>=0.6.6)", "setuptools"]}}}

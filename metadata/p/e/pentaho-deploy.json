@@ -1,0 +1,1 @@
+{"name": "pentaho-deploy", "versions": {"0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2011-09-13T01:24:14+00:00", "yanked": false, "dependencies": ["fabric (>=1.2)", "urlgrabber (==3.1.0)"]}}}

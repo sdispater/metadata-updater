@@ -1,0 +1,1 @@
+{"name": "plonesocial-auth-rpx", "versions": {"0.815": {"version": "0.815", "python_constraint": "*", "released_at": "2010-03-15T19:31:18+00:00", "yanked": false, "dependencies": ["setuptools", "simplejson", "zope.testing ; extra == \"tests\""]}}}

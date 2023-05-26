@@ -1,0 +1,1 @@
+{"name": "pastables", "versions": {"0.0": {"version": "0.0", "python_constraint": "*", "released_at": "2010-08-19T19:13:22+00:00", "yanked": false, "dependencies": ["PasteDeploy", "WebOb"]}}}

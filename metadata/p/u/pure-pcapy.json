@@ -1,0 +1,1 @@
+{"name": "pure-pcapy", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2010-08-22T15:01:20+00:00", "yanked": false, "dependencies": ["setuptools"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2010-08-21T04:38:28+00:00", "yanked": false, "dependencies": []}}}

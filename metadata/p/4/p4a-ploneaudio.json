@@ -1,0 +1,1 @@
+{"name": "p4a-ploneaudio", "versions": {"1.0.1": {"version": "1.0.1", "python_constraint": "*", "released_at": "2007-11-27T15:19:49+00:00", "yanked": false, "dependencies": ["p4a.audio (>=1.0)"]}, "1.0": {"version": "1.0", "python_constraint": "*", "released_at": "2007-10-14T09:53:26+00:00", "yanked": false, "dependencies": ["p4a.audio (>=1.0)"]}}}

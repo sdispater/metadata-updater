@@ -1,0 +1,1 @@
+{"name": "periodic", "versions": {"2.1.1": {"version": "2.1.1", "python_constraint": "*", "released_at": "2012-05-26T03:48:28+00:00", "yanked": false, "dependencies": ["SQLAlchemy (==0.7.7)"]}, "2.0": {"version": "2.0", "python_constraint": "*", "released_at": "2012-04-22T22:28:10+00:00", "yanked": false, "dependencies": []}}}
