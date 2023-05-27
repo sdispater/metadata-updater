@@ -1,0 +1,1 @@
+{"name": "unholster-django-lookup", "versions": {"0.1.0": {"version": "0.1.0", "python_constraint": "*", "released_at": "2013-12-10T15:41:38+00:00", "yanked": false, "dependencies": ["Unidecode"]}}}

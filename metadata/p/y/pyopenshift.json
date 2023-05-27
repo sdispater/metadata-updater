@@ -1,0 +1,1 @@
+{"name": "pyopenshift", "versions": {"0.2": {"version": "0.2", "python_constraint": "*", "released_at": "2013-12-12T02:33:20+00:00", "yanked": false, "dependencies": ["requests"]}, "0.1": {"version": "0.1", "python_constraint": "*", "released_at": "2013-12-03T13:47:47+00:00", "yanked": false, "dependencies": ["requests"]}}}
